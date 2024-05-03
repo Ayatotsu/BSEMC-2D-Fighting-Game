@@ -1478,7 +1478,7 @@ RectTransform:
   m_GameObject: {fileID: 553993351}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.81438, y: 0.81438, z: 0.81438}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2090499042}
@@ -1504,7 +1504,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -45}
+  m_AnchoredPosition: {x: 0, y: -36.183}
   m_SizeDelta: {x: 800, y: 800}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &553993353
@@ -3535,7 +3535,7 @@ MonoBehaviour:
   - activePortrait: {fileID: 0}
     previewPortrait: {fileID: 0}
     selector: {fileID: 1633335524}
-    charVisPos: {fileID: 0}
+    charVisPos: {fileID: 519358388}
     createdCharacter: {fileID: 0}
     activeX: 0
     ActiveY: 0
@@ -3552,7 +3552,7 @@ MonoBehaviour:
   - activePortrait: {fileID: 0}
     previewPortrait: {fileID: 0}
     selector: {fileID: 1835307989}
-    charVisPos: {fileID: 0}
+    charVisPos: {fileID: 185237220}
     createdCharacter: {fileID: 0}
     activeX: 0
     ActiveY: 0
@@ -3586,7 +3586,7 @@ MonoBehaviour:
   - {fileID: 452592857}
   - {fileID: 969449169}
   maxX: 0
-  MaxY: 0
+  maxY: 0
   portraitCanvas: {fileID: 553993351}
   bothPlayerIsSelected: 0
 --- !u!4 &1161561335
@@ -4447,7 +4447,7 @@ RectTransform:
   m_GameObject: {fileID: 1472011579}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.81438, y: 0.81438, z: 0.81438}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 106931013}
@@ -4455,7 +4455,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -115}
+  m_AnchoredPosition: {x: 0, y: -193.42}
   m_SizeDelta: {x: 788.984, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1472011581

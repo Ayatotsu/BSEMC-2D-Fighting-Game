@@ -594,7 +594,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startText: {fileID: 1376088394}
-  quit: {fileID: 1810188168}
   activeElement: 0
   menuObj: {fileID: 1615582859}
   menuOptions:

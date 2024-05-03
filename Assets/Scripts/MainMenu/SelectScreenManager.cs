@@ -10,12 +10,12 @@ public class SelectScreenManager : MonoBehaviour
     public PortraitInfo[] portraitPrefabs; //All entries as prefabs
     //no of portraits on x and y.(Hard Coded)
     public int maxX; 
-    public int MaxY;
+    public int maxY;
 
     PortraitInfo[,] charGrid; //select entries we made on grids
 
 
-    public GameObject portraitCanvas; //canvas that holld all portraits;
+    public GameObject portraitCanvas; //canvas that holds all portraits;
 
 
     bool loadLevel; //if loading the level
@@ -23,12 +23,53 @@ public class SelectScreenManager : MonoBehaviour
 
     CharacterManager charManager;
 
-    public static
+    #region Singleton
+    public static SelectScreenManager instance;
+    public static SelectScreenManager GetInstance() 
+    {
+        return instance;
+    }
+
+    void Awake()
+    {
+        instance = this;
+    }
+    #endregion
 
 
     void Start()
     {
-        
+        //gets all refs to character manager
+        charManager = CharacterManager.GetInstance();
+        numberOfPlayers = charManager.numberOfUsers;
+
+        //create grid
+        charGrid = new PortraitInfo[maxX, maxY];
+
+        int x = 0;
+        int y = 0;
+
+        //assigned every components (GetComponents instead of GetComponent)
+        portraitPrefabs = portraitCanvas.GetComponentsInChildren<PortraitInfo>();
+
+        //go into all portraits
+        for (int i = 0; i < portraitPrefabs.Length; i++) 
+        {
+            // assigns a grid position
+            portraitPrefabs[i].posX += x;
+            portraitPrefabs[i].posY += y;
+
+            charGrid[x, y] = portraitPrefabs[i];
+
+            if (x < maxX - 1)
+            {
+                x++;
+            }
+            else 
+            {
+                x = 0; y++;
+            }
+        }
     }
 
     
