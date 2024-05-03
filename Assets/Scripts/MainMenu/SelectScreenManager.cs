@@ -193,7 +193,7 @@ public class SelectScreenManager : MonoBehaviour
             p1.createdCharacter.GetComponentInChildren<Animator>().Play("Taunt");
 
             //pass the character to the character manager so that we will know waht prefab to create in the Ingame
-            p1.playerBase.playerPrefab = charManager.ReturnCharacterWithId(p1.activePortrait.CharacterId).prefab;
+            p1.playerBase.playerPrefab = charManager.ReturnCharacterWithId(p1.activePortrait.characterId).prefab;
 
             p1.playerBase.hasCharacter = true;
         }
@@ -212,8 +212,8 @@ public class SelectScreenManager : MonoBehaviour
                 if (charManager.players[i].playerPrefab == null) 
                 {
                     int ranValue = Random.Range(0, portraitPrefabs.Length);
-                    charManager.players[i].playerPrefab = charManager.ReturnCharacterWithId(portraitPrefabs[ranValue].CharacterId).prefab;
-                    Debug.Log(portraitPrefabs[ranValue].CharacterId);
+                    charManager.players[i].playerPrefab = charManager.ReturnCharacterWithId(portraitPrefabs[ranValue].characterId).prefab;
+                    Debug.Log(portraitPrefabs[ranValue].characterId);
                 }
             }
         }
@@ -247,7 +247,7 @@ public class SelectScreenManager : MonoBehaviour
             }
 
             //create another one
-            GameObject go = Instantiate(CharacterManager.GetInstance().ReturnCharacterWithId(p1.activePortrait.CharacterId).prefab,
+            GameObject go = Instantiate(CharacterManager.GetInstance().ReturnCharacterWithId(p1.activePortrait.characterId).prefab,
                 p1.charVisPos.position, Quaternion.identity) as GameObject;
 
             p1.createdCharacter = go;

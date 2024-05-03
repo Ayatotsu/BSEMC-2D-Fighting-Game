@@ -6,5 +6,5 @@ public class PortraitInfo : MonoBehaviour
 {
     public int posX;
     public int posY;
-    public string CharacterId;
+    public string characterId;
 }
