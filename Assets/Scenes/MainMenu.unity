@@ -594,6 +594,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startText: {fileID: 1376088394}
+  quit: {fileID: 1810188168}
   activeElement: 0
   menuObj: {fileID: 1615582859}
   menuOptions:
@@ -630,7 +631,7 @@ GameObject:
   - component: {fileID: 931180452}
   m_Layer: 5
   m_Name: PVAI
-  m_TagString: Untagged
+  m_TagString: Select
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1206,7 +1207,7 @@ GameObject:
   - component: {fileID: 1781425715}
   m_Layer: 5
   m_Name: PVP
-  m_TagString: Untagged
+  m_TagString: Select
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1344,7 +1345,7 @@ GameObject:
   - component: {fileID: 1810188173}
   m_Layer: 5
   m_Name: Quit
-  m_TagString: Untagged
+  m_TagString: Quit
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1414,7 +1415,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1810188171}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 756860583}
+        m_TargetAssemblyTypeName: IntroManager, Assembly-CSharp
+        m_MethodName: Quit
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1810188171
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -1,12 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Security.Cryptography;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class IntroManager : MonoBehaviour
 {
     public GameObject startText; //"Press Start" reference
-
+    
     float timer;
     bool loadingLevel;
     bool init;
@@ -75,14 +76,23 @@ public class IntroManager : MonoBehaviour
                         activeElement = 0;
                     }
                 }
-                //load next scene
+                
                 if (Input.GetKeyUp(KeyCode.Space)) 
                 {
-                    //once pressed, it will load the level.
-                    Debug.Log("loading");
-                    loadingLevel = true;
-                    StartCoroutine(LoadLevel());
-                    menuOptions[activeElement].transform.localScale *= 1.2f;
+                    if (activeElement == 0 || activeElement == 1) 
+                    {
+                        //once pressed, it will load the level.
+                        Debug.Log("loading");
+                        loadingLevel = true;
+                        StartCoroutine(LoadLevel());
+                        menuOptions[activeElement].transform.localScale *= 1.2f;
+                    }
+                    else if (activeElement == 2) 
+                    {
+                        Debug.Log("Quit");
+                        Quit();
+                    }
+                    
 
 
                 }
@@ -113,5 +123,10 @@ public class IntroManager : MonoBehaviour
         
         
         SceneManager.LoadSceneAsync(1, LoadSceneMode.Single);
+    }
+
+    public void Quit()
+    {
+        Application.Quit();
     }
 }
