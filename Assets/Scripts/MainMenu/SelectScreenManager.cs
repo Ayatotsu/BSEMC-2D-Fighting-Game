@@ -247,10 +247,10 @@ public class SelectScreenManager : MonoBehaviour
             }
 
             //create another one
-            GameObject go = Instantiate(CharacterManager.GetInstance().ReturnCharacterWithId(p1.activePortrait.characterId).prefab,
-                p1.charVisPos.position, Quaternion.identity) as GameObject;
+            //GameObject go = Instantiate(CharacterManager.GetInstance().ReturnCharacterWithId(p1.activePortrait.characterId).prefab,
+                //p1.charVisPos.position, Quaternion.identity) as GameObject;
 
-            p1.createdCharacter = go;
+            //p1.createdCharacter = go;
 
             p1.previewPortrait = p1.activePortrait;
 
