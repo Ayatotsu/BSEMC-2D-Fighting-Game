@@ -8,6 +8,7 @@ public class SelectScreenManager : MonoBehaviour
     public int numberOfPlayers = 1;
     public List<PlayerInterfaces> pInterfaces = new List<PlayerInterfaces>();
     public PortraitInfo[] portraitPrefabs; //All entries as prefabs
+
     //no of portraits on x and y.(Hard Coded)
     public int maxX; 
     public int maxY;
@@ -246,8 +247,7 @@ public class SelectScreenManager : MonoBehaviour
             }
 
             //create another one
-            GameObject go = Instantiate(CharacterManager.GetInstance()
-                .ReturnCharacterWithId(p1.activePortrait.CharacterId).prefab,
+            GameObject go = Instantiate(CharacterManager.GetInstance().ReturnCharacterWithId(p1.activePortrait.CharacterId).prefab,
                 p1.charVisPos.position, Quaternion.identity) as GameObject;
 
             p1.createdCharacter = go;

@@ -784,8 +784,8 @@ MonoBehaviour:
   - {fileID: 1005380070}
   - {fileID: 452592857}
   - {fileID: 969449169}
-  maxX: 0
-  maxY: 0
+  maxX: 4
+  maxY: 6
   portraitCanvas: {fileID: 553993351}
   bothPlayerIsSelected: 0
 --- !u!4 &1161561335

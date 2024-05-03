@@ -246,15 +246,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   numberOfUsers: 0
   players:
-  - playerId: 
-    inputId: 
+  - playerId: Player1
+    inputId: 1
     playerType: 0
     hasCharacter: 0
     playerPrefab: {fileID: 0}
     playerStates: {fileID: 0}
     score: 0
-  - playerId: 
-    inputId: 
+  - playerId: Player2
+    inputId: 2
     playerType: 0
     hasCharacter: 0
     playerPrefab: {fileID: 0}
