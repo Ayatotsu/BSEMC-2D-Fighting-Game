@@ -56,7 +56,15 @@ public class StateManager : MonoBehaviour
 
     public void ResetStateInputs() 
     {
-    
+        horizontal = 0;
+        vertical = 0;
+        attack1 = false;
+        attack2 = false;
+        attack3 = false;
+        crouch = false;
+        getHit = false;
+        currentlyAttacking = false;
+        dontMove = false;
     }
 
     public void CloseMovementCollider(int index) 
