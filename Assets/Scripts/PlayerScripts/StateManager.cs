@@ -52,9 +52,26 @@ public class StateManager : MonoBehaviour
         }
     }
 
-    // Update is called once per frame
-    void Update()
+    //bool isOnGround() {}
+
+    public void ResetStateInputs() 
     {
-        
+    
     }
+
+    public void CloseMovementCollider(int index) 
+    {
+        movementColliders[index].SetActive(false);
+    }
+
+    public void OpenMovementCollider(int index) 
+    {
+        movementColliders[index].SetActive(true);
+    }
+
+    ///public void TakeDamage(int damage, HandleDamageColliders.DamageType damageType) { }
+
+
+
+
 }
