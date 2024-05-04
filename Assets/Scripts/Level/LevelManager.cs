@@ -179,7 +179,18 @@ public class LevelManager : MonoBehaviour
 
     void DisableControl() 
     {
-        //
+        // disable the component first
+        for (int i = 0; i < charM.players.Count; i++) 
+        {
+            //reset the variables in state manager
+            charM.players[i].playerStates.ResetStateInputs();
+
+            //for users, input handler
+            if (charM.players[i].playerType == PlayerBase.PlayerType.user) 
+            {
+                charM.players[i].playerStates.GetComponent<InputHandler>().enabled = false;
+            }
+        } 
     }
 
     public void EndTurnFunction(bool timeOut = false) 
@@ -209,10 +220,17 @@ public class LevelManager : MonoBehaviour
         DisableControl();
 
         //end turn coroutine
-        StartCoroutine("EndTurn");
+        StartCoroutine(EndTurn());
     }
 
-    //IEnumerator EndTurn() {}
+    IEnumerator EndTurn() 
+    {
+        //wait 3 seconds
+        yield return new WaitForSeconds(3);
+
+        //Finds who won
+        //PlayerBase vplayer = FindWinningPlayer();
+    }
 
     //bool isMatchOver() {}
 }
