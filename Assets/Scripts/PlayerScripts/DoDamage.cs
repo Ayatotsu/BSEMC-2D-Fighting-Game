@@ -4,15 +4,29 @@ using UnityEngine;
 
 public class DoDamage : MonoBehaviour
 {
-    // Start is called before the first frame update
+    StateManager states;
+
+    public HandleDamageColliders.DamageType damageType;
+
     void Start()
     {
-        
+        states = GetComponent<StateManager>();       
     }
 
-    // Update is called once per frame
-    void Update()
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        
+        if (other.GetComponent<StateManager>()) 
+        {
+            StateManager oState = other.GetComponent<StateManager>();
+
+            if (oState != states) 
+            {
+                if (!oState.currentlyAttacking) 
+                {
+                    oState.TakeDamage(5, damageType);
+                }
+                
+            }
+        }
     }
 }

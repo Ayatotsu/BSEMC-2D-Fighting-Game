@@ -28,10 +28,10 @@ public class HandleDamageColliders : MonoBehaviour
             switch (type)
             {
                 case DCType.bottom:
-                    //StartCoroutine(OpenCollider(damageCollidersLeft, 0, delay, damageType));
+                    StartCoroutine(OpenCollider(damageCollidersLeft, 0, delay, damageType));
                     break;
                 case DCType.up:
-                    //StartCoroutine(OpenCollider(damageCollidersLeft, 1, delay, damageType));
+                    StartCoroutine(OpenCollider(damageCollidersLeft, 1, delay, damageType));
                     break;
             }
         }
@@ -40,12 +40,28 @@ public class HandleDamageColliders : MonoBehaviour
             switch (type) 
             {
                 case DCType.bottom:
-                    //StartCoroutine(OpenCollider(damageCollidersLeft, 0, delay, damageType));
+                    StartCoroutine(OpenCollider(damageCollidersLeft, 0, delay, damageType));
                 break;
                 case DCType.up:
-                    //StartCoroutine(OpenCollider(damageCollidersLeft, 1, delay, damageType));
+                    StartCoroutine(OpenCollider(damageCollidersLeft, 1, delay, damageType));
                 break;
             }
+        }
+    }
+
+    IEnumerator OpenCollider(GameObject[] array, int index, float delay, DamageType damageType) 
+    {
+        yield return new WaitForSeconds(delay);
+        array[index].SetActive(true);
+        array[index].GetComponent<DoDamage>().damageType = damageType;
+    }
+
+    public void CloseColliders() 
+    {
+        for (int i = 0; i < damageCollidersLeft.Length; i++) 
+        {
+            damageCollidersLeft[i].SetActive(false);
+            damageCollidersRight[i].SetActive(false);
         }
     }
 }

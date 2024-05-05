@@ -50,6 +50,16 @@ public class StateManager : MonoBehaviour
         {
             healthSlider.value = health * 0.01f;
         }
+
+        if (health <= 0) 
+        {
+            if (LevelManager.GetInstance().countdown)  //fight is still running
+            {
+                LevelManager.GetInstance().EndTurnFunction(); //end the turn
+
+                //handleAnim.anim.Play("Dfeat");
+            }
+        }
     }
 
     bool isOnGround() 
@@ -85,7 +95,30 @@ public class StateManager : MonoBehaviour
         movementColliders[index].SetActive(true);
     }
 
-    //public void TakeDamage(int damage, HandleDamageColliders.DamageType damageType) { }
+    public void TakeDamage(int damage, HandleDamageColliders.DamageType damageType) 
+    {
+        if (!getHit) 
+        {
+            switch (damageType) 
+            {
+                case HandleDamageColliders.DamageType.light:
+                    StartCoroutine(CloseImmortality(0.3f));
+                    break;
+                case HandleDamageColliders.DamageType.heavy:
+                    handleMovement.AddVelocityOnCharacter(((!lookRight) ? Vector3.right * 1 : Vector3.right * -1) + Vector3.up, 0.5f);
+
+
+                    StartCoroutine(CloseImmortality(1));
+                    break;
+            }
+        }
+    }
+
+    IEnumerator CloseImmortality(float timer) 
+    {
+        yield return new WaitForSeconds(timer);
+        getHit = false;
+    }
 
 
 
