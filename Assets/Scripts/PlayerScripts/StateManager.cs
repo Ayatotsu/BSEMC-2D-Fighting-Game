@@ -44,7 +44,7 @@ public class StateManager : MonoBehaviour
     void FixedUpdate()
     {
         sRenderer.flipX = lookRight;
-        ///onGround = isOnGournd();
+        onGround = isOnGround();
 
         if (healthSlider != null) 
         {
@@ -52,7 +52,15 @@ public class StateManager : MonoBehaviour
         }
     }
 
-    //bool isOnGround() {}
+    bool isOnGround() 
+    {
+        bool retVal = false;
+
+        LayerMask layer = ~(1 << gameObject.layer | 1 << 3);
+        retVal = Physics2D.Raycast(transform.position, -Vector2.up, 0.1f, layer);
+
+        return retVal;
+    }
 
     public void ResetStateInputs() 
     {
@@ -77,7 +85,7 @@ public class StateManager : MonoBehaviour
         movementColliders[index].SetActive(true);
     }
 
-    ///public void TakeDamage(int damage, HandleDamageColliders.DamageType damageType) { }
+    //public void TakeDamage(int damage, HandleDamageColliders.DamageType damageType) { }
 
 
 

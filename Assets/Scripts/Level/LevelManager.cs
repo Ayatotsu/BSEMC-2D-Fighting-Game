@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class LevelManager : MonoBehaviour
 {
@@ -229,8 +230,109 @@ public class LevelManager : MonoBehaviour
         yield return new WaitForSeconds(3);
 
         //Finds who won
-        //PlayerBase vplayer = FindWinningPlayer();
+        PlayerBase vPlayer = FindWinningPlayer();
+
+        if (vPlayer == null) //if function returns a null
+        {
+            //it means it's a draw
+            levelUI.AnnouncerTextLine1.text = "Draw!";
+            levelUI.AnnouncerTextLine1.color = Color.blue;
+
+        }
+        else 
+        {
+            //if player is the winner
+            levelUI.AnnouncerTextLine1.text = vPlayer.playerId + "Wins!";
+            levelUI.AnnouncerTextLine1.color = Color.red;
+        }
+        //waits 3 seconds
+        yield return new WaitForSeconds(3);
+
+        // checks if winner player has taken any damage
+        if (vPlayer != null) 
+        {
+            //if not, then it's a flawless victory
+            if (vPlayer.playerStates.health == 150) 
+            {
+                levelUI.AnnouncerTextLine2.gameObject.SetActive(true);
+                levelUI.AnnouncerTextLine2.text = "Flawless Victory!";
+            }
+        }
+        //wait for 3 seconds
+        yield return new WaitForSeconds(3);
+
+        currentTurn++; //adds to the turn counter
+
+        bool matchOver = isMatchOver();
+
+        if (!matchOver)
+        {
+            StartCoroutine(InitTurn()); //starts the loop for the next turn again
+        }
+        else //if match was over
+        {
+            for (int i = 0; i < charM.players.Count; i++) 
+            {
+                charM.players[i].score = 0;
+                charM.players[i].hasCharacter = false; //doesn't have a character
+            }
+            SceneManager.LoadSceneAsync(1);
+        }
     }
 
-    //bool isMatchOver() {}
+    bool isMatchOver() 
+    {
+        bool retVal = false;
+
+        for (int i = 0; i < charM.players.Count; i++) 
+        {
+            if (charM.players[i].score >= maxTurns) 
+            {
+                retVal = true;
+                break;
+            }
+        }
+        return retVal;
+    }
+
+    PlayerBase FindWinningPlayer() 
+    {
+        //find who won the turn
+        PlayerBase retVal = null;
+
+        StateManager targetPlayer = null;
+
+        //check if bothe players have equal health
+        if (charM.players[0].playerStates.health != charM.players[1].playerStates.health) 
+        {
+            //if not, then checks who has lower health, the higher health is the winner
+            if (charM.players[0].playerStates.health < charM.players[1].playerStates.health)
+            {
+                charM.players[1].score++;
+                targetPlayer = charM.players[1].playerStates;
+                levelUI.AddWinIndicator(1);
+            }
+            else 
+            {
+                charM.players[0].score++;
+                targetPlayer = charM.players[0].playerStates;
+                levelUI.AddWinIndicator(0);
+            }
+
+            retVal = charM.ReturnPlayerFromStates(targetPlayer);
+        }
+        return retVal;
+    }
+
+    public static LevelManager instance;
+    public static LevelManager GetInstance() 
+    {
+        return instance;
+    }
+
+    void Awake()
+    {
+        instance = this;
+    }
+
 }
