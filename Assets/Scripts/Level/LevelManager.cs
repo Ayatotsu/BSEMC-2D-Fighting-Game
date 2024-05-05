@@ -33,7 +33,7 @@ public class LevelManager : MonoBehaviour
         levelUI.AnnouncerTextLine1.gameObject.SetActive(false);
         levelUI.AnnouncerTextLine2.gameObject.SetActive(false);
 
-        StartCoroutine("StartGame");
+        StartCoroutine(StartGame());
     }
 
     void FixedUpdate()
