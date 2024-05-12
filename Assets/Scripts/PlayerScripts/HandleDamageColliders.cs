@@ -18,7 +18,7 @@ public class HandleDamageColliders : MonoBehaviour
     void Start()
     {
         states = GetComponent<StateManager>();
-        //CloseColliders();
+        CloseColliders();
     }
 
     public void OpenCollider(DCType type, float delay, DamageType damageType)
@@ -40,10 +40,10 @@ public class HandleDamageColliders : MonoBehaviour
             switch (type) 
             {
                 case DCType.bottom:
-                    StartCoroutine(OpenCollider(damageCollidersLeft, 0, delay, damageType));
+                    StartCoroutine(OpenCollider(damageCollidersRight, 0, delay, damageType));
                 break;
                 case DCType.up:
-                    StartCoroutine(OpenCollider(damageCollidersLeft, 1, delay, damageType));
+                    StartCoroutine(OpenCollider(damageCollidersRight, 1, delay, damageType));
                 break;
             }
         }

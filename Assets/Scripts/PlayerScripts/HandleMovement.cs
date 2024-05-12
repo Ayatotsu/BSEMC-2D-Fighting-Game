@@ -100,7 +100,7 @@ public class HandleMovement : MonoBehaviour
 
         while (t < timer) 
         {
-            t = Time.deltaTime;
+            t += Time.deltaTime;
 
             rb.AddForce(direction * 15);
             yield return null;

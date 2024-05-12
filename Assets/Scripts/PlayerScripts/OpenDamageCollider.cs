@@ -32,7 +32,7 @@ public class OpenDamageCollider : StateMachineBehaviour
         if (states == null)
             states = animator.transform.GetComponent<StateManager>();
 
-        //states.handleDC.CloseColliders();
+        states.handleDC.CloseColliders();
     }
 
     //OnStateMove is called right after Animator.OnAnimationMove(). - it processes and affects root motion should be implemented here
