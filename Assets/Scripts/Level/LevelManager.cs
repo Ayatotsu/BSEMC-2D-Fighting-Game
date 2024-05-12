@@ -8,6 +8,8 @@ public class LevelManager : MonoBehaviour
     WaitForSeconds oneSec; //mostly used on every scenario
     public Transform[] spawnPos; //spawn point for characters in game
 
+
+    CameraController camC;
     CharacterManager charM;
     LevelUI levelUI; //store ui elements for ease of access
 
@@ -24,6 +26,7 @@ public class LevelManager : MonoBehaviour
     void Start()
     {
         //get refs from singletons
+        camC = CameraController.Getinstance();
         charM = CharacterManager.GetInstance();
         levelUI = LevelUI.GetInstance();
 
@@ -125,6 +128,8 @@ public class LevelManager : MonoBehaviour
             charM.players[i].playerStates = go.GetComponent<StateManager>(); ;
 
             charM.players[i].playerStates.healthSlider = levelUI.healthSliders[i];
+
+            camC.players.Add(go.transform);
         }
 
         yield return null;
@@ -169,6 +174,17 @@ public class LevelManager : MonoBehaviour
                 InputHandler ih = charM.players[i].playerStates.gameObject.GetComponent<InputHandler>();
                 ih.playerInput = charM.players[i].inputId;
                 ih.enabled = true;
+            }
+
+            //if another player is an AI
+            if (charM.players[i].playerType == PlayerBase.PlayerType.ai) 
+            {
+                AICharacter ai = charM.players[i].playerStates.gameObject.GetComponent<AICharacter>();
+                ai.enabled = true;
+
+
+                //assigns the enemy states to be the one from the opposit player
+                ai.enStates = charM.ReturnOppositePlayer(charM.players[i]).playerStates;
             }
         }
 
