@@ -155,13 +155,13 @@ public class SelectScreenManager : MonoBehaviour
         {
             if (!p1.hitInputOnce)
             {
-                if (horizontal > 0)
+                if (horizontal < 0)
                 {
-                    p1.activeX = (p1.activeX > 0) ? p1.activeX - 1 : maxY - 1;
+                    p1.activeX = (p1.activeX > 0) ? p1.activeX - 1 : maxX - 1;
                 }
                 else
                 {
-                    p1.activeX = (p1.activeX < maxY - 1) ? p1.activeX + 1 : 0;
+                    p1.activeX = (p1.activeX < maxX - 1) ? p1.activeX + 1 : 0;
                 }
 
                 p1.timerReset = 0;
@@ -248,16 +248,16 @@ public class SelectScreenManager : MonoBehaviour
             }
 
             //create another one
-            //GameObject go = Instantiate(CharacterManager.GetInstance().ReturnCharacterWithId(p1.activePortrait.characterId).prefab,
-                //p1.charVisPos.position, Quaternion.identity) as GameObject;
+            GameObject go = Instantiate(CharacterManager.GetInstance().ReturnCharacterWithId(p1.activePortrait.characterId).prefab,
+                p1.charVisPos.position, Quaternion.identity) as GameObject;
 
-            //p1.createdCharacter = go;
+            p1.createdCharacter = go;
 
             p1.previewPortrait = p1.activePortrait;
 
             if (!string.Equals(p1.playerBase.playerId, charManager.players[0].playerId))
             {
-                p1.createdCharacter.GetComponent<StateManager>().lookRight = false; //statemanager script has not yet implemented!!!
+                p1.createdCharacter.GetComponent<StateManager>().lookRight = false;
             }
         }
     }

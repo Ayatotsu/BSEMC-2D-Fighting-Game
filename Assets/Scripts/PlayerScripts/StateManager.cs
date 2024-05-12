@@ -57,7 +57,7 @@ public class StateManager : MonoBehaviour
             {
                 LevelManager.GetInstance().EndTurnFunction(); //end the turn
 
-                //handleAnim.anim.Play("Dfeat");
+                //handleAnim.anim.Play("Defeat");
             }
         }
     }
