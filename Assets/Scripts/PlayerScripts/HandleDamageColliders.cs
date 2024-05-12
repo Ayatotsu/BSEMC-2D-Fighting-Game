@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class HandleDamageColliders : MonoBehaviour
 {
-    //public DCtype dcType;
+    public DCType dcType;
 
     public GameObject[] damageCollidersLeft;
     public GameObject[] damageCollidersRight;
