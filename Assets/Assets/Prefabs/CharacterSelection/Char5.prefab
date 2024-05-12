@@ -137,7 +137,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   posX: 0
   posY: 0
-  CharacterId: character5
+  characterId: character5
 --- !u!1 &8506937462561278243
 GameObject:
   m_ObjectHideFlags: 0

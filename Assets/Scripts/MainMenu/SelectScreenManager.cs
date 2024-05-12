@@ -68,7 +68,8 @@ public class SelectScreenManager : MonoBehaviour
             }
             else 
             {
-                x = 0; y++;
+                x = 0;
+                y++;
             }
         }
     }
@@ -222,18 +223,18 @@ public class SelectScreenManager : MonoBehaviour
         SceneManager.LoadSceneAsync(2, LoadSceneMode.Single);
     }
 
-    void HandleSelectorPosition(PlayerInterfaces p1) 
+    void HandleSelectorPosition(PlayerInterfaces pl) 
     {
-        p1.selector.SetActive(true); //enables the selector
+        pl.selector.SetActive(true); //enables the selector
 
-        p1.activePortrait = charGrid[p1.activeX, p1.activeY]; //finds the active portrait
+        pl.activePortrait = charGrid[pl.activeX, pl.activeY]; //finds the active portrait
 
         //place the selector over its position
-        Vector2 selectorPos = p1.activePortrait.transform.localPosition;
+        Vector2 selectorPos = pl.activePortrait.transform.localPosition;
         selectorPos = selectorPos + new Vector2(portraitCanvas.transform.localPosition.x,
             portraitCanvas.transform.localPosition.y);
 
-        p1.selector.transform.localPosition = selectorPos;
+        pl.selector.transform.localPosition = selectorPos;
     }
 
     void HandleCharacterPreview(PlayerInterfaces p1) 
