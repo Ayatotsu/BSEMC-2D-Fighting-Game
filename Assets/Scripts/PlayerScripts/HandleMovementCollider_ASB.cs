@@ -18,10 +18,10 @@ public class HandleMovementCollider_ASB : StateMachineBehaviour
     }
 
     //OsStateUpdate is called on each update frame between OnstateEnter and OnstateExit callbacks
-    public override void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
-    {
-        base.OnStateUpdate(animator, stateInfo, layerIndex);
-    }
+    //public override void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
+    //{
+        //base.OnStateUpdate(animator, stateInfo, layerIndex);
+    //}
 
     //OnStateExit is called when transition ends and state machine finished evaluating this state
     public override void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
