@@ -84,7 +84,7 @@ public class AICharacter : MonoBehaviour
         }
 
         //independent to AI decide cycle
-        //Blocking();
+        Blocking();
         Jumping();
     }
 

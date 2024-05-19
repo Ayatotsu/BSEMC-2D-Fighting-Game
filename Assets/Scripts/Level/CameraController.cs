@@ -19,8 +19,8 @@ public class CameraController : MonoBehaviour
     public float orthoMax;
 
     float targetZ;
-    public float zMin = 5;
-    public float zMax = 10;
+    public float zMin = 0;
+    public float zMax = 20;
 
     Camera cam;
 

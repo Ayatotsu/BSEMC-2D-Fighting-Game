@@ -19,7 +19,7 @@ public class LevelManager : MonoBehaviour
     //variables for countdown
 
     public bool countdown;
-    public int maxTurnTimer = 30;
+    public int maxTurnTimer = 60;
     int currentTimer;
     float internalTimer;
 
@@ -36,7 +36,7 @@ public class LevelManager : MonoBehaviour
         levelUI.AnnouncerTextLine1.gameObject.SetActive(false);
         levelUI.AnnouncerTextLine2.gameObject.SetActive(false);
 
-        StartCoroutine(StartGame());
+        StartCoroutine("StartGame");
     }
 
     void FixedUpdate()
@@ -141,7 +141,7 @@ public class LevelManager : MonoBehaviour
         for (int i = 0; i < charM.players.Count; i++) 
         {
             charM.players[i].playerStates.health = 150;
-            //charM.players[i].playerStates.handleAnim.anim.Play("Locomotion"); or
+            //charM.players[i].playerStates.handleAnim.anim.Play("Taunt");
             //charM.players[i].playerStates.transform.GetComponent<Animator>().Play("Taunt");
             charM.players[i].playerStates.transform.position = spawnPos[i].position;
         }
@@ -327,12 +327,14 @@ public class LevelManager : MonoBehaviour
                 charM.players[1].score++;
                 targetPlayer = charM.players[1].playerStates;
                 levelUI.AddWinIndicator(1);
+                charM.players[1].playerStates.handleAnim.anim.Play("Victory");
             }
             else 
             {
                 charM.players[0].score++;
                 targetPlayer = charM.players[0].playerStates;
                 levelUI.AddWinIndicator(0);
+                charM.players[0].playerStates.handleAnim.anim.Play("Victory");
             }
 
             retVal = charM.ReturnPlayerFromStates(targetPlayer);

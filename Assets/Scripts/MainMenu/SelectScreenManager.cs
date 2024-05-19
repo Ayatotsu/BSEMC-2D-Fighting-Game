@@ -121,7 +121,7 @@ public class SelectScreenManager : MonoBehaviour
         }
     }
 
-    void HandleSelectorScreenInput(PlayerInterfaces p1, string playerId) 
+    void HandleSelectorScreenInput(PlayerInterfaces pl, string playerId) 
     {
         #region Grid Navigation
         /* To navigate grid
@@ -134,18 +134,18 @@ public class SelectScreenManager : MonoBehaviour
 
         if (vertical != 0) 
         {
-            if (!p1.hitInputOnce) 
+            if (!pl.hitInputOnce) 
             {
                 if (vertical > 0)
                 {
-                    p1.activeY = (p1.activeY > 0) ? p1.activeY - 1 : maxY - 1;
+                    pl.activeY = (pl.activeY > 0) ? pl.activeY - 1 : maxY - 1;
                 }
                 else 
                 {
-                    p1.activeY = (p1.activeY < maxY - 1) ? p1.activeY + 1 : 0;
+                    pl.activeY = (pl.activeY < maxY - 1) ? pl.activeY + 1 : 0;
                 }
 
-                p1.hitInputOnce = true;
+                pl.hitInputOnce = true;
             }
         }
 
@@ -153,35 +153,35 @@ public class SelectScreenManager : MonoBehaviour
 
         if (horizontal != 0)
         {
-            if (!p1.hitInputOnce)
+            if (!pl.hitInputOnce)
             {
                 if (horizontal < 0)
                 {
-                    p1.activeX = (p1.activeX > 0) ? p1.activeX - 1 : maxX - 1;
+                    pl.activeX = (pl.activeX > 0) ? pl.activeX - 1 : maxX - 1;
                 }
                 else
                 {
-                    p1.activeX = (p1.activeX < maxX - 1) ? p1.activeX + 1 : 0;
+                    pl.activeX = (pl.activeX < maxX - 1) ? pl.activeX + 1 : 0;
                 }
 
-                p1.timerReset = 0;
-                p1.hitInputOnce = true;
+                pl.timerReset = 0;
+                pl.hitInputOnce = true;
             }
         }
 
         if (vertical == 0 && horizontal == 0) 
         {
-            p1.hitInputOnce = false;
+            pl.hitInputOnce = false;
         }
 
-        if (p1.hitInputOnce) 
+        if (pl.hitInputOnce) 
         {
-            p1.timerReset += Time.deltaTime;
+            pl.timerReset += Time.deltaTime;
 
-            if (p1.timerReset > 0.8f) 
+            if (pl  .timerReset > 0.8f) 
             {
-                p1.hitInputOnce = false;
-                p1.timerReset = 0;
+                pl.hitInputOnce = false;
+                pl.timerReset = 0;
             }
         }
 
@@ -191,12 +191,12 @@ public class SelectScreenManager : MonoBehaviour
         if (Input.GetButtonUp("Fire1" + playerId))
         {
             //reaction of character
-            p1.createdCharacter.GetComponentInChildren<Animator>().Play("Taunt");
+            pl.createdCharacter.GetComponentInChildren<Animator>().Play("Taunt");
 
             //pass the character to the character manager so that we will know waht prefab to create in the Ingame
-            p1.playerBase.playerPrefab = charManager.ReturnCharacterWithId(p1.activePortrait.characterId).prefab;
+            pl.playerBase.playerPrefab = charManager.ReturnCharacterWithId(pl.activePortrait.characterId).prefab;
 
-            p1.playerBase.hasCharacter = true;
+            pl.playerBase.hasCharacter = true;
         }
 
         

@@ -244,7 +244,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 850eb637272f409459468bf3c49239a7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  numberOfUsers: 0
+  numberOfUsers: 1
   players:
   - playerId: Player1
     inputId: 
@@ -262,41 +262,41 @@ MonoBehaviour:
     score: 0
   characterList:
   - charId: character1
-    prefab: {fileID: 0}
+    prefab: {fileID: 4266118801811331797, guid: a265958950b062e49ad017ebe71ff106, type: 3}
   - charId: character2
-    prefab: {fileID: 0}
+    prefab: {fileID: 4266118801811331797, guid: a265958950b062e49ad017ebe71ff106, type: 3}
   - charId: character3
-    prefab: {fileID: 0}
+    prefab: {fileID: 4266118801811331797, guid: a265958950b062e49ad017ebe71ff106, type: 3}
   - charId: character4
-    prefab: {fileID: 0}
+    prefab: {fileID: 4266118801811331797, guid: a265958950b062e49ad017ebe71ff106, type: 3}
   - charId: character5
-    prefab: {fileID: 0}
+    prefab: {fileID: 4266118801811331797, guid: a265958950b062e49ad017ebe71ff106, type: 3}
   - charId: character6
-    prefab: {fileID: 0}
+    prefab: {fileID: 4266118801811331797, guid: a265958950b062e49ad017ebe71ff106, type: 3}
   - charId: character7
-    prefab: {fileID: 0}
+    prefab: {fileID: 4266118801811331797, guid: a265958950b062e49ad017ebe71ff106, type: 3}
   - charId: character8
-    prefab: {fileID: 0}
+    prefab: {fileID: 4266118801811331797, guid: a265958950b062e49ad017ebe71ff106, type: 3}
   - charId: character9
-    prefab: {fileID: 0}
+    prefab: {fileID: 4266118801811331797, guid: a265958950b062e49ad017ebe71ff106, type: 3}
   - charId: character10
-    prefab: {fileID: 0}
+    prefab: {fileID: 4266118801811331797, guid: a265958950b062e49ad017ebe71ff106, type: 3}
   - charId: character11
-    prefab: {fileID: 0}
+    prefab: {fileID: 4266118801811331797, guid: a265958950b062e49ad017ebe71ff106, type: 3}
   - charId: character12
-    prefab: {fileID: 0}
+    prefab: {fileID: 4266118801811331797, guid: a265958950b062e49ad017ebe71ff106, type: 3}
   - charId: character13
-    prefab: {fileID: 0}
+    prefab: {fileID: 4266118801811331797, guid: a265958950b062e49ad017ebe71ff106, type: 3}
   - charId: character14
-    prefab: {fileID: 0}
+    prefab: {fileID: 4266118801811331797, guid: a265958950b062e49ad017ebe71ff106, type: 3}
   - charId: character15
-    prefab: {fileID: 0}
+    prefab: {fileID: 4266118801811331797, guid: a265958950b062e49ad017ebe71ff106, type: 3}
   - charId: character16
-    prefab: {fileID: 0}
+    prefab: {fileID: 4266118801811331797, guid: a265958950b062e49ad017ebe71ff106, type: 3}
   - charId: character17
-    prefab: {fileID: 0}
+    prefab: {fileID: 4266118801811331797, guid: a265958950b062e49ad017ebe71ff106, type: 3}
   - charId: character18
-    prefab: {fileID: 0}
+    prefab: {fileID: 4266118801811331797, guid: a265958950b062e49ad017ebe71ff106, type: 3}
 --- !u!4 &304566121
 Transform:
   m_ObjectHideFlags: 0
