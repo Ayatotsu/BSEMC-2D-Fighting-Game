@@ -13,7 +13,7 @@ public class DoDamage : MonoBehaviour
         states = GetComponent<StateManager>();       
     }
 
-    private void OnTriggerEnter2D(Collider2D other)
+    public void OnTriggerEnter2D(Collider2D other)
     {
         if (other.GetComponentInParent<StateManager>()) 
         {
@@ -21,10 +21,9 @@ public class DoDamage : MonoBehaviour
 
             if (oState != states) 
             {
-                if (!oState.currentlyAttacking) 
-                {
-                    oState.TakeDamage(15, damageType);
-                }
+                
+                oState.TakeDamage(15, damageType);
+                
                 
             }
         }

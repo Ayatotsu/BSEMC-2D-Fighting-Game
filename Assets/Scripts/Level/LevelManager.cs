@@ -153,13 +153,13 @@ public class LevelManager : MonoBehaviour
     {
         //announcer text
         levelUI.AnnouncerTextLine1.gameObject.SetActive(true);
-        levelUI.AnnouncerTextLine1.text = "Turn " + currentTurn;
+        levelUI.AnnouncerTextLine1.text = "Round " + currentTurn;
         levelUI.AnnouncerTextLine1.color = Color.white;
         yield return new WaitForSeconds(2);
 
         //change ui text and color as time passes
         levelUI.AnnouncerTextLine1.text = "Ready";
-        levelUI.AnnouncerTextLine1.color = Color.white;
+        levelUI.AnnouncerTextLine1.color = Color.yellow;
 
         yield return new WaitForSeconds(3);
         levelUI.AnnouncerTextLine1.color = Color.red;
@@ -259,7 +259,7 @@ public class LevelManager : MonoBehaviour
         else 
         {
             //if player is the winner
-            levelUI.AnnouncerTextLine1.text = vPlayer.playerId + "Wins!";
+            levelUI.AnnouncerTextLine1.text = vPlayer.playerId + " Wins!";
             levelUI.AnnouncerTextLine1.color = Color.red;
         }
         //waits 3 seconds

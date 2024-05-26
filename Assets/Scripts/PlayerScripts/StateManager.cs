@@ -105,12 +105,14 @@ public class StateManager : MonoBehaviour
                     StartCoroutine(CloseImmortality(0.3f));
                     break;
                 case HandleDamageColliders.DamageType.heavy:
-                    handleMovement.AddVelocityOnCharacter(((!lookRight) ? Vector3.right * 1 : Vector3.right * 1) + Vector3.up, 1.5f);
+                    handleMovement.AddVelocityOnCharacter(((!lookRight) ? Vector3.right * 1 : Vector3.right * -1) + Vector3.up, 1.5f);
 
 
                     StartCoroutine(CloseImmortality(1));
                     break;
             }
+            health -= damage;
+            getHit = true;
         }
     }
 
