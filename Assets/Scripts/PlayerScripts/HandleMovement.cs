@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Reflection.Emit;
 using UnityEngine;
 
 public class HandleMovement : MonoBehaviour
@@ -89,21 +90,14 @@ public class HandleMovement : MonoBehaviour
         }
     }
 
-    public void AddVelocityOnCharacter(Vector3 direction, float timer) 
+    public void AddVelocityOnCharacter(Vector3 direction, float knockback) 
     {
-        StartCoroutine(AddVelocity(timer, direction));
+        StartCoroutine(AddVelocity(knockback, direction));
     }
 
     IEnumerator AddVelocity(float timer, Vector3 direction) 
     {
-        float t = 0;
-
-        while (t < timer) 
-        {
-            t += Time.deltaTime;
-
-            rb.AddForce(direction * 15);
-            yield return null;
-        }
+        rb.AddForce(direction * timer, ForceMode2D.Impulse);
+        yield break;
     }
 }
