@@ -67,7 +67,7 @@ public class StateManager : MonoBehaviour
         bool retVal = false;
 
         LayerMask layer = ~(1 << gameObject.layer | 1 << 3);
-        retVal = Physics2D.Raycast(transform.position, -Vector2.up, 0.1f, layer);
+        retVal = Physics2D.Raycast(transform.position, -Vector2.up, 2f, layer);
 
         return retVal;
     }
