@@ -159,11 +159,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dcType: 1
   damageCollidersLeft:
-  - {fileID: 4266118802164674938}
   - {fileID: 4266118802681892645}
+  - {fileID: 4266118802164674938}
   damageCollidersRight:
-  - {fileID: 4266118803815291827}
   - {fileID: 4266118803036611003}
+  - {fileID: 4266118803815291827}
 --- !u!114 &1799733074179802040
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -587,8 +587,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4266118802681892645}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.04, y: 0, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.03999996, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -633,7 +633,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b64c471347950c4494780f117a797fc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  damageType: 0
+  damageType: 1
 --- !u!1 &4266118803036611003
 GameObject:
   m_ObjectHideFlags: 0
@@ -705,7 +705,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b64c471347950c4494780f117a797fc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  damageType: 0
+  damageType: 1
 --- !u!1 &4266118803150277456
 GameObject:
   m_ObjectHideFlags: 0

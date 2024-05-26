@@ -269,7 +269,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damageType: 1
-  dcType: 1
+  dcType: 0
   delay: 0.2
 --- !u!1102 &-4634784304103718639
 AnimatorState:
@@ -850,9 +850,6 @@ AnimatorStateTransition:
   - m_ConditionMode: 2
     m_ConditionEvent: TakesHit
     m_EventTreshold: 0
-  - m_ConditionMode: 2
-    m_ConditionEvent: OnAir
-    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 6439786872618612084}
   m_Solo: 0
@@ -905,7 +902,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damageType: 0
-  dcType: 0
+  dcType: 1
   delay: 0
 --- !u!1102 &6439786872618612084
 AnimatorState:
