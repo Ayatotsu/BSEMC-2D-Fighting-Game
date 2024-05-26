@@ -14,7 +14,7 @@ public class OpenDamageCollider : StateMachineBehaviour
     public override void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         if (states == null) 
-            states = animator.transform.GetComponent<StateManager>();
+            states = animator.transform.GetComponentInParent<StateManager>();
 
         states.handleDC.OpenCollider(dcType, delay, damageType);
         
@@ -30,7 +30,7 @@ public class OpenDamageCollider : StateMachineBehaviour
     public override void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         if (states == null)
-            states = animator.transform.GetComponent<StateManager>();
+            states = animator.transform.GetComponentInParent<StateManager>();
 
         states.handleDC.CloseColliders();
     }

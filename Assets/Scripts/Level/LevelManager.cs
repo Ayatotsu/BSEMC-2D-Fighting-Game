@@ -141,7 +141,7 @@ public class LevelManager : MonoBehaviour
         for (int i = 0; i < charM.players.Count; i++) 
         {
             charM.players[i].playerStates.health = 150;
-            //charM.players[i].playerStates.handleAnim.anim.Play("Taunt");
+            charM.players[i].playerStates.handleAnim.anim.Play("Taunt");
             //charM.players[i].playerStates.transform.GetComponent<Animator>().Play("Taunt");
             charM.players[i].playerStates.transform.position = spawnPos[i].position;
         }

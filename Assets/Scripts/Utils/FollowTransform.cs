@@ -4,15 +4,13 @@ using UnityEngine;
 
 public class FollowTransform : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public Transform target;
+    public float speed = 5;
 
-    // Update is called once per frame
     void Update()
     {
-        
+
+        transform.position = Vector3.Lerp(transform.position, target.position, Time.deltaTime * speed);
     }
 }
+

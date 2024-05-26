@@ -15,12 +15,12 @@ public class CameraController : MonoBehaviour
 
     Vector3 middlePoint;
 
-    public float orthoMin;
-    public float orthoMax;
+    public float orthoMin = 2;
+    public float orthoMax = 6;
 
     float targetZ;
-    public float zMin = 0;
-    public float zMax = 20;
+    public float zMin = 5;
+    public float zMax = 10;
 
     Camera cam;
 

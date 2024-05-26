@@ -106,6 +106,7 @@ public class IntroManager : MonoBehaviour
         {
             case 0:
                 CharacterManager.GetInstance().numberOfUsers = 1; //single player
+                CharacterManager.GetInstance().players[1].playerType = PlayerBase.PlayerType.ai;
                 break;
             case 1:
                 CharacterManager.GetInstance().numberOfUsers = 2; //2 players

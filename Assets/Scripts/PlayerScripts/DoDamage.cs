@@ -15,9 +15,9 @@ public class DoDamage : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.GetComponent<StateManager>()) 
+        if (other.GetComponentInParent<StateManager>()) 
         {
-            StateManager oState = other.GetComponent<StateManager>();
+            StateManager oState = other.GetComponentInParent<StateManager>();
 
             if (oState != states) 
             {

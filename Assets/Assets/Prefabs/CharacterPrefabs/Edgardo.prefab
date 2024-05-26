@@ -15,7 +15,6 @@ GameObject:
   - component: {fileID: 4266118801811331785}
   - component: {fileID: 4266118801811331798}
   - component: {fileID: 4266118801811331799}
-  - component: {fileID: 4266118801811331796}
   - component: {fileID: 1799733074179802040}
   m_Layer: 3
   m_Name: Edgardo
@@ -161,24 +160,9 @@ MonoBehaviour:
   dcType: 1
   damageCollidersLeft:
   - {fileID: 4266118802164674938}
-  damageCollidersRight:
-  - {fileID: 4266118803815291827}
---- !u!114 &4266118801811331796
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4266118801811331797}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1629927719adeeb49a5cf53187e77a53, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  dcType: 0
-  damageCollidersLeft:
   - {fileID: 4266118802681892645}
   damageCollidersRight:
+  - {fileID: 4266118803815291827}
   - {fileID: 4266118803036611003}
 --- !u!114 &1799733074179802040
 MonoBehaviour:
@@ -621,7 +605,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: -0.81084657, y: -0.88084817}
@@ -693,7 +677,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: -0.81084657, y: -0.88084817}

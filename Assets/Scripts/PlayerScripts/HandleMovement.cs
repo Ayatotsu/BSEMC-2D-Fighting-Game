@@ -10,9 +10,9 @@ public class HandleMovement : MonoBehaviour
 
     public float acceleration = 30;
     public float airAcceleration = 15;
-    public float maxSpeed = 20;
-    public float jumpSpeed = 8;
-    public float jumpDuration = 150;
+    public float maxSpeed = 60;
+    public float jumpSpeed = 5;
+    public float jumpDuration = 5;
     float actualSpeed;
     bool justJumped;
     bool canVariableJump;
@@ -66,7 +66,7 @@ public class HandleMovement : MonoBehaviour
 
                     rb.velocity = new Vector3(rb.velocity.x, this.jumpSpeed);
                     jumpTimer = 0;
-                    jumpTimer = 0;
+                    
                     canVariableJump = true;
                 }
             }
