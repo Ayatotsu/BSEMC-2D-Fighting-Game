@@ -109,6 +109,7 @@ public class LevelManager : MonoBehaviour
         countdown = false;
 
         //init players
+        
         yield return InitPlayers();
 
         //enable control of each player
@@ -292,7 +293,7 @@ public class LevelManager : MonoBehaviour
                 charM.players[i].score = 0;
                 charM.players[i].hasCharacter = false; //doesn't have a character
             }
-            SceneManager.LoadSceneAsync(1);
+            SceneManager.LoadSceneAsync(0);
         }
     }
 
