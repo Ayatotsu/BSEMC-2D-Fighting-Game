@@ -15,6 +15,9 @@ public class IntroManager : MonoBehaviour
     public int activeElement;
     public GameObject menuObj; //MainMenu Object
     public ButtonRef[] menuOptions;
+    public GameObject titleGame;
+    public GameObject bg1;
+    public GameObject bg2;
 
     void Start()
     {
@@ -39,6 +42,9 @@ public class IntroManager : MonoBehaviour
             {
                 init = true;
                 startText.SetActive(false); //this will hide the text after pressing the Space key.
+                bg1.gameObject.SetActive(false);
+                titleGame.gameObject.SetActive(true);
+                bg2.gameObject.SetActive(true);
                 menuObj.SetActive(true); //this will open the menu after hiding the startText.
             }
         }

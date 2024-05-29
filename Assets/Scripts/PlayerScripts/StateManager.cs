@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -48,7 +49,7 @@ public class StateManager : MonoBehaviour
 
         if (healthSlider != null) 
         {
-            healthSlider.value = health * 0.01f;
+            healthSlider.value = health;
         }
 
         if (health <= 0) 

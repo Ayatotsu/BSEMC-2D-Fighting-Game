@@ -41,6 +41,19 @@ public class LevelManager : MonoBehaviour
 
     void FixedUpdate()
     {
+        PlayerPosition();
+    }
+
+    void Update()
+    {
+        if (countdown) //if countdown is enabled
+        {
+            HandleTurnTimer(); //controls the timer
+        }
+    }
+
+    void PlayerPosition() 
+    {
         //handles player orientation in scene
         //compare x of the 1p, if it is lower, then enemy is on right
 
@@ -50,18 +63,10 @@ public class LevelManager : MonoBehaviour
             charM.players[0].playerStates.lookRight = true;
             charM.players[1].playerStates.lookRight = false;
         }
-        else 
+        else
         {
             charM.players[0].playerStates.lookRight = false;
             charM.players[1].playerStates.lookRight = true;
-        }
-    }
-
-    void Update()
-    {
-        if (countdown) //if countdown is enabled
-        {
-            HandleTurnTimer(); //controls the timer
         }
     }
 

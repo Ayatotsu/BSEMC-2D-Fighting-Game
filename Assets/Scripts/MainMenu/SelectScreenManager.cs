@@ -220,6 +220,7 @@ public class SelectScreenManager : MonoBehaviour
         }
 
         yield return new WaitForSeconds(2); //lods level after few seconds
+
         SceneManager.LoadSceneAsync(2, LoadSceneMode.Single);
     }
 
