@@ -1,0 +1,7539 @@
+fileFormatVersion: 2
+guid: a6b80eafed4de1a41b23fd10fcf31db1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2048
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1120
+        width: 311
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef61c1aa8720da54ea7e8fa873c30411
+      internalID: -2132329025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_1
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1663
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bdc9058e798604090459cd5f7e1e3f
+      internalID: 2028219683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 2767
+        y: 1122
+        width: 304
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfda9de6b4241b4c8b984f8d7abcc8c
+      internalID: -1324829464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_3
+      rect:
+        serializedVersion: 2
+        x: 3771
+        y: 1640
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd5b3f8e39d01043b2259cc4c987499
+      internalID: 846003639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_4
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 1605
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a806c926615c9324ebec54a72144a363
+      internalID: -2019869600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_5
+      rect:
+        serializedVersion: 2
+        x: 3776
+        y: 1614
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8c307d30b874b4a9f5152e878064fb
+      internalID: -2006732996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_6
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1565
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffba0618ad2a283428eaa0c3426f3dbc
+      internalID: 1848101903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_7
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1556
+        width: 73
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd3ae5583dd1de4abe7c8fe96b826e2
+      internalID: -1035706038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_8
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1569
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4165c36e1f4fd8f4a81a8cf0d93179c2
+      internalID: 459556898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_9
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1573
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53e772bc0b363e4594ec6fdc2c1378b
+      internalID: 1619065976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_10
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 1563
+        width: 73
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacb09f789ad624499a469164c08ce1c
+      internalID: 449319024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_11
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 1563
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b2e957cd2bf5245adb40fa01f39bff
+      internalID: -1289682705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1556
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1613da50045bfd94b8cee24e0c4a6065
+      internalID: 1956093338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_13
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1522
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d998374fc28a64a8dcd508712c3ab9
+      internalID: -125131684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_14
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 1518
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd7c5c6228b6e54fae407726077d2a4
+      internalID: 1807274625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1440
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce3c188475fd3943a8d933130e0eb3b
+      internalID: -182714869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_16
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1479
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c402e02b65b40e42979b0ed03f63c98
+      internalID: -116383620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_17
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1477
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca240742ef8612458493c0dfdeb7dc1
+      internalID: 1930494592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_18
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 1485
+        width: 71
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73077f85fd803dc4b8c4e5be553d6198
+      internalID: 1861067286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_19
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 1485
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01181549e78c13d46a002250a454a9b7
+      internalID: -350417158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_20
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 1486
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac894f4d8ea33a4c949b302eec662aa
+      internalID: -311424739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_21
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 1485
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde45063c2938d34b88c0602b6bf22a3
+      internalID: 1562097395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_22
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1477
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248339e3beea27442a9c46f187968398
+      internalID: 650830251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_23
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 1475
+        width: 53
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e813f3195264a142b6ad3bbcaf3800c
+      internalID: -1196378019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_24
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1468
+        width: 49
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe6d8e3251f00a44af030b4bd0d2e29
+      internalID: 1252898915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_25
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1451
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee1c3ecf17e61e42b4f103d7f93f254
+      internalID: 563034860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_26
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 1451
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9deb206a057b54545aaacf84c8f42d48
+      internalID: -528032536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_27
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 1464
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28c1e266564569449962fbeaa6ed34c
+      internalID: 398822091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_28
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1443
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2f987c40c23e24baddd39c0e5278a4
+      internalID: 1080308874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_29
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1426
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3d5117590930744ad86deecaa00856
+      internalID: -1438604902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_30
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1425
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4f8440691de0e4d98f4a894e4f9887
+      internalID: -946839360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_31
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 1436
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5604b6c29491c184f96fe61bb1d7c703
+      internalID: -2050919952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_32
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1441
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895e59987d5f5124eaee52735956988a
+      internalID: -587929540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_33
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 1443
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367377242c3eaa74a9d47d39b416ee69
+      internalID: 781032980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_34
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1425
+        width: 96
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a086b7b5c65430f45a9bb421319f9400
+      internalID: -2008320380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_35
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 1443
+        width: 21
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b57ec6b29d8d92429711919b8b1610e
+      internalID: 93245917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_36
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 1443
+        width: 21
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63556209e4dd6e44ad08c9f544c48d1
+      internalID: -88381196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_37
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 1441
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94464097d71faeb44945b1177b34a9e4
+      internalID: -899974213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_38
+      rect:
+        serializedVersion: 2
+        x: 3369
+        y: 1443
+        width: 21
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270c069dfbbd58943bb2b9ee3bb8ccd8
+      internalID: -1142840215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_39
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 1434
+        width: 66
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fb98e0acc56b24191c87a64bb42f73
+      internalID: -218176198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_40
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 1443
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e15505adf8d2be4d8a8988377184725
+      internalID: 557892176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_41
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 1443
+        width: 72
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e769f8ad63455346b68cea965c27806
+      internalID: -1480870239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_42
+      rect:
+        serializedVersion: 2
+        x: 3797
+        y: 1430
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb71fb0de1da644d9f0aec25ef729d2
+      internalID: 1802786763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_43
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1438
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db46066c0f073d34c9e6597aaaf9a95c
+      internalID: 1227880479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_44
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 1434
+        width: 45
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a5be79665c8834ba805d84ed831f7c
+      internalID: -1348587222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_45
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1425
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0bf6b0c578c4e4c998b86e2795a89f
+      internalID: 776327853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_46
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1425
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2e4f9945ecdf546ab7be45c5a96a65
+      internalID: 102295068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_47
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 1423
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d522a7223581674091d6e449dc5ea71
+      internalID: 1915229554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_48
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1402
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dfae3f5a3210e4380e093357dad729
+      internalID: -1056672598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_49
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1190
+        width: 17
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb350bfc3f9f80141a05b117d5ab7c88
+      internalID: 1441205040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_50
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1336
+        width: 17
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9f2407092c7f24a8e8adc32198932c
+      internalID: 321493017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_51
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1363
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e121420479c364faade711ce87eab1
+      internalID: 1586784477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_52
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 1348
+        width: 11
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7a40f4f0d83294dae47c0678a6897b
+      internalID: -1612269997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_53
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 1396
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2310fc26369af845b5a2b29a04ad4c8
+      internalID: -1675997989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_54
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1385
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2759538f044fe994cbb8a7f2eb5c5e2f
+      internalID: 471631640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_55
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1381
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9271f9059f446ce47b5219ed560736a4
+      internalID: 2064630442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_56
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 1370
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655fa9f39525417479c79f2142eed9e0
+      internalID: 2062959096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_57
+      rect:
+        serializedVersion: 2
+        x: 3836
+        y: 1227
+        width: 4
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465a9179239148140848f07e54fbc335
+      internalID: 1325220563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_58
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1348
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cee7ba9324e1c4e8805dfe06e1c0f0
+      internalID: 362513350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_59
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 1361
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b321baa4f29d94bac8a7e731212ca5
+      internalID: -1149881426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_60
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 1351
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bccb919e60576409a8dcb6c903c93b
+      internalID: 1141821505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_61
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 1355
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f46e582ffd447e44bb51a8dbf6d2724
+      internalID: 1585014135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_62
+      rect:
+        serializedVersion: 2
+        x: 3501
+        y: 1340
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21a3f1d4d0549241a03c864eecbe205
+      internalID: 836093800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_63
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1338
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5affc4511e5a84abdc3f35619d4349
+      internalID: -16309652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_64
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 1336
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4e48268fd46124490fe48df9262649
+      internalID: 850030864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_65
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1319
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62816beadab2aca46abe41d8346c36cb
+      internalID: 1963161998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_66
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1286
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e986f49314b5c4096f841ac809206c
+      internalID: 85084139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_67
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 1312
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e551649d2537a94e8fbe0080453c0e6
+      internalID: -1273752797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_68
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1149
+        width: 26
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1508e89a9011a4e99d019c08d44513
+      internalID: 426562368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_69
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1286
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e8a35901be7dc4bab691713a18ea96
+      internalID: -1341641336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_70
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1229
+        width: 105
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0af82f4555cc7c4c945db5ee7fd68da
+      internalID: -1323333906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_71
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 1158
+        width: 28
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44efccf81d3a0c840b9030618600395d
+      internalID: 190433269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_72
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 1282
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542cdbb7dd0b7314e819634708b63b62
+      internalID: -1395061318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_73
+      rect:
+        serializedVersion: 2
+        x: 3592
+        y: 1162
+        width: 42
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb16a334ac08ffe45bf3ecdbdfa3464c
+      internalID: -1343342462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_74
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1254
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da63d6a1fc42584b93994aed2b8f817
+      internalID: -134343656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_75
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1083
+        width: 128
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15054607ee8481943a0df27034c0cdeb
+      internalID: 374246695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_76
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 1265
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7346e400ee26d941a56e3c160736b2b
+      internalID: -580147892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_77
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 1242
+        width: 73
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b806d2f1a75654da04f8dc51620f70
+      internalID: 1418389426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_78
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1259
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d068f045e6e89ff4a85f52cb59e215a1
+      internalID: -585704120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_79
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1237
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939b037386a6b7a4198bc0553fd15bc5
+      internalID: 1621632427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_80
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 1252
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6173c2d67d8279b498f3db82484cb046
+      internalID: -1712456568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_81
+      rect:
+        serializedVersion: 2
+        x: 3497
+        y: 1241
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fe3595732281e48834b80ae4911a54
+      internalID: 195906063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_82
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1081
+        width: 37
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7061c9d7687b20046afc8178b0e1c76f
+      internalID: -813568872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_83
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1242
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462238daf224e044d84c9ef3fbfb2a4b
+      internalID: 1082912501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_84
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 1222
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc296467962feb4396ab5b3ccedaa43
+      internalID: -1783110420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_85
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 1244
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25b1ab07ac3bea43923709bf6d51d15
+      internalID: 582040115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_86
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1134
+        width: 54
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f280693089b624d8fe6281a3e67491
+      internalID: 1035426837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_87
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1226
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a61580bb38eae64c8124047c2e946e0
+      internalID: 1342159347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_88
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1216
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9442d811afdd2a849bd5d681e4ccf2f4
+      internalID: 1099610172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_89
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 1203
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4560a27588e79c74ab91659f7dd536d0
+      internalID: 696659577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_90
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 1227
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad6ef416da165e4980c79a06b78cd53
+      internalID: 442740929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_91
+      rect:
+        serializedVersion: 2
+        x: 3531
+        y: 1211
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36526fe5ce33d9542b01b208835d3bdc
+      internalID: -1308391679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_92
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1207
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948fa74c127f2b647ba0ac2c8bdccbca
+      internalID: -1687317201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_93
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1218
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a17434a82aa1e844bb415f991ffc1d3
+      internalID: 752732136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_94
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1194
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4223277a9d3bc4db007092e4197c7f
+      internalID: -1938893408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_95
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1194
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd28de439cad7254ea165e3e65b3be45
+      internalID: 1613053904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_96
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1192
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06986ea05e6c55640b3bd7476cf28dff
+      internalID: 818002939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_97
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 1199
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246119fd93f16e446b0efd48086767d7
+      internalID: -1611532931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_98
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 1212
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61b57adc90d4284fbabc77e37bb627a
+      internalID: -1024304219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_99
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 1177
+        width: 4
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f62bbf03aef5f141bae838c2fd30e7b
+      internalID: 2095614106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_100
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1098
+        width: 73
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6687e96f3df88634aa8f08ba909a68db
+      internalID: -737566498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_101
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 1141
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920f00bba312921458812565afc517ad
+      internalID: -1234566828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_102
+      rect:
+        serializedVersion: 2
+        x: 3324
+        y: 1145
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a017c761408ff0b4ea15e8557ec6c549
+      internalID: -1783586297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_103
+      rect:
+        serializedVersion: 2
+        x: 3713
+        y: 1201
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadfbcc44148b4c45869a509d4748664
+      internalID: 873433339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_104
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1184
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a8cdf724395f74e8fae0c0f1c09b2f
+      internalID: 471114364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_105
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 1154
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1151940a0bd534da1c6fd963d8e5ee
+      internalID: -338353995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_106
+      rect:
+        serializedVersion: 2
+        x: 3705
+        y: 1186
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937d55ccc0bcab44ebf4439c6dc2fe92
+      internalID: -1949070791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_107
+      rect:
+        serializedVersion: 2
+        x: 3758
+        y: 1134
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1955199e5b26c3748817f2e7ecf119db
+      internalID: -1107615474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_108
+      rect:
+        serializedVersion: 2
+        x: 3799
+        y: 1141
+        width: 15
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660484c9fb1a7cd45a39e8affb0a4d1b
+      internalID: 1578261159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_109
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1162
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e55aea55ca95c4da58a12e04f97139
+      internalID: -11509154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_110
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1145
+        width: 12
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977e10c245470fc428bdf0b969396249
+      internalID: -1828407771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_111
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 1128
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d7a4ad634728245bbcd6657d11aadb
+      internalID: -529836613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_112
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 1130
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdcce84d94f7d1488c4a0effba012ef
+      internalID: 1267451635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_113
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 1081
+        width: 71
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee8878fa1fd6aa4fa01ef62908df0ae
+      internalID: 63563654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_114
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1167
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9da05ecfcf8be4b806c71066f3edd7
+      internalID: 1365223238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_115
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 1143
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64f003f7b71aad48b4e1c59ef9c5554
+      internalID: -608794709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_116
+      rect:
+        serializedVersion: 2
+        x: 3407
+        y: 1164
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94d2f0e72daf5b47b9c54783ff6b7c4
+      internalID: 340927120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_117
+      rect:
+        serializedVersion: 2
+        x: 3433
+        y: 1169
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc30ec84daa48644988c798420bc96e4
+      internalID: -451175087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_118
+      rect:
+        serializedVersion: 2
+        x: 3698
+        y: 1143
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79c2880ef00b3a44b9b09dd5dcecbde
+      internalID: -739740131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_119
+      rect:
+        serializedVersion: 2
+        x: 3737
+        y: 1164
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fe12d4ac37b0d43a9175520dca8e98
+      internalID: 562510084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_120
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1081
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b79a9d95722a2418618c376eaf436e
+      internalID: -1759765310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_121
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1139
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ee3320464e89c48a5cdc5b42ed4516
+      internalID: -1266756907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_122
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1081
+        width: 94
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f687ac05c5dc24ab8729178d18801c
+      internalID: 872504398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_123
+      rect:
+        serializedVersion: 2
+        x: 3422
+        y: 1145
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5a4cfc6aaeb49429c4b410bf4cd6d2
+      internalID: 1985629945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_124
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 1139
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa3cf39c6bffcb41b05736456e6528c
+      internalID: 409406904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_125
+      rect:
+        serializedVersion: 2
+        x: 3632
+        y: 1126
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d849957af119ff94b9bca517534b1585
+      internalID: 233400788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_126
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1139
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0c04698e490854dbb36f073b21008b
+      internalID: -1040330790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_127
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 1081
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f01b326b24e7d6458122075b655ad52
+      internalID: -1354675076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_128
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 1092
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976f71b8bc0d6ce44b5f4fcd11b91d90
+      internalID: 997600683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_129
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1122
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddb1879eb946eb46ab87d122ed5e3a1
+      internalID: -1267173233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_130
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 1134
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4fa04a0ba3beb42955fe970f7d08cf
+      internalID: -89442726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_131
+      rect:
+        serializedVersion: 2
+        x: 3345
+        y: 1092
+        width: 13
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f746a4e4f1e8ff14f89db8f5074dcf4f
+      internalID: -728283097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_132
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 1107
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b279761990919a7488736e1fe3cb2c3f
+      internalID: -1941458288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_133
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1124
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3659fa3d350ee4a8fd8ac539dd8d4b
+      internalID: 232188916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_134
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1081
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39290e4196b6fa45b7103c67576924b
+      internalID: -1209402147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_135
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1122
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8e5c4dbf2a0cd4095f48c02ea9f0e4
+      internalID: 282790726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_136
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 1115
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a3dfd7a7410f54e94e88045ac8a5cf
+      internalID: 1008093196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_137
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 1094
+        width: 11
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3918d9529823ff647b2a3094112e9fd5
+      internalID: -267709172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_138
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 1098
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ab2d4cbd7878145916fc1f52236b8f
+      internalID: 460412722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_139
+      rect:
+        serializedVersion: 2
+        x: 3686
+        y: 1120
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c076986e40ac041b4e2eb3ee3ae218
+      internalID: -777401960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_140
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1115
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd94befc438ad0c488e15a2b36e11376
+      internalID: -1529939890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_141
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1098
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39e62b72191af34f8c3b11ddda058e0
+      internalID: -1874282382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_142
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1117
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1d8d80d2185c0479d1ad645f49505f
+      internalID: 501411163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_143
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1113
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50b5706af199784593e068518281e1a
+      internalID: -285613628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_144
+      rect:
+        serializedVersion: 2
+        x: 3698
+        y: 1105
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c192332facc538e438767fb3eafdd7c9
+      internalID: 1552330279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_145
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1096
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0490084c6d81ea148b44885c6dacf8d6
+      internalID: -1874035656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_146
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1102
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ff6e172059e514a87b23570bc41b2c
+      internalID: 1995431731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_147
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 1081
+        width: 154
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44abadbe9332287459aefa734362de57
+      internalID: 407339512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_148
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1094
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63faa79d21855644da280ef6a80e3f53
+      internalID: -191187753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_149
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1081
+        width: 109
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf46abbf92d0c845b55e256af1e4eed
+      internalID: 74445815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_150
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1081
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229c08d6e22463b488999df23c2f577d
+      internalID: -869971617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_151
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1081
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ce17f62dad38a43a049012ccf87fe6
+      internalID: -774404018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_152
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1081
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84abc1ba11d761488b87a42482e1450
+      internalID: -1059120246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_153
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1081
+        width: 19
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d966b87918b33a40a412087b7ec7d8d
+      internalID: -1354200039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_154
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1081
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203a757cd46d5aa4fa06c641612a378d
+      internalID: 71594338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_155
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 1081
+        width: 60
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816ffc1789c8ee74389ffe8da735af24
+      internalID: -1637882435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_156
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1081
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad3777abc295a9488fefe1b8191fe4f
+      internalID: -958804882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_157
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 1081
+        width: 71
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a28ef61aba60a4eb5349e1f056413a
+      internalID: 1097315399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_158
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 1081
+        width: 19
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80ff1aa9191647479a0266052768341
+      internalID: -1576122672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_159
+      rect:
+        serializedVersion: 2
+        x: 3362
+        y: 1081
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a001bd7a863cfa4d9f8dfe47542236e
+      internalID: -429404404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_160
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 1081
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fcf34dcbbeeb145b3b58e8c5eb5c25
+      internalID: 294246842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_161
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 1081
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d416d6266c6e24fb2b4da83f74265d
+      internalID: 93147908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_162
+      rect:
+        serializedVersion: 2
+        x: 3806
+        y: 1081
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67eec35d1e5f082498c505dadb5ba20b
+      internalID: 1510938223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 38
+        width: 315
+        height: 906
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d8a75497143954c809bf9f256eb3a3
+      internalID: 141207787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 73
+        width: 311
+        height: 984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3267f6bfc3917c243ae8335b29df4c3f
+      internalID: -294724098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_165
+      rect:
+        serializedVersion: 2
+        x: 3823
+        y: 773
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a433046d85042f4e93f3fee8e7f4fbf
+      internalID: 1178556740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_166
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 582
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3e8f2ac5e31bb46b9082a7f3b5a96e
+      internalID: 1101008511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_167
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 537
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ec71879c487d74ba8c6a7231b9b7f1
+      internalID: -408690523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_168
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 531
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63392782f5046343a4524ae6619473d
+      internalID: 904539053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_169
+      rect:
+        serializedVersion: 2
+        x: 3778
+        y: 522
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70b412eaf3c12e45a16740404ab2a9f
+      internalID: 273381919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_170
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 486
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a15878d3ccf0745915c3700aa32230
+      internalID: -864170028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_171
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 492
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa1d63ded58f784baa657a420678c7d
+      internalID: 1403657266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_172
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 499
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d69ccfe21f82047a1d15ceca3372c4
+      internalID: 805518019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_173
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 482
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb3e7f5b120d9649b2df030b5b57a2d
+      internalID: 811419783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_174
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 486
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecb5fe936298104b966b842ddaed6bc
+      internalID: 97103939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_175
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 480
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23de433eefe87e04f91ef747a4ba0fc5
+      internalID: 1851042805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_176
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 477
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1628300a920f04a8b1cbee8d808d9a
+      internalID: -1507736712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_177
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 477
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba96236001b78c04bba1e61a99cae90a
+      internalID: -661313295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_178
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 480
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d1d963870eb094cb2179b8994e7501
+      internalID: -2051030411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_179
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 449
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e48af70b919ae448b9c683a1faca21
+      internalID: 1975389277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_180
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 435
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278b06607334ab746ad4d74ca93453a3
+      internalID: -1321132311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_181
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 435
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99662b12a7b50b41ac06a968cb1574e
+      internalID: 630611280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_182
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 357
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2455e7469f50a0d4f9dcc37daeb3fc2b
+      internalID: 638708882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_183
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 420
+        width: 60
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae0a02a494dbac428538322900b9515
+      internalID: 43968005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_184
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 405
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c3ea4d492c68d49b8451cfb3b09f5d
+      internalID: 335348881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_185
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 404
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268802400a25c4a4f9a11b4e99b4cf72
+      internalID: 853361072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_186
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 81
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b250cdf45f243cd499c89ac92fa5a75c
+      internalID: 683118589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_187
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 389
+        width: 45
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39586f8889328cb4cbc9d53873d5b894
+      internalID: 1460439204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_188
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 381
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5b888bce4ed0e478fb48f9373e45dd
+      internalID: -830012741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_189
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 383
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273dd90fa53b905438ff240df38eaf49
+      internalID: -1150117112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_190
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 368
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739ef4e6062a10a4bb99a8c7207d7b3b
+      internalID: -908730106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_191
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 370
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3183cd8be947a43a94b12f9ab9053c
+      internalID: -1029090862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_192
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 358
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e07934d06140c47ac3232d625572a8
+      internalID: -291435106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_193
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 360
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3a2b269b3cbb74d9b508d9228809d8
+      internalID: -2054269296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_194
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 353
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7752409d7e190f24fb6c447d021200a7
+      internalID: -1226096057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_195
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 347
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9082f6eae2d1c254b999fbb98e28bee6
+      internalID: -1040039204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_196
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 357
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02517037bb924741a99cac669797747
+      internalID: 1971912224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_197
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 358
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e0d26e6b8b172418b5e7f16d4e198c
+      internalID: 555352879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_198
+      rect:
+        serializedVersion: 2
+        x: 3369
+        y: 360
+        width: 26
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca9f2bd1b1dfd243beacb91484f9a0a
+      internalID: -1673094256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_199
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 358
+        width: 107
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a76584c933780b48a53bc69845b1117
+      internalID: -784036008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_200
+      rect:
+        serializedVersion: 2
+        x: 3671
+        y: 360
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76315c7af8fd7714c967ce30b65ad189
+      internalID: 867371187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_201
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 360
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869fa06f0feef62408f0037cbfcd5e07
+      internalID: -1506956285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_202
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 360
+        width: 53
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655a26782182b9e4bb10501575236bde
+      internalID: -1424346132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_203
+      rect:
+        serializedVersion: 2
+        x: 3806
+        y: 349
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6070b83cee5964f8ff9e5d3aae1e09
+      internalID: -10161505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_204
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 353
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8aa6211bde156c4b8d7d35deb36d565
+      internalID: -1119954135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_205
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 347
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd70a78ee5bcb642ad8c15a4924f585
+      internalID: 1356679820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_206
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 345
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa7c1c940fdf244f85351ffe5623247
+      internalID: 1628945113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_207
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 334
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836dcd26979279f4c863bc2ab4c9f147
+      internalID: -770655386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_208
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 338
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4425dda396330d45934267e520c3d89
+      internalID: -1476675525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_209
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 332
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffcfb607d7e0244685106ab91fc140e
+      internalID: -1597134376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_210
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 328
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d036a8b2a3cfc34ca72bd841120dd28
+      internalID: 1983421140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_211
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 319
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ca88b76fa870543acd0390d4a032b0
+      internalID: -411037406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_212
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 261
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f55d1eb26336e4da274c01dae74347
+      internalID: -2107194970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_213
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 263
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd4d0531ba797143b8a1827a4a5b892
+      internalID: -1871996143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_214
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 272
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147e03f7671679643b9eb0b52f74ae0e
+      internalID: 63097902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_215
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 37
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d470dbb4b713fd544af2fb3002a3c27f
+      internalID: 1522146262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_216
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 261
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103849470099f5044955199de7fef0c0
+      internalID: -2034067481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_217
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 276
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701e24667338b3a4d845fa1c734e38d2
+      internalID: -1253665782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_218
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 255
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518de067b09146d49b2226c772738c2e
+      internalID: 1014734280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_219
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 128
+        width: 6
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0313444891597824fa085afcb4c1e8ea
+      internalID: -188807815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_220
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 248
+        width: 68
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4449beb985da93d478f62a05253a1846
+      internalID: -1973275731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_221
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 191
+        width: 5
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b90042edfb2374e97bcf595864a66d
+      internalID: 208072228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_222
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 267
+        width: 90
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a49232ce91b7340bbdad28cbdc6f96
+      internalID: -293909031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_223
+      rect:
+        serializedVersion: 2
+        x: 3482
+        y: 263
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1a05b934e306844b8155b6bf83c797
+      internalID: 1340890062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_224
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 255
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92aaac4ada2dc2343b4029b40307fb69
+      internalID: -1742599457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_225
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 242
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a610837531dffd418a5cfc06ef22443
+      internalID: 826041547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_226
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 235
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2a87e7d44ad64488fc040777e54862
+      internalID: 526397022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_227
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 220
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23072a2db90b854daa0730fc9c89693
+      internalID: 428751290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_228
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 225
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f21f02fa5c5c054ab2dc886e9058185
+      internalID: 1513169807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_229
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 223
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c028c11726a699847af2d045d91a8584
+      internalID: 1294867792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_230
+      rect:
+        serializedVersion: 2
+        x: 3566
+        y: 107
+        width: 40
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f8c9e1c42c3754e896ac70ca51ce0d
+      internalID: -335357411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_231
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 220
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d336ddfe41ff34343b029a0298c87ba4
+      internalID: 1363298523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_232
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 216
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55c61f8f12378d49be6e463da9e3872
+      internalID: -1413003395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_233
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 186
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59718ee84c6a31348b2f4961dde52f83
+      internalID: 802065288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_234
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 73
+        width: 28
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d16c7a927b06a44876871fce5f2ee4
+      internalID: -1878560166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_235
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 197
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e53f19b838eb84481e723e36142d26
+      internalID: 1744547849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_236
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 86
+        width: 15
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ac95f93dc20fd489ca052d7ec45b47
+      internalID: -1904572880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_237
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 137
+        width: 98
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3586efc1b6299764695fb385081aebfc
+      internalID: -454251534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_238
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 190
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72f1f6ecc0977a44974714c956962db
+      internalID: -1014019550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_239
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 131
+        width: 21
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea99ab1b57ff802449e90effab7630bd
+      internalID: -871991283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_240
+      rect:
+        serializedVersion: 2
+        x: 3467
+        y: 191
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7553667c79b6859468e2729fe8a550a1
+      internalID: -795522612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_241
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 175
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95486c5aa53afe24db57468de0db6093
+      internalID: 730835736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_242
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 154
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c8894d328ecbd44ab986d3163562e3
+      internalID: 1594799657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_243
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 175
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904827ddb471ff14b9e820983f14a524
+      internalID: 103555434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_244
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 178
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36d329e9f45b364fb87c3155b1a8a3d
+      internalID: -373741716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_245
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 120
+        width: 10
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddfb84005bf5134bb95f7ebf6ac2cfc
+      internalID: -1831210641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_246
+      rect:
+        serializedVersion: 2
+        x: 3491
+        y: 163
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6744e5d0eecd3e429781033e18687a8
+      internalID: 601042296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_247
+      rect:
+        serializedVersion: 2
+        x: 3664
+        y: 180
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049d1589da107c64d8db34338a01b8d5
+      internalID: -751453284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_248
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 154
+        width: 60
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f97b25bf54f584a9d5c5e369aea4a3
+      internalID: -1952700515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_249
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 116
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bc2af09bed39d4aa2b7a1d37ae0b56
+      internalID: 690552710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_250
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 137
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05dcd184d5471cc41b9a9590bc697220
+      internalID: -1204309709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_251
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 165
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf9efa3e5642fc4eb931cb01df0fd1d
+      internalID: 1657484130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_252
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 156
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aaffce34b41e6e44bad78c010f32d7d
+      internalID: 531622204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_253
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 171
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f3c557554ce1d45891638d29b31448
+      internalID: -859952286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_254
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 75
+        width: 26
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8aee7e5b98c6e447baf79a5e97342cd
+      internalID: 1598398877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_255
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 165
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd4f875894411340b0bda678569e24d
+      internalID: -2105236568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_256
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 161
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cb2d3bcd018d74a9c749a3b9bd628e
+      internalID: 2103378114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_257
+      rect:
+        serializedVersion: 2
+        x: 3686
+        y: 163
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec4039ff9232244583a007d70861fdc
+      internalID: -171538171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_258
+      rect:
+        serializedVersion: 2
+        x: 3713
+        y: 146
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a477412e1d28c94f9b216374577db68
+      internalID: 1299819441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_259
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 148
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa5e6e1d30f70c4c882ad15c379d764
+      internalID: 380555573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_260
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 133
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b2aff5ebdd1fa4d97e2b7555e5d350
+      internalID: -634844030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_261
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 143
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7607efb066143d24a97d82bd7566aada
+      internalID: -1441811696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_262
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 120
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7389be221f52d0447b0813d58b6daf1f
+      internalID: 1497067321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_263
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 58
+        width: 45
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3a8054de0cb2940aa20f5751c7aac6
+      internalID: 1619114031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_264
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 0
+        width: 35
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792e16e8742937846ac58f7551c16508
+      internalID: -1968706809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_265
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 133
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fb06354c2f95f4a80433386769e88a
+      internalID: -236712016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_266
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 56
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0c3bea6b872dc489a307936b6dda5b
+      internalID: -1067651258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_267
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 122
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b407a79d10f8f4189ac0f6a82e9725
+      internalID: 1640234484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_268
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 120
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5099b9774f26744b819d15ef657d976
+      internalID: -976737608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_269
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 111
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7728621c83a08ce44b77f357ae4bcf46
+      internalID: -617784147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_270
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 90
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ff707015ee77744a5c7d2d987ee519
+      internalID: -2109203264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_271
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 83
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab5b710ca4ee53459c9b40073aac7c0
+      internalID: -169166531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_272
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 53
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219db34e96b1b7c44b1f92d9e4a38257
+      internalID: 1683445945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_273
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 79
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280963f8dddce8e418c2764b8db08145
+      internalID: -1500676342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_274
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 69
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa26cbe207cd619438fde2750669ff5e
+      internalID: 241787140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_275
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 17
+        width: 35
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcb51f640bee254dbc2213da9d66018
+      internalID: -1473310713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_276
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 0
+        width: 150
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d56a9fc5f044294b9487dc2e68b9078
+      internalID: -768283027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_277
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 94
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f38d361f3c38814ca76a0628124878b
+      internalID: -620977733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_278
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 96
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f81cc4263a0d74a8736a28439da407
+      internalID: 1870547768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_279
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 71
+        width: 10
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4124563f584e45c44b3ee8d2748577f1
+      internalID: 19529890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_280
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 69
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be331f57203ab3646be9deca4ad6ec1d
+      internalID: 998899351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_281
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 68
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801dff2086e11b8438d884d59886c728
+      internalID: 1172222382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_282
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 81
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5034fd20e42d5b34c9e325cdc2269bdc
+      internalID: 1856937087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_283
+      rect:
+        serializedVersion: 2
+        x: 3414
+        y: 83
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444b17c6bd9e3f845bad4b3f0484876c
+      internalID: 229783710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_284
+      rect:
+        serializedVersion: 2
+        x: 3701
+        y: 66
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8e8b0f84d602647a94f795788e66be
+      internalID: -611267214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_285
+      rect:
+        serializedVersion: 2
+        x: 3739
+        y: 83
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa19359f78d4cb74ebc9820d556d7f5b
+      internalID: -303399561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_286
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 79
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093c08667899ae4489647762b017bfd1
+      internalID: 1538643932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_287
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78dd8ce2231a33479c0c6815d983cfe
+      internalID: -984600366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_288
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 36
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc08403d34a624c4e8fe542af7ee47fb
+      internalID: 1351022089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_289
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 0
+        width: 28
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b864607c9304944189b025f145afa3b
+      internalID: -274512407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_290
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 73
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4902e94fc4d1bb44ae12408eb14c9e1
+      internalID: 1785580055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_291
+      rect:
+        serializedVersion: 2
+        x: 3722
+        y: 73
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15891eaa1143b58458328d2d6e403603
+      internalID: -943920477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_292
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 51
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4d1794170a59245b111f433d6ed982
+      internalID: 1756085048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_293
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 8
+        width: 11
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ea5d2e519636244aa6a59c447213cc
+      internalID: -1299573174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_294
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 58
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b41890e73ceb946bd86e57d92f4018
+      internalID: 1364734586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_295
+      rect:
+        serializedVersion: 2
+        x: 3651
+        y: 56
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ed549c26e57d74094e214496519c42
+      internalID: 1978849274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_296
+      rect:
+        serializedVersion: 2
+        x: 3716
+        y: 60
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d845aded7a52497468191dc019e338bf
+      internalID: -1410451999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_297
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 51
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e2c9848d233144eab97f8ec242b365
+      internalID: -1853719355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_298
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 38
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cfe7099541b7644b3ecc8103a8a502
+      internalID: -543142809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_299
+      rect:
+        serializedVersion: 2
+        x: 3666
+        y: 45
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2a922ce210c4f4382cf998e4b672fb
+      internalID: 1465664122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_300
+      rect:
+        serializedVersion: 2
+        x: 3733
+        y: 13
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18ce0635285d1a438e55f8bb4b059c3
+      internalID: -1614188993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_301
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 9
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c20141ad02d8c46bea944c97aa01fb
+      internalID: 2125672594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_302
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 32
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c11c6eb0f9f7944abc086f8b63701db
+      internalID: -669370413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_303
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 13
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1b47f09a4c8b840bb3879134b59677
+      internalID: 179206051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_304
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 15
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e147288d5eafd4696d94a9c8ca7b0f
+      internalID: 1227612518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_305
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 39
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c73b1107d98754baaadef040553944
+      internalID: 1467626199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_306
+      rect:
+        serializedVersion: 2
+        x: 3352
+        y: 34
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62368fe005db66428464f12037542ce
+      internalID: 1339237405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_307
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 11
+        width: 10
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4757ac78725584eac9492bf0c3edd7
+      internalID: 1024244029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_308
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 45
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7459454fcebfe4b82aa75c93ee3af8
+      internalID: 886000189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_309
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 17
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5fb84d19fb44140bbb45d96ae44e77
+      internalID: -131230728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_310
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 38
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c3f762d66cf29489c19b5cab3bf88d
+      internalID: -1942067057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_311
+      rect:
+        serializedVersion: 2
+        x: 3799
+        y: 11
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967bf8c46c6f48048b85818d0dbb6327
+      internalID: -1445810477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_312
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 24
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c0331db9b007c48ae850689aee4da1
+      internalID: -1023497716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_313
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 17
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392e72b33f791794c833f954aa75c53e
+      internalID: -963212302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_314
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 11
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea69ac5d3aa79b4f911e37f78a11566
+      internalID: 1807667959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_315
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 9
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bf263acf4444c48ae569d6a8e37419
+      internalID: 270923712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_316
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 9
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba47928c3e13f54183475c06c7cde63
+      internalID: -1091452132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_317
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 103
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8538f8bc08f4ad949a710d3441d10dda
+      internalID: 1593789417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_318
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b5afa96b850f943938bcf33383a8fd
+      internalID: 185208665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_319
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261dad00106925e49835548eea209db9
+      internalID: 1867682960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_320
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1c0108e8363ac49b131572588e80a4
+      internalID: 1373807467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_321
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 0
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10b1a4718f6cf144821600396f837b3
+      internalID: 1575833651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_322
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 0
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a94d09fded02343ad70a3cefd09516
+      internalID: -1621211686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_323
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 0
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98326fb2afb04a74893e0f06f74ee5b3
+      internalID: -1642502304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_324
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 0
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddbe95946cbcce4080016bc1e0ce25b
+      internalID: 2036347624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_325
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 0
+        width: 64
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a2c062fdecbe24090796bcb8a668ef
+      internalID: 749597494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_326
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 0
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf3e3bf7ef94e84eb69d6a110a1437a
+      internalID: -268080728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_327
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 0
+        width: 77
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cc07fa5de3352428018df96c93ad30
+      internalID: -169764612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_328
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 0
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3f121babecb2944baf16b76c0fb683
+      internalID: -1703368711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_329
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 0
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006e184bc164b7242bb80290ef96b85c
+      internalID: -1342498376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_330
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 0
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3fdb2321fc7e949bc5173e3ca95590
+      internalID: -1860974628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_331
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 0
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cbb6ac0337d7540a503ebf08033728
+      internalID: -1079355533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_332
+      rect:
+        serializedVersion: 2
+        x: 3369
+        y: 0
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9736b0c5f9a6b44ae74b8fc49b1d44
+      internalID: 1488499649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_333
+      rect:
+        serializedVersion: 2
+        x: 3414
+        y: 0
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9318b62e4415cd4a9f3f1e65e1b0f73
+      internalID: -43802085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_334
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 0
+        width: 46
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d632ff66227d3f49b1c65557eebdc74
+      internalID: -1374170106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerJump_335
+      rect:
+        serializedVersion: 2
+        x: 3745
+        y: 0
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a68219cce9b70d4fbaafe1dda358174
+      internalID: 98245289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1: -2132329025
+      2: 141207787
+      3: -1324829464
+      4: -294724098
+      IzerJump_1: 2028219683
+      IzerJump_10: 449319024
+      IzerJump_100: -737566498
+      IzerJump_101: -1234566828
+      IzerJump_102: -1783586297
+      IzerJump_103: 873433339
+      IzerJump_104: 471114364
+      IzerJump_105: -338353995
+      IzerJump_106: -1949070791
+      IzerJump_107: -1107615474
+      IzerJump_108: 1578261159
+      IzerJump_109: -11509154
+      IzerJump_11: -1289682705
+      IzerJump_110: -1828407771
+      IzerJump_111: -529836613
+      IzerJump_112: 1267451635
+      IzerJump_113: 63563654
+      IzerJump_114: 1365223238
+      IzerJump_115: -608794709
+      IzerJump_116: 340927120
+      IzerJump_117: -451175087
+      IzerJump_118: -739740131
+      IzerJump_119: 562510084
+      IzerJump_12: 1956093338
+      IzerJump_120: -1759765310
+      IzerJump_121: -1266756907
+      IzerJump_122: 872504398
+      IzerJump_123: 1985629945
+      IzerJump_124: 409406904
+      IzerJump_125: 233400788
+      IzerJump_126: -1040330790
+      IzerJump_127: -1354675076
+      IzerJump_128: 997600683
+      IzerJump_129: -1267173233
+      IzerJump_13: -125131684
+      IzerJump_130: -89442726
+      IzerJump_131: -728283097
+      IzerJump_132: -1941458288
+      IzerJump_133: 232188916
+      IzerJump_134: -1209402147
+      IzerJump_135: 282790726
+      IzerJump_136: 1008093196
+      IzerJump_137: -267709172
+      IzerJump_138: 460412722
+      IzerJump_139: -777401960
+      IzerJump_14: 1807274625
+      IzerJump_140: -1529939890
+      IzerJump_141: -1874282382
+      IzerJump_142: 501411163
+      IzerJump_143: -285613628
+      IzerJump_144: 1552330279
+      IzerJump_145: -1874035656
+      IzerJump_146: 1995431731
+      IzerJump_147: 407339512
+      IzerJump_148: -191187753
+      IzerJump_149: 74445815
+      IzerJump_15: -182714869
+      IzerJump_150: -869971617
+      IzerJump_151: -774404018
+      IzerJump_152: -1059120246
+      IzerJump_153: -1354200039
+      IzerJump_154: 71594338
+      IzerJump_155: -1637882435
+      IzerJump_156: -958804882
+      IzerJump_157: 1097315399
+      IzerJump_158: -1576122672
+      IzerJump_159: -429404404
+      IzerJump_16: -116383620
+      IzerJump_160: 294246842
+      IzerJump_161: 93147908
+      IzerJump_162: 1510938223
+      IzerJump_165: 1178556740
+      IzerJump_166: 1101008511
+      IzerJump_167: -408690523
+      IzerJump_168: 904539053
+      IzerJump_169: 273381919
+      IzerJump_17: 1930494592
+      IzerJump_170: -864170028
+      IzerJump_171: 1403657266
+      IzerJump_172: 805518019
+      IzerJump_173: 811419783
+      IzerJump_174: 97103939
+      IzerJump_175: 1851042805
+      IzerJump_176: -1507736712
+      IzerJump_177: -661313295
+      IzerJump_178: -2051030411
+      IzerJump_179: 1975389277
+      IzerJump_18: 1861067286
+      IzerJump_180: -1321132311
+      IzerJump_181: 630611280
+      IzerJump_182: 638708882
+      IzerJump_183: 43968005
+      IzerJump_184: 335348881
+      IzerJump_185: 853361072
+      IzerJump_186: 683118589
+      IzerJump_187: 1460439204
+      IzerJump_188: -830012741
+      IzerJump_189: -1150117112
+      IzerJump_19: -350417158
+      IzerJump_190: -908730106
+      IzerJump_191: -1029090862
+      IzerJump_192: -291435106
+      IzerJump_193: -2054269296
+      IzerJump_194: -1226096057
+      IzerJump_195: -1040039204
+      IzerJump_196: 1971912224
+      IzerJump_197: 555352879
+      IzerJump_198: -1673094256
+      IzerJump_199: -784036008
+      IzerJump_20: -311424739
+      IzerJump_200: 867371187
+      IzerJump_201: -1506956285
+      IzerJump_202: -1424346132
+      IzerJump_203: -10161505
+      IzerJump_204: -1119954135
+      IzerJump_205: 1356679820
+      IzerJump_206: 1628945113
+      IzerJump_207: -770655386
+      IzerJump_208: -1476675525
+      IzerJump_209: -1597134376
+      IzerJump_21: 1562097395
+      IzerJump_210: 1983421140
+      IzerJump_211: -411037406
+      IzerJump_212: -2107194970
+      IzerJump_213: -1871996143
+      IzerJump_214: 63097902
+      IzerJump_215: 1522146262
+      IzerJump_216: -2034067481
+      IzerJump_217: -1253665782
+      IzerJump_218: 1014734280
+      IzerJump_219: -188807815
+      IzerJump_22: 650830251
+      IzerJump_220: -1973275731
+      IzerJump_221: 208072228
+      IzerJump_222: -293909031
+      IzerJump_223: 1340890062
+      IzerJump_224: -1742599457
+      IzerJump_225: 826041547
+      IzerJump_226: 526397022
+      IzerJump_227: 428751290
+      IzerJump_228: 1513169807
+      IzerJump_229: 1294867792
+      IzerJump_23: -1196378019
+      IzerJump_230: -335357411
+      IzerJump_231: 1363298523
+      IzerJump_232: -1413003395
+      IzerJump_233: 802065288
+      IzerJump_234: -1878560166
+      IzerJump_235: 1744547849
+      IzerJump_236: -1904572880
+      IzerJump_237: -454251534
+      IzerJump_238: -1014019550
+      IzerJump_239: -871991283
+      IzerJump_24: 1252898915
+      IzerJump_240: -795522612
+      IzerJump_241: 730835736
+      IzerJump_242: 1594799657
+      IzerJump_243: 103555434
+      IzerJump_244: -373741716
+      IzerJump_245: -1831210641
+      IzerJump_246: 601042296
+      IzerJump_247: -751453284
+      IzerJump_248: -1952700515
+      IzerJump_249: 690552710
+      IzerJump_25: 563034860
+      IzerJump_250: -1204309709
+      IzerJump_251: 1657484130
+      IzerJump_252: 531622204
+      IzerJump_253: -859952286
+      IzerJump_254: 1598398877
+      IzerJump_255: -2105236568
+      IzerJump_256: 2103378114
+      IzerJump_257: -171538171
+      IzerJump_258: 1299819441
+      IzerJump_259: 380555573
+      IzerJump_26: -528032536
+      IzerJump_260: -634844030
+      IzerJump_261: -1441811696
+      IzerJump_262: 1497067321
+      IzerJump_263: 1619114031
+      IzerJump_264: -1968706809
+      IzerJump_265: -236712016
+      IzerJump_266: -1067651258
+      IzerJump_267: 1640234484
+      IzerJump_268: -976737608
+      IzerJump_269: -617784147
+      IzerJump_27: 398822091
+      IzerJump_270: -2109203264
+      IzerJump_271: -169166531
+      IzerJump_272: 1683445945
+      IzerJump_273: -1500676342
+      IzerJump_274: 241787140
+      IzerJump_275: -1473310713
+      IzerJump_276: -768283027
+      IzerJump_277: -620977733
+      IzerJump_278: 1870547768
+      IzerJump_279: 19529890
+      IzerJump_28: 1080308874
+      IzerJump_280: 998899351
+      IzerJump_281: 1172222382
+      IzerJump_282: 1856937087
+      IzerJump_283: 229783710
+      IzerJump_284: -611267214
+      IzerJump_285: -303399561
+      IzerJump_286: 1538643932
+      IzerJump_287: -984600366
+      IzerJump_288: 1351022089
+      IzerJump_289: -274512407
+      IzerJump_29: -1438604902
+      IzerJump_290: 1785580055
+      IzerJump_291: -943920477
+      IzerJump_292: 1756085048
+      IzerJump_293: -1299573174
+      IzerJump_294: 1364734586
+      IzerJump_295: 1978849274
+      IzerJump_296: -1410451999
+      IzerJump_297: -1853719355
+      IzerJump_298: -543142809
+      IzerJump_299: 1465664122
+      IzerJump_3: 846003639
+      IzerJump_30: -946839360
+      IzerJump_300: -1614188993
+      IzerJump_301: 2125672594
+      IzerJump_302: -669370413
+      IzerJump_303: 179206051
+      IzerJump_304: 1227612518
+      IzerJump_305: 1467626199
+      IzerJump_306: 1339237405
+      IzerJump_307: 1024244029
+      IzerJump_308: 886000189
+      IzerJump_309: -131230728
+      IzerJump_31: -2050919952
+      IzerJump_310: -1942067057
+      IzerJump_311: -1445810477
+      IzerJump_312: -1023497716
+      IzerJump_313: -963212302
+      IzerJump_314: 1807667959
+      IzerJump_315: 270923712
+      IzerJump_316: -1091452132
+      IzerJump_317: 1593789417
+      IzerJump_318: 185208665
+      IzerJump_319: 1867682960
+      IzerJump_32: -587929540
+      IzerJump_320: 1373807467
+      IzerJump_321: 1575833651
+      IzerJump_322: -1621211686
+      IzerJump_323: -1642502304
+      IzerJump_324: 2036347624
+      IzerJump_325: 749597494
+      IzerJump_326: -268080728
+      IzerJump_327: -169764612
+      IzerJump_328: -1703368711
+      IzerJump_329: -1342498376
+      IzerJump_33: 781032980
+      IzerJump_330: -1860974628
+      IzerJump_331: -1079355533
+      IzerJump_332: 1488499649
+      IzerJump_333: -43802085
+      IzerJump_334: -1374170106
+      IzerJump_335: 98245289
+      IzerJump_34: -2008320380
+      IzerJump_35: 93245917
+      IzerJump_36: -88381196
+      IzerJump_37: -899974213
+      IzerJump_38: -1142840215
+      IzerJump_39: -218176198
+      IzerJump_4: -2019869600
+      IzerJump_40: 557892176
+      IzerJump_41: -1480870239
+      IzerJump_42: 1802786763
+      IzerJump_43: 1227880479
+      IzerJump_44: -1348587222
+      IzerJump_45: 776327853
+      IzerJump_46: 102295068
+      IzerJump_47: 1915229554
+      IzerJump_48: -1056672598
+      IzerJump_49: 1441205040
+      IzerJump_5: -2006732996
+      IzerJump_50: 321493017
+      IzerJump_51: 1586784477
+      IzerJump_52: -1612269997
+      IzerJump_53: -1675997989
+      IzerJump_54: 471631640
+      IzerJump_55: 2064630442
+      IzerJump_56: 2062959096
+      IzerJump_57: 1325220563
+      IzerJump_58: 362513350
+      IzerJump_59: -1149881426
+      IzerJump_6: 1848101903
+      IzerJump_60: 1141821505
+      IzerJump_61: 1585014135
+      IzerJump_62: 836093800
+      IzerJump_63: -16309652
+      IzerJump_64: 850030864
+      IzerJump_65: 1963161998
+      IzerJump_66: 85084139
+      IzerJump_67: -1273752797
+      IzerJump_68: 426562368
+      IzerJump_69: -1341641336
+      IzerJump_7: -1035706038
+      IzerJump_70: -1323333906
+      IzerJump_71: 190433269
+      IzerJump_72: -1395061318
+      IzerJump_73: -1343342462
+      IzerJump_74: -134343656
+      IzerJump_75: 374246695
+      IzerJump_76: -580147892
+      IzerJump_77: 1418389426
+      IzerJump_78: -585704120
+      IzerJump_79: 1621632427
+      IzerJump_8: 459556898
+      IzerJump_80: -1712456568
+      IzerJump_81: 195906063
+      IzerJump_82: -813568872
+      IzerJump_83: 1082912501
+      IzerJump_84: -1783110420
+      IzerJump_85: 582040115
+      IzerJump_86: 1035426837
+      IzerJump_87: 1342159347
+      IzerJump_88: 1099610172
+      IzerJump_89: 696659577
+      IzerJump_9: 1619065976
+      IzerJump_90: 442740929
+      IzerJump_91: -1308391679
+      IzerJump_92: -1687317201
+      IzerJump_93: 752732136
+      IzerJump_94: -1938893408
+      IzerJump_95: 1613053904
+      IzerJump_96: 818002939
+      IzerJump_97: -1611532931
+      IzerJump_98: -1024304219
+      IzerJump_99: 2095614106
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

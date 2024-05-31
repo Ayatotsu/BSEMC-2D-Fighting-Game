@@ -1,0 +1,5564 @@
+fileFormatVersion: 2
+guid: a50a9fda1dcc6d440b657d42f55bdeaa
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2048
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IzerBlock_0
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1893
+        width: 8
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66eb2026f663254cad02ecfd366fe07
+      internalID: 707969380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1198
+        width: 309
+        height: 949
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4408b91060e034a8c63b37bee38411
+      internalID: 2047369858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 2735
+        y: 1199
+        width: 354
+        height: 955
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1631fe195134545808a801e260bd4e
+      internalID: 1725245363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_3
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1880
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28127f38bb2bf0144931a42f8ed8f917
+      internalID: -942944499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_4
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 1753
+        width: 111
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf87ebd87ee05d409b69daf2f0e1195
+      internalID: 710250213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_5
+      rect:
+        serializedVersion: 2
+        x: 3721
+        y: 1753
+        width: 113
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc93809f4cc6c9040b01ef9fb538984a
+      internalID: -1084331522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_6
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 1691
+        width: 14
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81337402382cf2c4a8be3fdeea156e2e
+      internalID: -1752702753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_7
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 1690
+        width: 15
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669117ccff63ba5498142e714ae1856b
+      internalID: -222480608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1623
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f2ce874e839f94aa1c79900384f9a1
+      internalID: 1836247878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_10
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1633
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c46d136b3516a44b0bfb15b07e5b62
+      internalID: -512399977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_11
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1640
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2cf5307af3b1f4cb605239f6bd5f49
+      internalID: -381430593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_12
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 1640
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d905a2e7782ba40a916ba6cfd3a4c6
+      internalID: -115992190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1623
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b124f56cfc64e04fbca93ddb959e88b
+      internalID: -1960509883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_14
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1623
+        width: 33
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1621c531963c712459a03de54c8fe5cf
+      internalID: -438121367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_15
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1592
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e123f9fa05dae4f9adcd0807463ee7
+      internalID: -1123836421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_16
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 1608
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce261ee5ffbdc641bdcb62aaff1bb45
+      internalID: 206376491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_17
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 1592
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b12c78f8189814f8d09afaa56a74e6
+      internalID: 1451036837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_18
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1584
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272dec09140379b45af2af000d0b6957
+      internalID: -227610638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_19
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 1579
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e231930a514bfd04e8f5b9c5e983fef7
+      internalID: -1816209333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1561
+        width: 26
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f5262d38c9ab44cbf301803b40d4df
+      internalID: 269371214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_21
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1548
+        width: 67
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1de9c38e53b24e48b6a6c2698410f7f
+      internalID: -367973027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_22
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 1561
+        width: 26
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c976391ab67e9914ead42b55a528f481
+      internalID: -593492309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_23
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 1512
+        width: 100
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f368f425d5a2eb4a877c4b32993fcb9
+      internalID: 1836775101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_24
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1512
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f249275984998784e813e8cccc30ad27
+      internalID: -872387743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_25
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1538
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1681c45ae603be1428b09c733caf221e
+      internalID: -189408094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_26
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1514
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d96d1604407414409279e41a84b23e3
+      internalID: 589510352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_27
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 1538
+        width: 45
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2fd40e546faac459d31269023a3581
+      internalID: -2105868539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_28
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 1514
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af841aa4263bd3c42a880d2b84b46aa8
+      internalID: 991845570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_29
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1485
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b7bec7444486b40b7a84fd884748cc
+      internalID: -330134128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_30
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 1474
+        width: 67
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f46f569063d6e4eb842a591eb2be0f
+      internalID: -1880595359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_31
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1441
+        width: 29
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbe4289b76927f478908ff7751bfec7
+      internalID: -1658700759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_33
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1394
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a0eb1dda36c57419f2240acb61fc4a
+      internalID: -334275903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_34
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1353
+        width: 13
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216d4ca0b49b69d4a87be0d8eb3d8f40
+      internalID: 580886981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_35
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1435
+        width: 46
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851a8ffee8590d74a8f4da4c0c169fe0
+      internalID: -1546369628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_36
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 1359
+        width: 70
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94168ad5b4e6d6f44a8ecb93f97533d2
+      internalID: -748610491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_37
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1412
+        width: 116
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cefac0d53cd83a4daa77f21ba7e325f
+      internalID: -72942238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_38
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 1431
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e33a75ec9ae2844b1b8fd5c9f35ae1
+      internalID: -1418228168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_39
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 1287
+        width: 23
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44472edbfb69e4468fd78fc575c6da6
+      internalID: 1374760271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_40
+      rect:
+        serializedVersion: 2
+        x: 3637
+        y: 1435
+        width: 206
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3558a4d2507f4f449cd6bf5651f1463
+      internalID: 623303497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_41
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1337
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d86678d20f6594e8b965fdb9991b30
+      internalID: -258352060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_42
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1366
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38319b8bac28881488105007676189ec
+      internalID: 417481211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_43
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1396
+        width: 4
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d81aab4254c0545afc11f79c3de9da
+      internalID: -1191007533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_44
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1350
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017edaf31d67b094ab5e6b668c72df4a
+      internalID: 1236113283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_45
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1262
+        width: 29
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfaa755ef187df241992bb0e73b69e6b
+      internalID: -1097855911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_46
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1334
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c226575e4947c46b46e50feeffe891
+      internalID: -357093081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_47
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 1341
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e3a5bcc6e463e4a97e94fc0800e0cc
+      internalID: 2119422757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_48
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 1350
+        width: 6
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84afc97138d79044aa9f3c6c3f9bfd32
+      internalID: -7599310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_49
+      rect:
+        serializedVersion: 2
+        x: 3295
+        y: 1338
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208f1e0ba19bd8b40abca3f8e9116d52
+      internalID: 542123198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_50
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 1344
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a7ae2fc1596924e887feb6ca6c7d65
+      internalID: 1196816621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_51
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1274
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf32c0094b1ae84f910e67e2bb6ec2d
+      internalID: -1968569472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_52
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1226
+        width: 15
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db486654dcdf8e4b8d0a89d1fe25cff
+      internalID: -940674300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_53
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1083
+        width: 44
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cfbd6d0c91a4f4aa2a9d402c3637c5
+      internalID: -624385076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_54
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1323
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc18145d819c3e94eaed255c5359b13f
+      internalID: -723058764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_55
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 1293
+        width: 7
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f6b27163de614429c38511505f72f8
+      internalID: 1631467950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_56
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 1228
+        width: 12
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707d997016b7f9841861985646e79497
+      internalID: -165656909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_57
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 1177
+        width: 37
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389e8268bf359aa48af1349f3b308983
+      internalID: -2115280889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_58
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 1324
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccda7d833d5156d4a80d07d1f7cae5c6
+      internalID: -121412022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_59
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 1326
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040009622d109bd4194445bf470ec415
+      internalID: 1486806347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_60
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1292
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465759656482b964a9ed13f511f8c63a
+      internalID: 239089377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_61
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1289
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7166c0fba804848a4215d3b54ea9ac
+      internalID: -16854271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_62
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1214
+        width: 83
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d45f4bd5b238241bfcd0179de860c0
+      internalID: -1594472696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_63
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 1262
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c5daebc951aad43bb386d7b5946192
+      internalID: -1922753153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_64
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1283
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a21995fb3874845b4c9528562eef51
+      internalID: 2012333641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_65
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 1240
+        width: 20
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e412871ebced56f498da2ff08565dd69
+      internalID: -326017400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_66
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1249
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c309564243ca544b2a7b63c3a9d634
+      internalID: 1399596862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_67
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1202
+        width: 78
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcba95079ed69d844befe4f17cd8f532
+      internalID: 48125525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_68
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1292
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349ee06d202c71c48954b6dceef80f75
+      internalID: 1980085515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_69
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 1289
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c60aedff0a9eaf4ab549cb234cf1f66
+      internalID: -531880859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_70
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1210
+        width: 102
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d51a050b643d64f94a406505efd0c4
+      internalID: -634099128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_71
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 1274
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05660f51580d6b8459536f743926d65f
+      internalID: -1333237209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_72
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 1267
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2612667f209f8eb4398f68db0698bae9
+      internalID: -944212113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_73
+      rect:
+        serializedVersion: 2
+        x: 3661
+        y: 1295
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26db60125467c314fad6435af8d7bbf3
+      internalID: -938578589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_74
+      rect:
+        serializedVersion: 2
+        x: 3709
+        y: 1194
+        width: 39
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e7441b36f3f94499ca0cb7868c84f0
+      internalID: 1251743981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_75
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1116
+        width: 42
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671e6d22df41caa49a8263f6fbab38ad
+      internalID: -191501815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_76
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1275
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958347dce7a10514f8d1f5fa4cc3ec3a
+      internalID: -193518156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_77
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1253
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c094a7e0e3aaf0a448c6c29f70d77853
+      internalID: -588278879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_78
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1271
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5aab9d708ca8d4b8ff421d8b45f611
+      internalID: -1675992796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_79
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1274
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324f2e1759ec12f41915d82ff2be1a79
+      internalID: 1979037776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_80
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 1270
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa88918f250f9134889677591c76d2f7
+      internalID: 1186160560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_81
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 1249
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2661b99f5f56374ab404672cc307178
+      internalID: -1748096433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_82
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1248
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2d0c0cbc14f234a8e4391d97aba25c
+      internalID: -601640143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_83
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1256
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2d124ee6b885c43ad7101b81a2a66e
+      internalID: 1571882909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_84
+      rect:
+        serializedVersion: 2
+        x: 3310
+        y: 1253
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1247e3f23fee0f3478c9792131cd9750
+      internalID: 1536279646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_85
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 1243
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27a9e2ada674694c82c33230b69f791
+      internalID: 1557650440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_86
+      rect:
+        serializedVersion: 2
+        x: 3565
+        y: 1262
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f10920ddc61c0479a39742bdcfff21
+      internalID: 1990397682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_87
+      rect:
+        serializedVersion: 2
+        x: 3668
+        y: 1256
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e6f4c401bee8c47aa8518e6f8967b2
+      internalID: 2120195053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_88
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1237
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382ccfb8a4468f744bc6180b0eca89a6
+      internalID: 1456233465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_89
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 1243
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89b2f68ae9c07a4999fa2f7668e8482
+      internalID: 974669568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_90
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 1250
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4f90d4d374f514b86ab5e168fb97b1
+      internalID: -26474926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_91
+      rect:
+        serializedVersion: 2
+        x: 3589
+        y: 1241
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da90395e3a03df74f95cae3e92788409
+      internalID: 996244720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_92
+      rect:
+        serializedVersion: 2
+        x: 3656
+        y: 1250
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fc8c2507a22bc4ca585f5a2b641a8f
+      internalID: 188204218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_93
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1221
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50ba83e7ec82f14aa89285efa600ba3
+      internalID: 1394485285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_94
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1235
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a68efdd862b164e8e7ace708a277c1
+      internalID: 2063542463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_95
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1195
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1be2518266386d4a8fde6602e822328
+      internalID: 670487081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_96
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 1222
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84313b7418a98834987e49668078609a
+      internalID: -1709629340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_97
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 1187
+        width: 5
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbf83391caa2da47be3500711edbf43
+      internalID: -1038230697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_98
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 1235
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b27c646ed0a19409555e4fcc1e8fa4
+      internalID: 113075943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_99
+      rect:
+        serializedVersion: 2
+        x: 3685
+        y: 1240
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a03a9dabe515648a5887c745e8e87d
+      internalID: -1625937570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_100
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1126
+        width: 22
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5099c443ed46fec448de9663526f17a6
+      internalID: -1522676466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_101
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1210
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327131f21a19e634097369794d3c0bde
+      internalID: 1388799218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_102
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1225
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef7d798fc8069545bd5d34af627951a
+      internalID: -802868133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_103
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1210
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e2412ccf946bf40a36915dc2da3d9c
+      internalID: -1734233920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_104
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 1190
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe8f787d93f70141bb58f0f902fe3c5
+      internalID: 1475324727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_105
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 1157
+        width: 33
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2a567a9a5e74d488d3dd6b117d8133
+      internalID: -900863473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_106
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1226
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600f9c5055f3e484f940dd39ff4e052a
+      internalID: -1155047745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_107
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1165
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2701feecbb739744fa189bca598cd422
+      internalID: -1323832833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_108
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1222
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de8b6082f2888c4c91b1037062d27e6
+      internalID: -599449612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_109
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 1115
+        width: 17
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e5c987edda016448bc828c6fdc593b
+      internalID: 1510814565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_110
+      rect:
+        serializedVersion: 2
+        x: 3414
+        y: 1224
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149eaf2f10dbb994fb29e7a8a049d628
+      internalID: -1947644403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_111
+      rect:
+        serializedVersion: 2
+        x: 3614
+        y: 1214
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4feb38e1246d04086a0625bfa8727a
+      internalID: -1865101773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_112
+      rect:
+        serializedVersion: 2
+        x: 3675
+        y: 1195
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3d82c33beab1c4291d747b5f7cbcc2
+      internalID: -841067606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_113
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 1157
+        width: 33
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf44db863fcfc64a9a436681081e18e
+      internalID: 1927756568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_114
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 1165
+        width: 25
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d41e8c02839cca469f78e2ada3e9378
+      internalID: -1566175488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_115
+      rect:
+        serializedVersion: 2
+        x: 3809
+        y: 1203
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12bfd98cfe49844a97d53740144bbe3
+      internalID: -1384397672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_116
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1207
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa5c34af3f1e914fb8cb19379889c6a
+      internalID: -1572841171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_117
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1115
+        width: 17
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cccd9468a3d9d40baf7616352d1faf
+      internalID: -1079274746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_118
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1097
+        width: 21
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0582630438c240b4a859dc7b28e506b4
+      internalID: -1191511717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_119
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1212
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cadd11187f29b4cbd727776c3896c7
+      internalID: -501412196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_120
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 1110
+        width: 23
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d448b69c5a3883b428c7af3f00803727
+      internalID: -1921599418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_121
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 1083
+        width: 39
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0947e23afe68a64c97b7b12812f49d2
+      internalID: -731501379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_122
+      rect:
+        serializedVersion: 2
+        x: 3347
+        y: 1212
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46decf56fe249cb4e819e5f6750cefca
+      internalID: -1470821334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_123
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 1213
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431f3c05927261e46a5f50e1fb454818
+      internalID: -820291332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_124
+      rect:
+        serializedVersion: 2
+        x: 3659
+        y: 1210
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3331be2d51289468a4afd9ae711cd9
+      internalID: 2102851965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_125
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 1187
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d354b054be160f645b850917b476ae11
+      internalID: 1993121208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_126
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1203
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d3f3f00e3e13c46ab12e21e9067391
+      internalID: -2005025357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_127
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1160
+        width: 7
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630d0fb0f464d5144bd0c32eb47fd2db
+      internalID: -358032450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_128
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 1188
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e429b245d0e49d041a3b03dd77f01750
+      internalID: -1453510543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_129
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 1189
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc413fbdf4ef054ead86dd05ada5ed2
+      internalID: -426151546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_130
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1187
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9184b8b3cb497074da73a952a7f4e19d
+      internalID: 745697554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_131
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1164
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4ccf4358da40746bf1c93414cebb9c
+      internalID: -1372676519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_132
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 1162
+        width: 6
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf136b74cd65b864db2ffadca864de77
+      internalID: 50286211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_133
+      rect:
+        serializedVersion: 2
+        x: 3317
+        y: 1187
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2b8098792a6274c9e018653b4136e1
+      internalID: -792810567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_134
+      rect:
+        serializedVersion: 2
+        x: 3695
+        y: 1163
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a5e416c09cd134b90b256e974189ac
+      internalID: -711739942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_135
+      rect:
+        serializedVersion: 2
+        x: 3381
+        y: 1181
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bc60f332ec6be4bb61f56800c1005f
+      internalID: -1958573784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_136
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1108
+        width: 11
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea27f16e80ee7144976a84891442913
+      internalID: -316831556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_137
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1158
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160aa61f5706fc64a90bd1a8694e957c
+      internalID: -451971412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_138
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 1083
+        width: 35
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22b48eace388894a90bf7529a2ab572
+      internalID: -1276282283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_139
+      rect:
+        serializedVersion: 2
+        x: 3309
+        y: 1112
+        width: 11
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25ed307df10f4346975fa9ba9e29a81
+      internalID: 1569396891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_140
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 1169
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b89f30c65dd584c831948d500d77f9
+      internalID: -1237110060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_141
+      rect:
+        serializedVersion: 2
+        x: 3788
+        y: 1172
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a33f96a6a52b547845852c0ad4e114
+      internalID: -1803008096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_142
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1118
+        width: 5
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae8183c5a557bf4bae59438a3db2d2c
+      internalID: 596451379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_143
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 1137
+        width: 4
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbebf35f1b6fcc64281c4cba162e5db9
+      internalID: 962812862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_144
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1105
+        width: 6
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6b6640c6e834c4995a1ad9e384a06a
+      internalID: 464389569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_145
+      rect:
+        serializedVersion: 2
+        x: 3398
+        y: 1158
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489e48778398d04439655fc27c404faf
+      internalID: -1455477756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_146
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1083
+        width: 164
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b73d13170022f546bda00bb8d4f4cfc
+      internalID: -1584763829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_147
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1090
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55b25b8341666a469eb77943613830a
+      internalID: -2105369199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_148
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1116
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05581d79b07a6334fa43c1cec4714857
+      internalID: -1689245700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_149
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1122
+        width: 5
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886aa539f7e6b8f40a0c1ae1f947fd74
+      internalID: -1448729840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_150
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1083
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452cf09043f2bbc4f84e2414659287f9
+      internalID: -10229531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 116
+        width: 359
+        height: 952
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10831fb5d0701f4297ed15000bc909e
+      internalID: -940596016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_152
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1083
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e933d163a94adf14bb5d478b06b7a7bb
+      internalID: 272513419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_153
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1083
+        width: 145
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc2d671bd7e1864cb1501011bd61d53
+      internalID: -753270769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_154
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1099
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6d865b199211e4a9eb645689368c6b
+      internalID: -1676842807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_155
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1145
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc52e48f341c2e47bc633bf274c1db6
+      internalID: -758321710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_156
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1143
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f531f495986e9624aa6ca8cd0ad526fd
+      internalID: 380590328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_157
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1083
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670572409dbe95f40a232b2146b99a6b
+      internalID: -209385989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_158
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 1083
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f546393160247b458e4e30d493a48c9
+      internalID: -757597055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_159
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 1094
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2adfb47fa2b33c4e90d11f5b8d18b8a
+      internalID: 1239631501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_160
+      rect:
+        serializedVersion: 2
+        x: 3308
+        y: 1096
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8638cab0d3be7d6408f47cc81478185a
+      internalID: -1197110276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_161
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 1083
+        width: 149
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207f45b055d29a145a879cfad9013161
+      internalID: 1957629811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_162
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 1099
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58475752270ab064a80bc01084018a4e
+      internalID: 26441777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_163
+      rect:
+        serializedVersion: 2
+        x: 3746
+        y: 1145
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cb45080c81d084b848f59b5d676806
+      internalID: 1995128046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_164
+      rect:
+        serializedVersion: 2
+        x: 3777
+        y: 1144
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d589ca3e0422a3d40b8427fed2ed3432
+      internalID: 1679765436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_165
+      rect:
+        serializedVersion: 2
+        x: 3799
+        y: 1121
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15799cc260a115e47ab26470374cc533
+      internalID: 1576884715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_166
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 799
+        width: 8
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a8ebb00009f44479f4733c3fc12a66
+      internalID: -1663473835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_167
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 860
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ca8d94db25d7e4aa845da45a0c1c60
+      internalID: 95621087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_168
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 734
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac50fc2b568ed5b40958936bf9a489e0
+      internalID: 1904048624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_169
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 682
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd9ffaf7f8f20245a81470a568eb181
+      internalID: -1825708785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_170
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 672
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92fab7c7a2ca9f4ca0cb7470f04e20f
+      internalID: 900272457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_171
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 611
+        width: 15
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e352d1f5dbdd34a9ae0e136d240dac
+      internalID: 1613745770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_172
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 541
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b7120ecf587e04791382851c696c4c
+      internalID: 786996310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_173
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 479
+        width: 28
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc19ed711eb8134a9391d6e9c7e470b
+      internalID: -437624875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_174
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 540
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ea2a1d2cbce7941b41d7d09f599661
+      internalID: -1483679543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_175
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 307
+        width: 150
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f45e032f717da4686a072aede0c9a5
+      internalID: -361886570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_176
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 465
+        width: 68
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6188847ae92497a4191b48e7a6c6e72c
+      internalID: -814644937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_177
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 353
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfeb2e252d9bde0429f3fefa501a5d54
+      internalID: 515794172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_178
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 427
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894f430853cb7764b92f32c6c4eb97c8
+      internalID: -1399092538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_179
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 315
+        width: 4
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbd9628bfffdcb4fb08696926424747
+      internalID: 2060775073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_180
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 497
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb282a664b7a8a04aa79611f9b6b6d63
+      internalID: -643802984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_181
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 456
+        width: 45
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7053c718598c84a8411df824445ac6
+      internalID: -528215395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_182
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 526
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174c93dfaade5b949952277700740944
+      internalID: -1313746422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_183
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 509
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d546716ddc1548040840dc2209948761
+      internalID: -2029531900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_184
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 404
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b765092b72cfdb847a4d854afba2e5d7
+      internalID: 859040172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_185
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 526
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b9b721e90dfd74fb83e4cf95680855
+      internalID: -756783354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_186
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 511
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5c768a84e09884b9055d85519f96c5
+      internalID: 1861538217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_187
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 427
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc987ef9dc82de45ade854ce2f38909
+      internalID: 98959596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_188
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 415
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dea59b3a8fea98478204bfce0368d45
+      internalID: 213517429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_189
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 349
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225985f00cb3b834da7be8e47054f38e
+      internalID: -1945419884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_190
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 271
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be9b293785efae4184608c0f6fb40d0
+      internalID: 1520043606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_191
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 353
+        width: 129
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bdc2c68da60644ba236f7f7e278ecc
+      internalID: 1282122178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_192
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 284
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb94a43392698454ba3da5ca16d49703
+      internalID: -1532580445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_193
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 268
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5373125b3f946409587ab5bf3c5ab7
+      internalID: 1277398536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_194
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 255
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9020e09b413c44081aa9a9f779863d
+      internalID: 1839856451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_195
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 204
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431939e7a1561974dbb9b1217682741b
+      internalID: -1100033352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_196
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 260
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd814515b7fa1274b8119a063c25bba8
+      internalID: -386112733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_197
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1
+        width: 44
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e20badd5d0e224289b2c9abf13ca2c
+      internalID: -226209243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_198
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 237
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfc3641cd1994f41902bbf0fc82cc59
+      internalID: 71594315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_199
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 251
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08848cfff43e71c44bff41f1a87104a2
+      internalID: 476298049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_200
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 120
+        width: 44
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936924bd5988aeb4cbdda9d262ebb716
+      internalID: 1402079802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_201
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 192
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3250cd04026ac340b3b10a0c928605f
+      internalID: 1791088228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_202
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 210
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034c35a033b4e454f83d2148a23daf21
+      internalID: 234054498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_203
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 122
+        width: 112
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba2923e365061e46a5c915cd34fb208
+      internalID: -479500548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_204
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 207
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a24419559b4f3449319f2496de1295
+      internalID: 502080678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_205
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 210
+        width: 6
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c037afbe985b34aab2cd1323745c18
+      internalID: 590073976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_206
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 192
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d758906db6b251348a39e9d85f212dd3
+      internalID: 1830027215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_207
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 147
+        width: 12
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa83bf1d9067c7e4b83c0e73d3e3d89f
+      internalID: -1088160408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_208
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 183
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5bd2e13075233418f7464f46320c29
+      internalID: -1023926552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_209
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 188
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b33950428dce744c9cd3bce3966e625
+      internalID: -1793501254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_210
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 186
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa6122e99f55e4489352295d68d5cea
+      internalID: 18547610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_211
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 174
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7056af48b4a024fa2459a0f0c0adbb
+      internalID: -158220804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_212
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 111
+        width: 39
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba23b3c206738340a037c1014d23317
+      internalID: -1894847684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_213
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 167
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44d623a00407bd47893d908f8692d4f
+      internalID: -2068140101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_214
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 156
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae202a57dc797d479bfea49f0ff33bd
+      internalID: -1856770272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_215
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 171
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3cd3746b111a3488477a630c5a4430
+      internalID: -1298038807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_216
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 164
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f2975be543bad4b801d1822dbab786
+      internalID: 1386622450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_217
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 159
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c233307255737a5439a894e2b8dc864c
+      internalID: 501824773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_218
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 169
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431a91b8fb9aa76419736d292fe1f50c
+      internalID: -2097998844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_219
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 150
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0943842fe56638046b2fa1220ed2ec30
+      internalID: 675076576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_220
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 153
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770743e75f8fafb49acfb6c1831fddbb
+      internalID: 1422333243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_221
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 128
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ede219a4064394ab4179ee9c2d9ec5
+      internalID: -1933010059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_222
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 113
+        width: 16
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eefadd7d52c1654295c7f4a75b0ae10
+      internalID: 1095458348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_223
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 140
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc5ac028850b7d4a9342c022a3009ba
+      internalID: -559145967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_224
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 132
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96ba101b696d8b4881cfde6567921b8
+      internalID: -1586073255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_225
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 140
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af72df8b7edd5544d9203c4dd92d6834
+      internalID: -1283829951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_226
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 144
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2a82de56d46c24eb36dfdebbb597ed
+      internalID: -1826374402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_227
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 127
+        width: 4
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876541a9db7c0dc46bd7e6b7161375ba
+      internalID: -1140926326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_228
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 132
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c2d65415efad04ba4042405959a7e4
+      internalID: -1838874672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_229
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 69
+        width: 37
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2bcbb6d3856a14f94bff6ec8baaaeb
+      internalID: 1096966710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_231
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1
+        width: 164
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c258eefec83f849ae381c62040b32a
+      internalID: 1272828435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_232
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 28
+        width: 23
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dca987c6e285a43938bebcf5ea806a
+      internalID: 127067306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_233
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1
+        width: 39
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb103b89a6f0e0439e23d107de39311
+      internalID: -267783345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_234
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 130
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36eaaf9888455246adb26bbd50a1102
+      internalID: -19830508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_235
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 43
+        width: 10
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b015a28973899f46b2620a6823fe276
+      internalID: 1326631521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_236
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 105
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d59f6328b5f0df42a0024b0e8c43b74
+      internalID: -1489309288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_237
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 101
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a9efa483568d941a77149daeb16034
+      internalID: 470280789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_238
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 81
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f74bf149ea9ad4ab369c99be973062
+      internalID: 1521943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_239
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 39
+        width: 4
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65219e5b4c13e7e44a309072a7ea3539
+      internalID: 823865220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_240
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 26
+        width: 11
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f0bdbf239dbcc4aa1aefba23f7d308
+      internalID: 1921994495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_241
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 76
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3825c226e9933f46bfdcb255af5b48d
+      internalID: -1427470111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_242
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 61
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c736d6c761cfa41b71657c581dbad2
+      internalID: -604829500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_243
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 62
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c861b147bca0a47951898c32a188a9
+      internalID: -736196345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_244
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 50
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c6fac55e274174bb5a67b1522fc9ec
+      internalID: -1371197520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_245
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1
+        width: 145
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363b8d3ad14979342b0638f9f9f32b2d
+      internalID: -1352502913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_246
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 39
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ad8ee13a3f28d4bbb9d6286703b98d
+      internalID: -711009278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_247
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec11df7315c8f440b53ad40ce4f4cdc
+      internalID: -1562808891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerBlock_248
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 14
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0552717f71ad34c90a44c18be92b20
+      internalID: 1443965591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1: 2047369858
+      2: -940596016
+      3: 1725245363
+      IzerBlock_0: 707969380
+      IzerBlock_1: 2081131226
+      IzerBlock_10: -512399977
+      IzerBlock_100: -1522676466
+      IzerBlock_101: 1388799218
+      IzerBlock_102: -802868133
+      IzerBlock_103: -1734233920
+      IzerBlock_104: 1475324727
+      IzerBlock_105: -900863473
+      IzerBlock_106: -1155047745
+      IzerBlock_107: -1323832833
+      IzerBlock_108: -599449612
+      IzerBlock_109: 1510814565
+      IzerBlock_11: -381430593
+      IzerBlock_110: -1947644403
+      IzerBlock_111: -1865101773
+      IzerBlock_112: -841067606
+      IzerBlock_113: 1927756568
+      IzerBlock_114: -1566175488
+      IzerBlock_115: -1384397672
+      IzerBlock_116: -1572841171
+      IzerBlock_117: -1079274746
+      IzerBlock_118: -1191511717
+      IzerBlock_119: -501412196
+      IzerBlock_12: -115992190
+      IzerBlock_120: -1921599418
+      IzerBlock_121: -731501379
+      IzerBlock_122: -1470821334
+      IzerBlock_123: -820291332
+      IzerBlock_124: 2102851965
+      IzerBlock_125: 1993121208
+      IzerBlock_126: -2005025357
+      IzerBlock_127: -358032450
+      IzerBlock_128: -1453510543
+      IzerBlock_129: -426151546
+      IzerBlock_13: -1960509883
+      IzerBlock_130: 745697554
+      IzerBlock_131: -1372676519
+      IzerBlock_132: 50286211
+      IzerBlock_133: -792810567
+      IzerBlock_134: -711739942
+      IzerBlock_135: -1958573784
+      IzerBlock_136: -316831556
+      IzerBlock_137: -451971412
+      IzerBlock_138: -1276282283
+      IzerBlock_139: 1569396891
+      IzerBlock_14: -438121367
+      IzerBlock_140: -1237110060
+      IzerBlock_141: -1803008096
+      IzerBlock_142: 596451379
+      IzerBlock_143: 962812862
+      IzerBlock_144: 464389569
+      IzerBlock_145: -1455477756
+      IzerBlock_146: -1584763829
+      IzerBlock_147: -2105369199
+      IzerBlock_148: -1689245700
+      IzerBlock_149: -1448729840
+      IzerBlock_15: -1123836421
+      IzerBlock_150: -10229531
+      IzerBlock_152: 272513419
+      IzerBlock_153: -753270769
+      IzerBlock_154: -1676842807
+      IzerBlock_155: -758321710
+      IzerBlock_156: 380590328
+      IzerBlock_157: -209385989
+      IzerBlock_158: -757597055
+      IzerBlock_159: 1239631501
+      IzerBlock_16: 206376491
+      IzerBlock_160: -1197110276
+      IzerBlock_161: 1957629811
+      IzerBlock_162: 26441777
+      IzerBlock_163: 1995128046
+      IzerBlock_164: 1679765436
+      IzerBlock_165: 1576884715
+      IzerBlock_166: -1663473835
+      IzerBlock_167: 95621087
+      IzerBlock_168: 1904048624
+      IzerBlock_169: -1825708785
+      IzerBlock_17: 1451036837
+      IzerBlock_170: 900272457
+      IzerBlock_171: 1613745770
+      IzerBlock_172: 786996310
+      IzerBlock_173: -437624875
+      IzerBlock_174: -1483679543
+      IzerBlock_175: -361886570
+      IzerBlock_176: -814644937
+      IzerBlock_177: 515794172
+      IzerBlock_178: -1399092538
+      IzerBlock_179: 2060775073
+      IzerBlock_18: -227610638
+      IzerBlock_180: -643802984
+      IzerBlock_181: -528215395
+      IzerBlock_182: -1313746422
+      IzerBlock_183: -2029531900
+      IzerBlock_184: 859040172
+      IzerBlock_185: -756783354
+      IzerBlock_186: 1861538217
+      IzerBlock_187: 98959596
+      IzerBlock_188: 213517429
+      IzerBlock_189: -1945419884
+      IzerBlock_19: -1816209333
+      IzerBlock_190: 1520043606
+      IzerBlock_191: 1282122178
+      IzerBlock_192: -1532580445
+      IzerBlock_193: 1277398536
+      IzerBlock_194: 1839856451
+      IzerBlock_195: -1100033352
+      IzerBlock_196: -386112733
+      IzerBlock_197: -226209243
+      IzerBlock_198: 71594315
+      IzerBlock_199: 476298049
+      IzerBlock_20: 269371214
+      IzerBlock_200: 1402079802
+      IzerBlock_201: 1791088228
+      IzerBlock_202: 234054498
+      IzerBlock_203: -479500548
+      IzerBlock_204: 502080678
+      IzerBlock_205: 590073976
+      IzerBlock_206: 1830027215
+      IzerBlock_207: -1088160408
+      IzerBlock_208: -1023926552
+      IzerBlock_209: -1793501254
+      IzerBlock_21: -367973027
+      IzerBlock_210: 18547610
+      IzerBlock_211: -158220804
+      IzerBlock_212: -1894847684
+      IzerBlock_213: -2068140101
+      IzerBlock_214: -1856770272
+      IzerBlock_215: -1298038807
+      IzerBlock_216: 1386622450
+      IzerBlock_217: 501824773
+      IzerBlock_218: -2097998844
+      IzerBlock_219: 675076576
+      IzerBlock_22: -593492309
+      IzerBlock_220: 1422333243
+      IzerBlock_221: -1933010059
+      IzerBlock_222: 1095458348
+      IzerBlock_223: -559145967
+      IzerBlock_224: -1586073255
+      IzerBlock_225: -1283829951
+      IzerBlock_226: -1826374402
+      IzerBlock_227: -1140926326
+      IzerBlock_228: -1838874672
+      IzerBlock_229: 1096966710
+      IzerBlock_23: 1836775101
+      IzerBlock_230: -2118904048
+      IzerBlock_231: 1272828435
+      IzerBlock_232: 127067306
+      IzerBlock_233: -267783345
+      IzerBlock_234: -19830508
+      IzerBlock_235: 1326631521
+      IzerBlock_236: -1489309288
+      IzerBlock_237: 470280789
+      IzerBlock_238: 1521943
+      IzerBlock_239: 823865220
+      IzerBlock_24: -872387743
+      IzerBlock_240: 1921994495
+      IzerBlock_241: -1427470111
+      IzerBlock_242: -604829500
+      IzerBlock_243: -736196345
+      IzerBlock_244: -1371197520
+      IzerBlock_245: -1352502913
+      IzerBlock_246: -711009278
+      IzerBlock_247: -1562808891
+      IzerBlock_248: 1443965591
+      IzerBlock_249: -1245358177
+      IzerBlock_25: -189408094
+      IzerBlock_26: 589510352
+      IzerBlock_27: -2105868539
+      IzerBlock_28: 991845570
+      IzerBlock_29: -330134128
+      IzerBlock_3: -942944499
+      IzerBlock_30: -1880595359
+      IzerBlock_31: -1658700759
+      IzerBlock_32: 1584253833
+      IzerBlock_33: -334275903
+      IzerBlock_34: 580886981
+      IzerBlock_35: -1546369628
+      IzerBlock_36: -748610491
+      IzerBlock_37: -72942238
+      IzerBlock_38: -1418228168
+      IzerBlock_39: 1374760271
+      IzerBlock_4: 710250213
+      IzerBlock_40: 623303497
+      IzerBlock_41: -258352060
+      IzerBlock_42: 417481211
+      IzerBlock_43: -1191007533
+      IzerBlock_44: 1236113283
+      IzerBlock_45: -1097855911
+      IzerBlock_46: -357093081
+      IzerBlock_47: 2119422757
+      IzerBlock_48: -7599310
+      IzerBlock_49: 542123198
+      IzerBlock_5: -1084331522
+      IzerBlock_50: 1196816621
+      IzerBlock_51: -1968569472
+      IzerBlock_52: -940674300
+      IzerBlock_53: -624385076
+      IzerBlock_54: -723058764
+      IzerBlock_55: 1631467950
+      IzerBlock_56: -165656909
+      IzerBlock_57: -2115280889
+      IzerBlock_58: -121412022
+      IzerBlock_59: 1486806347
+      IzerBlock_6: -1752702753
+      IzerBlock_60: 239089377
+      IzerBlock_61: -16854271
+      IzerBlock_62: -1594472696
+      IzerBlock_63: -1922753153
+      IzerBlock_64: 2012333641
+      IzerBlock_65: -326017400
+      IzerBlock_66: 1399596862
+      IzerBlock_67: 48125525
+      IzerBlock_68: 1980085515
+      IzerBlock_69: -531880859
+      IzerBlock_7: -222480608
+      IzerBlock_70: -634099128
+      IzerBlock_71: -1333237209
+      IzerBlock_72: -944212113
+      IzerBlock_73: -938578589
+      IzerBlock_74: 1251743981
+      IzerBlock_75: -191501815
+      IzerBlock_76: -193518156
+      IzerBlock_77: -588278879
+      IzerBlock_78: -1675992796
+      IzerBlock_79: 1979037776
+      IzerBlock_8: 1836247878
+      IzerBlock_80: 1186160560
+      IzerBlock_81: -1748096433
+      IzerBlock_82: -601640143
+      IzerBlock_83: 1571882909
+      IzerBlock_84: 1536279646
+      IzerBlock_85: 1557650440
+      IzerBlock_86: 1990397682
+      IzerBlock_87: 2120195053
+      IzerBlock_88: 1456233465
+      IzerBlock_89: 974669568
+      IzerBlock_9: -1722327527
+      IzerBlock_90: -26474926
+      IzerBlock_91: 996244720
+      IzerBlock_92: 188204218
+      IzerBlock_93: 1394485285
+      IzerBlock_94: 2063542463
+      IzerBlock_95: 670487081
+      IzerBlock_96: -1709629340
+      IzerBlock_97: -1038230697
+      IzerBlock_98: 113075943
+      IzerBlock_99: -1625937570
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

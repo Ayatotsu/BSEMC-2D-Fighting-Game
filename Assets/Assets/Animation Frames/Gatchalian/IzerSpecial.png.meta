@@ -1,0 +1,8177 @@
+fileFormatVersion: 2
+guid: 40573937f03c8ff499c47d35fb98e379
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2048
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1109
+        width: 345
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d34d3f038741942992c5052cc601e4
+      internalID: -634013311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_1
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1751
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5244b65d30c6d2a4b9e26b5358861c9f
+      internalID: 228241640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_2
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1635
+        width: 22
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c23d1983a9d9941af852273d0d1d74
+      internalID: 135781161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_3
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1744
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53eaf3c8cf56b94eb45e5051e47fa62
+      internalID: 155813552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_4
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 1745
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a2a521884a8f34bae3c865d0fb87fc
+      internalID: -446527430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 1113
+        width: 448
+        height: 1051
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a78b40f4aa17514ea87672fe4abfa8b
+      internalID: -1736841607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_6
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 1640
+        width: 39
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b249336dc25a984e9a456f1c0071f59
+      internalID: 1296407747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_7
+      rect:
+        serializedVersion: 2
+        x: 3803
+        y: 1747
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8928cb48b3c314990653c36264bf4b
+      internalID: 996011590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_8
+      rect:
+        serializedVersion: 2
+        x: 3821
+        y: 1749
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcfd185546b0b64399eac74cb64446e
+      internalID: 591520953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_9
+      rect:
+        serializedVersion: 2
+        x: 3701
+        y: 1740
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4d0588f65899a44a9d8c0505b8bc26
+      internalID: 1339237172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_10
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 1676
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b247b36a1ea387645845e9805c4e9007
+      internalID: 1789675154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_11
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 1685
+        width: 15
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a661aab00506241adbf93c2deb2446
+      internalID: -1428187417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_12
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1582
+        width: 161
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d01d749f1f8b04c9205ec50415eda1
+      internalID: 773536578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_13
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1633
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb3a3d6020e1824aab4f7709aa3fc7f
+      internalID: -1949097156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_14
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 1622
+        width: 15
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bd66ecf6a60e9459a92d23777e0f12
+      internalID: 1322513482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_15
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 1584
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7922740062012c74c9796693c60bae7a
+      internalID: -1818113059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_16
+      rect:
+        serializedVersion: 2
+        x: 3705
+        y: 1610
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7821ae8dba938e94eb8e5fd4a4d22332
+      internalID: 1004775292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1434
+        width: 69
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746ac5b47c362a14286e9ef54ccc6e88
+      internalID: -1173721326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1565
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f19b155b7bbb6b41ac7635e077c0869
+      internalID: 1515654174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_19
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1567
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef90f72dc125c04f91b08c5ad677b0e
+      internalID: -437044704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_20
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1550
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa5f0ec78ee90740a9c9b6adee864a9
+      internalID: 1918919185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_21
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 1552
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8798e13616135fe40b691af9b3708957
+      internalID: 288984234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_22
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1545
+        width: 37
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431fe288579b5144f856d47a7da9cd01
+      internalID: -1132883523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_23
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1535
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a77c8039431d146997f758a732e066
+      internalID: 2062651171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_24
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 1537
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa78036637ac9e643855416ff41605a6
+      internalID: -337749175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_25
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1524
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a1c4d4fabd86343a0f8ca3ee8fd523
+      internalID: 1940639255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_26
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1518
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576d46c8701689943913897b653ed7d8
+      internalID: 910771551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_27
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1507
+        width: 45
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054ccfb08b0d9064ab8c3a65dea50928
+      internalID: -2043473049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_28
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1488
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e190f255f9dbab1479a5d8994dbddc23
+      internalID: 782345982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_29
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1488
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b22e231d4a848041826d25dca6d298b
+      internalID: 700751848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_30
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1486
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37ed52431eb1da448138b043e1cd355
+      internalID: 1207887031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_31
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1477
+        width: 79
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cd1230ef1779f45a3af10567c700b8
+      internalID: 758248050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_32
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1453
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1116039c6bf74c4cb93fde846eac58d
+      internalID: 879611830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_33
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1479
+        width: 71
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28ec6cb7502a7249a5a806f1a00f863
+      internalID: 461112437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_34
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 1468
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d038abd73a0b4b4e942320a2cffd21d
+      internalID: 1390467400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_35
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 1473
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c99c05f59be204b95d9e9b7d1db60f
+      internalID: 1088908609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_36
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1460
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8ead38735e3e74db7afd75eb55016a
+      internalID: -211745010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_37
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1443
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca30e7fad5a3ca04b9b2f47feca8669d
+      internalID: 995163184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_38
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1443
+        width: 31
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82ea5097f1e09145a788d11fb21e5df
+      internalID: -583080910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_39
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1434
+        width: 196
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa58b12743b281048aaea3955cdb8006
+      internalID: -1868400862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_40
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 1441
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33ea406c6515e446bb546b69802766b
+      internalID: 1751334546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_41
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 1443
+        width: 34
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01929a5bc8cd3f4e825be5f544a64f3
+      internalID: 1741037163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_42
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 1434
+        width: 203
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28de64125722dc44d8ac7a01a8a757c5
+      internalID: -2069858852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_43
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 1408
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0066c87f74f2cf43ae56c07cc654b67
+      internalID: -127404113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_44
+      rect:
+        serializedVersion: 2
+        x: 3311
+        y: 1325
+        width: 51
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2b73ba5a67ed544886e2689931c6f3
+      internalID: -1946728664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_45
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 1436
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88efc902f83a5d44c91f490924153e24
+      internalID: -358764999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_46
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 1426
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ceee9913fe0f634d822ce1b9c429b1f
+      internalID: 1395613847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_47
+      rect:
+        serializedVersion: 2
+        x: 3414
+        y: 1408
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71569856072acb442b5e3ad4df72503c
+      internalID: -789610956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_48
+      rect:
+        serializedVersion: 2
+        x: 3369
+        y: 1415
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bb70f09267e2c4bb3a200cf938cae9
+      internalID: 622634378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_49
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1370
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5a1055e29fe184aa9516bcfb5cf801
+      internalID: 1920461846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_50
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1334
+        width: 21
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abac0a121e9a2a946928691d358ae854
+      internalID: -1715294658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_51
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1334
+        width: 97
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcf85c4defd6ae4481df64df922e227
+      internalID: -755259461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_52
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 1372
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d435ab5410540440bb30bb54efd8766
+      internalID: -923144475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_53
+      rect:
+        serializedVersion: 2
+        x: 3414
+        y: 1346
+        width: 94
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e08ac2e66559142ad6eff8e67ca7df
+      internalID: 135855115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_54
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 1336
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f3ea1bb189cd24d9ded27ece1b73a9
+      internalID: 269400629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_55
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1282
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8db492103549e4ba6cc9e192d9d3e8
+      internalID: 1376102953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_56
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1282
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051587023ca5ac34097c4232f12825ac
+      internalID: 305518052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_57
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 1212
+        width: 10
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86aea9a9955901549b476ce0818066a2
+      internalID: 908473740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_58
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1289
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59737f6ea1a67784e84e82741cebd89c
+      internalID: 1498574796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_59
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 1284
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4176e40eec601144486734341f6b4b2f
+      internalID: 1474764031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_60
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 1291
+        width: 4
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c33fefe02dad4d42b7440a723c703a6
+      internalID: 2081517045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_61
+      rect:
+        serializedVersion: 2
+        x: 3279
+        y: 1286
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44148411748b9eb46b084953c106de54
+      internalID: 1735514801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_62
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 1190
+        width: 30
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7376cfeb17392424c8f278b080e43ebb
+      internalID: 1503488110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_63
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 1274
+        width: 77
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e327cf6b17e57594db7786565dd66ead
+      internalID: 607458187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_64
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1242
+        width: 4
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fbe4c161eb91b44a8a600272e6af7e
+      internalID: 35429181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_65
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1229
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1b01f256949c34fa53b4e314985f23
+      internalID: 1200883372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_66
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1269
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0004e33543a9f514392bc8580b1e2311
+      internalID: 1811678459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_67
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 1209
+        width: 6
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1fdf07ca232d64cbbd224ff68e267f
+      internalID: 812190630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_68
+      rect:
+        serializedVersion: 2
+        x: 3275
+        y: 1246
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bc714383204ea48aa6f86ae048636f
+      internalID: 730687099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_69
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 1263
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678da0b485be6f24c9d6d90436ad674c
+      internalID: -358006743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_70
+      rect:
+        serializedVersion: 2
+        x: 3516
+        y: 1271
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d318720f08fd4843b708a929147650a
+      internalID: -821805980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_71
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1246
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8828e78e000989946a9a19aff7bac399
+      internalID: 952162281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_72
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 1257
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf130bb93a85dc4096d8cb987341285
+      internalID: -736929403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_73
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1158
+        width: 11
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8eeec9e4e9a62f479dc005dfa54bc79
+      internalID: 1881318858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_74
+      rect:
+        serializedVersion: 2
+        x: 3324
+        y: 1250
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75d814982ba4684281e8bc44d0465db
+      internalID: 541340976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_75
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 1246
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9e0bd917ea39d4287eb18da7c59222
+      internalID: -357334853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_76
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 1227
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2bb0a2fd5a4ee479b55210c0ff49b6
+      internalID: 812720970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_77
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1242
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32949f8734297cd43be1c4774845f3ec
+      internalID: 875910879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_78
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1227
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4755192f09cb61d468b4d96e14a5aa1e
+      internalID: 666308027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_79
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 1235
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f8bc72aef293240804c0eb8e5104ae
+      internalID: -1284679819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_80
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 1229
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb74d7a6beaed643b944b3fc602990f
+      internalID: -1260049351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_81
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 1237
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428c6da060e210e479fe253545ca0018
+      internalID: 1981860813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_82
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 1156
+        width: 19
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bc0d05961ed1d469baab1302969cd0
+      internalID: -2045775757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_83
+      rect:
+        serializedVersion: 2
+        x: 3277
+        y: 1237
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bc225dd8f39c34abb69a409a80fbba
+      internalID: -1408407516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_84
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1211
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb973da511109945ab0e5d93b354d4a
+      internalID: -1977010413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_85
+      rect:
+        serializedVersion: 2
+        x: 3275
+        y: 1117
+        width: 38
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93759f2ac3cfe80488e89b50d2c298b8
+      internalID: 1256709508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_86
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 1231
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69a2ca0b26698949909f2faad76d2e3
+      internalID: 1541130087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_87
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1207
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4b6743c37d9ab40a113447d7e0f31e
+      internalID: 1525981367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_88
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1209
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7b1c72b51b82542adc716ea07053d5
+      internalID: 1123135647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_89
+      rect:
+        serializedVersion: 2
+        x: 3643
+        y: 1222
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0ed604369899641b33441de51bd2c6
+      internalID: 1843221325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_90
+      rect:
+        serializedVersion: 2
+        x: 3707
+        y: 1227
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f381310481b26f458ad92e21286c8ae
+      internalID: -600521431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_91
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1207
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291f7ec6989ef6845b7b88984870ef7f
+      internalID: -1718194546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_92
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1207
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c85979b52f162f4183d175a5a5b0360
+      internalID: -593230408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_93
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1218
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3e2b4616f61d54197a0fd3d7d011f9
+      internalID: 838469417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_94
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 1209
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec2ca353a2f6764a914a1884bd7f3f2
+      internalID: 1528658888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_95
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 1209
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af99c1ed535c074d8e1b890b5195a4d
+      internalID: -1070404577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_96
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 1083
+        width: 186
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e169d379d845cc3498fb252664926fd4
+      internalID: -1057758072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_97
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 1218
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b671c5c03ef12488d344717a7f4a4a
+      internalID: 630624316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_98
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1149
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f547aa2fea57eb438729c85c538e09e
+      internalID: 221186970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_99
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1132
+        width: 32
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9252f99b19571f643af9a806f1b485eb
+      internalID: 1112824116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_100
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1199
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15cc65c1347c304eb3885a052bc61ea
+      internalID: 816254737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_101
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 1173
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2df3d62881daf4c9a2269e0c846a0f
+      internalID: 870823757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_102
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 1147
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8803c8685df370d43b1e9a5fb4a438e0
+      internalID: -1562880663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_103
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 1201
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e858e8cf3e688a141b86daa7ff7e3eed
+      internalID: -1867231329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_104
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 1207
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3800d0e8b57e4a043a74b725dcb58303
+      internalID: -1342625170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_105
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1081
+        width: 41
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d364a6560ec0494f9e48ecb6a1eadae
+      internalID: 1502077469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_106
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1199
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cccd772c485ee41bc6b592606cec82
+      internalID: -1202107711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_107
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 1171
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91369b0cf33d3d94f8cecd9dd05bc56c
+      internalID: -931550572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_108
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1188
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c857c4b32e223749a723306165a1d9e
+      internalID: -1783734052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_109
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 1196
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d22c1bffda813649ab4fcdd0ca0d17d
+      internalID: 1419898900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_110
+      rect:
+        serializedVersion: 2
+        x: 3352
+        y: 1162
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d19085d8dd06b438b03a693860baac
+      internalID: -1145212268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_111
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1188
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4698e56b5959f4ba985332cc31b3cd
+      internalID: 1544082323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_112
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1162
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944d1fc7a1b2977448a11a764312a802
+      internalID: 1833124495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_113
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1149
+        width: 75
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a57d644db38c134592b5ea64c6d0138
+      internalID: -1371489985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_114
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1182
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342c5197a4eaf3e44b1ba537740ca685
+      internalID: 1948831262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_115
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1094
+        width: 13
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8eeed6c2a33f1f4da6968a68f6ce6fc
+      internalID: -913516606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_116
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1151
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd59cd4e33b8e294f9f7b58627914cb0
+      internalID: -660484351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_117
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1175
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971332cb2030b5b4b9ef0775bb112e34
+      internalID: -538372517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_118
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 1166
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f373b3b3c7c344199627a43a7b6610
+      internalID: 2105014952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_119
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 1167
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5fb5c49c6a19945b92450704ae092b
+      internalID: 397193414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_120
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 1179
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2461e87ceffdfb041be782d7c7af5f8d
+      internalID: 1634865245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_121
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 1169
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13abc1e98b51dd468c9268c813755ba
+      internalID: -575347229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_122
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1166
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d3f8489f6a7e14fabbf588bf269bdf
+      internalID: -89512673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_123
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1164
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1233c9e74cb9b6549a70f37cb5ba4683
+      internalID: 441399447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_124
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1119
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e28320953ef2c4a9bcbe4aeb43845e
+      internalID: 447018892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_125
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1089
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f0506920875334ba0f7ea8926186c0
+      internalID: 1303442654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_126
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1087
+        width: 49
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70e608c1bb122748aca8ac7ba529eea
+      internalID: -1719857695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_127
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 1100
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4a61d49194d9a4084aa333766c99a2
+      internalID: -2015296109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_128
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 1154
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e9961c340f7894e80367ced0d2aa36
+      internalID: 548997902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_129
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 1154
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e802311d83cbceb479731fdd7470aa2e
+      internalID: -631788950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_130
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 1162
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f16f588ded43df4b8e301a31fa70c5a
+      internalID: -125154537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_131
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 1083
+        width: 58
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e5913a197d3284e95f271a56aebfdc
+      internalID: 1398538717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_132
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1151
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc3644381ce88f4ca42e96958260f3d
+      internalID: 708464505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_133
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1154
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3368fd3bcac3358419c9d028be267b47
+      internalID: 934033021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_134
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 1081
+        width: 49
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16123b1a4fa3aaa488e7dd91fc930015
+      internalID: -1286701018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_135
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 1081
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2a2fc8468f33640ba66638607155c3
+      internalID: 1357107850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_136
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 1100
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ba780a9894d494fb58e3ff40e8a846
+      internalID: 263258271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_137
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 1143
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2569defdab31f4698cf71c22303eb2
+      internalID: -723186866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_138
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1081
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609768cf1525b5240a1a5d9dbfe9fd87
+      internalID: -546451348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_139
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1104
+        width: 9
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec9623891209354ab622cd2ae6b7d7b
+      internalID: -682517820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_140
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1111
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2200df7ecbcea4babbf448cdd976da
+      internalID: 1358884692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_141
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1120
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a1967a2f85f444c8c0bbd4528d5c46
+      internalID: 1349573103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_142
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1137
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173857b255da5fc4ab33b3d358b3b1e3
+      internalID: -1793190449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_143
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1139
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bc6104af63920449018a5b72f1fd26
+      internalID: -693390765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_144
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 1134
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad548fd83dcfda44a61400f785da213
+      internalID: 206534112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_145
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1117
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c8656bec81582498dbeee504a0ff19
+      internalID: -619822392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_146
+      rect:
+        serializedVersion: 2
+        x: 3394
+        y: 1120
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e7427e0d255bf40ad317d06f5444b4
+      internalID: -12829832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_147
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 1128
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187994558913f7a44b383eda2094519d
+      internalID: -2040000285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_148
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1113
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f79292f3b83f147bd62062b12cf1c2
+      internalID: -789884693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_149
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1115
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb5f2878a9958044b33517adfca3181
+      internalID: 1275613076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_150
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1090
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead7108b755ae2441ac59f9fa307c712
+      internalID: 1204392326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_151
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1081
+        width: 39
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64248ee51e60a34ba235bc048aebe62
+      internalID: -593201087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_152
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1081
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cee1ac991247fc449b172b7be580546
+      internalID: 2004185944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_153
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1081
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2212f021e05049478f29c62c4e124ac
+      internalID: -232555121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_154
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1081
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981a757e98fda5b4c98bdd8fbc492115
+      internalID: -1655999269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_155
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1081
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ef2fbd0d44242498bd1f3e29567daf
+      internalID: -159995265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_156
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1081
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0aac23157bc8fe478bc57d3b96468a0
+      internalID: -984911618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_157
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1096
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d894a14034097e24d90894947692e5e9
+      internalID: -2095860588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_158
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1081
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fa4b7bdd97be84c9c318e10aee5026
+      internalID: 607892771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_159
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1094
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0be1860f88997846b91fe4b14392bad
+      internalID: -498006318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_160
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1081
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3f42d8665e1f541a375e3ebd5af78c
+      internalID: 173597312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_161
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 1081
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0aeebda3255cc4387f76b6ffbf93cc
+      internalID: -1720903566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_162
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1092
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14b39f97e80e074cb865b76b24930f2
+      internalID: 932033852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_163
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1090
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7634d9f41178ba249b55449ffdd3ca42
+      internalID: 1309100800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_164
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1083
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60361758c9ab84f448ed83dce26027c0
+      internalID: -1011013000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_165
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 1081
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d001779d48eb3418d02796cdb17869
+      internalID: 403621664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_166
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1081
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5a2d86f4940bf4c8a1c45af1f74842
+      internalID: -979582766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_167
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1090
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb50bd522cb629446bc788ecf63a3e3b
+      internalID: 594922336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_168
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1081
+        width: 43
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec80b1a98caf494e9ecc5ad09c689fc
+      internalID: -1995553371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_169
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 1081
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a12eff72a76f44ebd407ccefb95cde
+      internalID: -967356923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_170
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 1081
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc7d652333e3c34295a838ed80d1705
+      internalID: 1753807691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_171
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 1098
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c12df5abb3b5b4d92e1f517acbe9e7
+      internalID: 1850652253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_172
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 1081
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0f4bd18bfdbae4d86a2a009684a77d
+      internalID: 1706180043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_173
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 1081
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d33be23f8a370e44afc34001088ef6a
+      internalID: -687784325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_174
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 1094
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25442e1a33fa5b84bb65803ca061b142
+      internalID: -512073364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_175
+      rect:
+        serializedVersion: 2
+        x: 3309
+        y: 1081
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63be67379bd16e34c82abcc6a80fec47
+      internalID: 1302694241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_176
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 1098
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87790aff5e6df6147aca566ca5ecab0a
+      internalID: 208563900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_177
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 1081
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9ccd7ed1c9ce944b8b75668a6d0f41
+      internalID: -665853594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_178
+      rect:
+        serializedVersion: 2
+        x: 3394
+        y: 1081
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7431220857daa468555b3637dd3ba6
+      internalID: -142041559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_179
+      rect:
+        serializedVersion: 2
+        x: 3422
+        y: 1090
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5ecf3dd1dde7a4f888515897ac687c
+      internalID: 153907198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_180
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 1081
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee3e81263fa43f4a8cba28ea99b8b94
+      internalID: -1884502601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_181
+      rect:
+        serializedVersion: 2
+        x: 3469
+        y: 1083
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b255cc86c83b594d82cde4a6f803017
+      internalID: -107093466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_182
+      rect:
+        serializedVersion: 2
+        x: 3476
+        y: 1090
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879642290832e974eb9103dc991018cb
+      internalID: -1212698921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_183
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 1098
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1e9c6c2a5251d4a8ea478b68c0afb3
+      internalID: 199938459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_184
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 1083
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2f2e60ba935e047a81a5c624c42b37
+      internalID: 1212557985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_185
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 1081
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95563e6bac3aa347b6a7fc16fdce838
+      internalID: -1722872107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 30
+        width: 382
+        height: 1053
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5e4ad3108366a489dd204e155eb86b
+      internalID: 559916562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_187
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 644
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87279af4c21951d4c979a6d62b546198
+      internalID: 877007210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_188
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 604
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72989ff39c193884abdea3280d8908ac
+      internalID: 1557237024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_189
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 614
+        width: 35
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb4b9b6cca39a946b11b5bd012d2b7c
+      internalID: 1566885938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_190
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 663
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77013638d677d9e42814724f5c0492b6
+      internalID: -1792302343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_191
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 664
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ac0b910078226478d53556ee8c82ce
+      internalID: -1203612477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 11
+        width: 468
+        height: 1072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fb54147d46f14458447ae227d2ed84
+      internalID: -906246380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_193
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 586
+        width: 15
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395b0cf78502f4542873606eb1e1d7cb
+      internalID: -678785290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_194
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 642
+        width: 82
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01863bbeedb84f499c702a959fe827f
+      internalID: -1208948367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_195
+      rect:
+        serializedVersion: 2
+        x: 3790
+        y: 659
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a486bf113b5294bbec47847a6fd2a8
+      internalID: -680475507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_196
+      rect:
+        serializedVersion: 2
+        x: 3806
+        y: 651
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dde8052663260c47812d086e21a40a7
+      internalID: 2050965752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_197
+      rect:
+        serializedVersion: 2
+        x: 3823
+        y: 651
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000982f86ec2b5649ba9bb0f4ebd1e03
+      internalID: -1335976369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_198
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 586
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95563dc0c4fa65a49b9f72a61e1f6064
+      internalID: 1402008829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_199
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 539
+        width: 11
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5259aff45e84040acd5dd2db56dd57
+      internalID: 1445264983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_200
+      rect:
+        serializedVersion: 2
+        x: 3701
+        y: 526
+        width: 15
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1642feb8c48db4dae8879f7c0dc2cb
+      internalID: 1196443997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_201
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 484
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0bb7beef10b5846a1dc848c3e7eb3e
+      internalID: 284364532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_202
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 424
+        width: 43
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3cec8c98056f44b91eb1567c4b24f4
+      internalID: 1541513369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_203
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 445
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd3cbc533e687e47ad18a948c74d7a2
+      internalID: 1948607355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_204
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 469
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ccbc97a3fd1314789a1623dda84dcc
+      internalID: 654220252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_205
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 454
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ccbcf423da1094f8c73116e47d8d1b
+      internalID: 1866808179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_206
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 471
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c3b05a58bf7cf42b04483ebc174a7c
+      internalID: 170362894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_207
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 424
+        width: 139
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1098a6c52b6027c44b1b86aa1ee4a670
+      internalID: 802186298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_208
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 430
+        width: 52
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f8800414de08340a70f201351eab78
+      internalID: -280925508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_209
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 353
+        width: 15
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807e5e41eebba824c8ecc1401908b1f7
+      internalID: 1566291915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_210
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 417
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4798636e9cded2d49b8f3d4bfa5423b2
+      internalID: -1482254817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_211
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 411
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefdf2d8655334d4e9fa32fa7a0f6954
+      internalID: 525484245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_212
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 409
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc879cfed95718c42aa54bd2256fffca
+      internalID: -1709499642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_213
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 409
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9bb76f7a3b14e49ad4aaabd0f38e9e
+      internalID: -990833696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_214
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 396
+        width: 73
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0206f23ff91c8f44b230773e2d239d8
+      internalID: 413826343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_215
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 358
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae1d898a3e16c74885d184e92f3cab3
+      internalID: -1984165504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_216
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 383
+        width: 120
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55b93fb672e37149b860ba485f35d8c
+      internalID: -1397937628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_217
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 357
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4860d7ed24635b4db97b40428c2b0e8
+      internalID: 74012216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_218
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 360
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e67b7698cb8ac46b39ca088dd870d0
+      internalID: -923589546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_219
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 332
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1969f357c4a15c84eafa91af2ad00307
+      internalID: -431825675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_220
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 323
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b250019cc0289df478802854f6ebaab9
+      internalID: 1450135087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_221
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 351
+        width: 201
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46b9b73508ee2443bf000baef35c40a
+      internalID: 1596413686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_222
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 357
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9659e9c4758ad4341a22ee6cce6229c5
+      internalID: 263748499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_223
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 343
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3938c7fc72af0ee43b85973ec8362861
+      internalID: 2041002955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_224
+      rect:
+        serializedVersion: 2
+        x: 3341
+        y: 360
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336ec857c67cfd541823c3256426f920
+      internalID: -1036412832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_225
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 342
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748002dd96bf4e641917766c21d1575a
+      internalID: -118167539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_226
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 338
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7282b4911e2a0d240b9540c7dc4c2ea7
+      internalID: 1457970231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_227
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 360
+        width: 28
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fb8285725790b47a62e2c671191972
+      internalID: -1236697401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_228
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 353
+        width: 208
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84a795e0476775498141b65627403aa
+      internalID: 1395442980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_229
+      rect:
+        serializedVersion: 2
+        x: 3833
+        y: 353
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d461e71cb70340d4081773e423c1e633
+      internalID: 1299796304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_230
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 336
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55015948de12a8842825f68fad4a0e51
+      internalID: -2017662484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_231
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 319
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19eb443898ac3374d945ba01dd997c85
+      internalID: -1792652456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_232
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 259
+        width: 13
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5e9988372d0d6439357bdfc1638507
+      internalID: 2080913460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_233
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 330
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08e452572840fd4ea90617948fe2314
+      internalID: -2047018983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_234
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 321
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb625b0c3fda1543be9242874718215
+      internalID: -1035994807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_235
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 270
+        width: 19
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccf876a19ef107428410fad97418c5b
+      internalID: 375856278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_236
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 259
+        width: 102
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df1d203d8236644f82619ff74a966fd
+      internalID: -1007168384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_237
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 300
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044d2aaf77211604393894817d45b176
+      internalID: 760306479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_238
+      rect:
+        serializedVersion: 2
+        x: 3409
+        y: 297
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfd391b445cfa7449cb8e69a3796692
+      internalID: -838288087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_239
+      rect:
+        serializedVersion: 2
+        x: 3433
+        y: 287
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84931a63f446f7b4187bee93f141709e
+      internalID: 738662765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_240
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 298
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558cc63d9f5b82f49baac0a02c2f6bcc
+      internalID: -1997448513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_241
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 285
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8ecfee94b769d4bbda6813cbc16afa
+      internalID: -222789438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_242
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 287
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3aa705d6578e44a9c66a86541613de
+      internalID: 575344398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_243
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 272
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75fe17bbb73b0848a015ef7913ce382
+      internalID: 1648615492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_244
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 248
+        width: 72
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc20483528fb60146be49b4490410323
+      internalID: -1834344458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_245
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 255
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cd891d092e8de43b1ff1bfc65451ca
+      internalID: -752083052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_246
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 246
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33377c4cb9632294e93ddacb72affddc
+      internalID: -1048215107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_247
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 231
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64ecd699394c1046bb1de7f31c162d4
+      internalID: -381832313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_248
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 188
+        width: 85
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1e8ff03e1af7b4887ed2b1d8b6b4aa
+      internalID: -1247585867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_249
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 223
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6d74b6d31c5db42adfa253bdfdddd0
+      internalID: 818078472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_250
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 113
+        width: 25
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93c4e359b1321d47839e9f01761cacb
+      internalID: 1539697514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_251
+      rect:
+        serializedVersion: 2
+        x: 3281
+        y: 220
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d65ed9e3376f64d9242279d48e5ce4
+      internalID: 1009266504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_252
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 195
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec211ce8d24d21241bcfa9d58baafd88
+      internalID: 633664878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_253
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 201
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0543eecaf9bdd9a45b95f10074e4d2d0
+      internalID: 1909193145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_254
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 201
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59850d3113dbd74b8fd902b34ccd40a
+      internalID: 1010473566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_255
+      rect:
+        serializedVersion: 2
+        x: 3572
+        y: 210
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3120954f1d0b7db4d842da76d70073a6
+      internalID: -753633158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_256
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 171
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2ad6d5779f585428637cfe094dfa28
+      internalID: -1446260704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_257
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 188
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f20d1583e0ae441b4ca5bf6048d5fa
+      internalID: -1029791226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_258
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 184
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4707fdfba57be034c9ffe8d462d2afa1
+      internalID: 457230292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_259
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 167
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92701999839080941aea1d45da7d25d8
+      internalID: -1141315739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_260
+      rect:
+        serializedVersion: 2
+        x: 3531
+        y: 188
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c85e102234db3459e25dd4cf0f8df1
+      internalID: 911488034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_261
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 103
+        width: 15
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e3ab430498a6147b307ebb1da5df0d
+      internalID: -1097050226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_262
+      rect:
+        serializedVersion: 2
+        x: 3587
+        y: 175
+        width: 64
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af977845c990fa0468145316ccc20651
+      internalID: 1715625820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_263
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 178
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb021a1f4b52364da85c993d0ef13c0
+      internalID: 698613146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_264
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 148
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efafbec8e6d92c44a8581819f486f94d
+      internalID: -178229067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_265
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 79
+        width: 9
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058e876df21d9144c87230cd129c1fef
+      internalID: -157877358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_266
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 163
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61624f0874a02a8478d12a823b2b4b4d
+      internalID: 235381801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_267
+      rect:
+        serializedVersion: 2
+        x: 3283
+        y: 163
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50ecf13c261017438c0a627fdfbc886
+      internalID: -467580363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_268
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 160
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed48d9fc356ff746998bc89ec5baaaa
+      internalID: -2083566039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_269
+      rect:
+        serializedVersion: 2
+        x: 3457
+        y: 137
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b14a99c40b7114e89c59caa0f73c2e
+      internalID: -12283737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_270
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 154
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dca0c773281ba4dabe05ef17857f60
+      internalID: -519106352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_271
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 154
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d2cc22c42429f42b33b34efcbd4843
+      internalID: -226980301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_272
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 131
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dc1c67c6eb8fa418f33938c2199dbb
+      internalID: 1567001296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_273
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 148
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c8e0d794619a24794fb0a93cb49cba
+      internalID: -97980680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_274
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 128
+        width: 71
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7cbcf7a445c3240bf6b5cd3603e10b
+      internalID: 251422107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_275
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 51
+        width: 40
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b85c22501dde3845a665342daa1be19
+      internalID: 1265257348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_276
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 26
+        width: 149
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6286972ced91da74ca83d79aa549a7c0
+      internalID: 1894164086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_277
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 103
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d619cf9558d1544b4e26fef129db8a
+      internalID: 1713505164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_278
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 116
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7e2f0f2edda18419ac324033112d35
+      internalID: -864141010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_279
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 62
+        width: 11
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8df3203046b8b468bdcfc7c3a0e2ce
+      internalID: 1984584091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_280
+      rect:
+        serializedVersion: 2
+        x: 3651
+        y: 135
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6261affbe53d1469751e9c14aef6a4
+      internalID: 1495701779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_281
+      rect:
+        serializedVersion: 2
+        x: 3666
+        y: 128
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c119b3a81b09d0e48afd7cf71b8f673d
+      internalID: 1211617260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_282
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 83
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e18da5b3989d4f48b0751429c998f7c
+      internalID: 2091739321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_283
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 20
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3f1d17e22cd08448bc0783f435c6e1
+      internalID: -445776217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_284
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 111
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9457a91f92ea44fb6c88645f566f5e
+      internalID: 1108031796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_285
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 111
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5935a78eaa57c64d84ca752b77e48ae
+      internalID: -1510679221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_286
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 86
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44241cc6a751c9d4ab649230f79b327a
+      internalID: 1238399715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_287
+      rect:
+        serializedVersion: 2
+        x: 3283
+        y: 15
+        width: 34
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3020ceba7f2204a468e9b8ddf79aa408
+      internalID: 1229500385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_288
+      rect:
+        serializedVersion: 2
+        x: 3345
+        y: 114
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47aeec340f8737044adb874fae063c44
+      internalID: 521005514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_289
+      rect:
+        serializedVersion: 2
+        x: 3356
+        y: 66
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286ee742803568a408f99956fa0b34e3
+      internalID: -178565299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_290
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 118
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f725f787a776154d93b4bbf987a5f0a
+      internalID: 1466622641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_291
+      rect:
+        serializedVersion: 2
+        x: 3668
+        y: 0
+        width: 63
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a17c5d99c6f734ab69f6745589f6dd
+      internalID: -1408432055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_292
+      rect:
+        serializedVersion: 2
+        x: 3733
+        y: 109
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bddf55bc4762734ea223742b20a16f6
+      internalID: 2102721157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_293
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 81
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f989de8c1835e94899f2a3dbe5c4183
+      internalID: 599585297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_294
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 111
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e566ff61deb7fd4f9c5b73fd5e77cec
+      internalID: -2023350833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_295
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 103
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5612d067db35d4b98556a9e6f96811
+      internalID: -249655630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_296
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 99
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f54d26a9163f864882fef34d1c349f9
+      internalID: 560768169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_297
+      rect:
+        serializedVersion: 2
+        x: 3662
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a104d6f7b445905409bffd904b3736f0
+      internalID: 856050533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_298
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 90
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0ebb82d8fbf3b4da596ea64dd51570
+      internalID: -1236183005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_299
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 64
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c04d10b86a02148b7decc44b8333e0
+      internalID: -138925113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_300
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 94
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d09b2b027027440a4fb8b8f83bacfd
+      internalID: -1657805077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_301
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 88
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a94a1f6e6a05f45964381514bed1ca
+      internalID: 1062956579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_302
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 88
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f219e6edbecefd741b96003d453fbbca
+      internalID: -712823855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_303
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 94
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd3546c50d08204d959748c7237ed49
+      internalID: -1628311747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_304
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 66
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36aac2e7aaf8a34589be1a30fb85709
+      internalID: 1021700276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_305
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 86
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4e627d19f62024daa262a580dd7cf9
+      internalID: -2088915075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_306
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 75
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15da1d46c74e7a64da5794d3dc9a5ca8
+      internalID: 1765753741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_307
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 81
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249ed4a33b96bbe4aa13334b246f9f9d
+      internalID: 2095100721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_308
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 84
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a294fb34191402e409646ca8a4015b14
+      internalID: 1294198929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_309
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 69
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506f49fb73eca404dbdf042653afeeea
+      internalID: 1341116754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_310
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 68
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27227dc24dfb9e645b4858281729bcda
+      internalID: 1039932518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_311
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 75
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3d13b755ec3db4ea286fe812164ff9
+      internalID: -1713693874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_312
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 24
+        width: 11
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f83fb9e36ce4374f9cbc30feeeec983
+      internalID: -1265181845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_313
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 45
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce8d2210b7f19742b32059d37826b99
+      internalID: -437302236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_314
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 6
+        width: 26
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d1b2eca175e034f87aaa834ec9c233
+      internalID: 674181797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_315
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 0
+        width: 45
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78e62d9a25dae4488cc32b74ebfdae0
+      internalID: 393997473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_316
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 43
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9267e029ee919b4781c9d378f337d40
+      internalID: -87946400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_317
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 64
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592b085fab2fbc14dab22f97dd27fd16
+      internalID: 877419079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_318
+      rect:
+        serializedVersion: 2
+        x: 3425
+        y: 73
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a621837352dd84799b26551ead7500
+      internalID: -425314089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_319
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 6
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c9569829c6e8b448ada074ff71c377
+      internalID: -739567905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_320
+      rect:
+        serializedVersion: 2
+        x: 3722
+        y: 0
+        width: 94
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea342d584e0e85b4a89a54b304196e03
+      internalID: -1070462656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_321
+      rect:
+        serializedVersion: 2
+        x: 3741
+        y: 64
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e2ce4a6657179459f10846f94a3dec
+      internalID: -2016865147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_322
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947f7b35b638b9448a87bca485519542
+      internalID: 1340335054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_323
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 17
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0072c497d6d1eb647bbb36e61657e374
+      internalID: 989190087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_324
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 56
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6f0c3636501204ab71f07c4468daa7
+      internalID: -1700582646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_325
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 66
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6139800dcbceb74ba380a18836237d2
+      internalID: -601643504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_326
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 0
+        width: 9
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1907d82a260e4a40a17957750a5d5f6
+      internalID: 1030229400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_327
+      rect:
+        serializedVersion: 2
+        x: 3793
+        y: 43
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62f3c6208e3722409920529cecb0233
+      internalID: -110947776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_328
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 17
+        width: 11
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8188a7091a3853f4d85d6832768b2af6
+      internalID: -722531249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_329
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 39
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48168116cfe53aa4faa0ffb9b7efe661
+      internalID: -917089120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_330
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 54
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7e5f34b93d1ed4facaef4926674538
+      internalID: -312303307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_331
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 0
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68143adb349836c4897e80e726fd1050
+      internalID: -795559777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_332
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 54
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0433cf83cec70d47b4e350e576d1a90
+      internalID: 1050645575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_333
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 0
+        width: 21
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b421354f01fe414eb52fce430b0036c
+      internalID: -706528849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_334
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 11
+        width: 12
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ce3ceb1b2b8e74a99f7191a6f21911
+      internalID: 820048298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_335
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 15
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce37b774c38befc4989fc6432510bda8
+      internalID: 1888324711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_336
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 43
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60315319f2ae9d1438fd1f5a4674dc2d
+      internalID: 330214258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_337
+      rect:
+        serializedVersion: 2
+        x: 3431
+        y: 54
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8637339f83eef4cbc36ffef5ca4ce9
+      internalID: 104409188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_338
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 32
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c65d2d5042cac54dadcee4162dc84f1
+      internalID: 1413393734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_339
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 47
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b38312297d356a4aa367b76c3b3c563
+      internalID: 1064760754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_340
+      rect:
+        serializedVersion: 2
+        x: 3403
+        y: 28
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3b7f54384af5a42a307b3d007f2d00
+      internalID: 1241708963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_341
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 36
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce04aa1bd7bfa242bdf2f7f16a8b4e5
+      internalID: -1848283605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_342
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d983b4185f725d479d5413b64cedd52
+      internalID: -784092144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_343
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8b22f734509b948acbb0be6474ee79
+      internalID: -191915756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_344
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f4aa161cfb1e84a9350635199d98c9
+      internalID: -1623277360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_345
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 0
+        width: 34
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c801eb7796649db44a67f0b3b19898f8
+      internalID: -6870710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_346
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 11
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfc616de6f2a2c478c7b930760aa037
+      internalID: -666387380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_347
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 15
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f32340004e12fe408481915a1e7e533
+      internalID: -14901089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_348
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 0
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e875a004f89eeff4b857a16215ea4f98
+      internalID: 482580935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_349
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 0
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a6ae47a7cce1e44b7f978e2343c37d
+      internalID: -864172590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_350
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 9
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59512a3e25238d4aacdb45c7d8f898c
+      internalID: 1280323644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_351
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 0
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04aafe69d5d6a344fa3250aa7cd85621
+      internalID: -450626151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_352
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 8
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85e65d9e39ac8349ae780ebef252cd7
+      internalID: 189823332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_353
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 0
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210642f74f14c25418b8530cc650d9d9
+      internalID: 611499191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_354
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 0
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a74f6fba8af70c418e3b61157cbf394
+      internalID: -967341006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_355
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 0
+        width: 28
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f719848634c9214428e0ed8f85f2c6f7
+      internalID: 1989117074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_356
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 0
+        width: 19
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a60a163905c1aa4d8aaa21ef575e2ae
+      internalID: -1308871199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_357
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 0
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747e063fb92214a45bb037af94fccb21
+      internalID: 1693374328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_358
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 0
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3272421ec5acc46bd49df71925d6f0
+      internalID: 1107591188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_359
+      rect:
+        serializedVersion: 2
+        x: 3324
+        y: 0
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06193a9da57b4e14ba04e87d3d559e8e
+      internalID: 39367510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_360
+      rect:
+        serializedVersion: 2
+        x: 3377
+        y: 0
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e779a4436d2af41b7ae6100c1e9668
+      internalID: 1119822405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_361
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 0
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7f398b649ecb74cbe98ed72d0262ad
+      internalID: -810942905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_362
+      rect:
+        serializedVersion: 2
+        x: 3439
+        y: 0
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5800b8e0cd8d9e44f8470c26b905e38f
+      internalID: 642076389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_363
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 0
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df859383489c6014f9ce6a6a0990f762
+      internalID: -367952770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerSpecial_364
+      rect:
+        serializedVersion: 2
+        x: 3836
+        y: 0
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da4f7cf4bfffc64aab46ee455e1cffc
+      internalID: -1901590594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1: -634013311
+      2: 559916562
+      3: -1736841607
+      4: -906246380
+      IzerSpecial_1: 228241640
+      IzerSpecial_10: 1789675154
+      IzerSpecial_100: 816254737
+      IzerSpecial_101: 870823757
+      IzerSpecial_102: -1562880663
+      IzerSpecial_103: -1867231329
+      IzerSpecial_104: -1342625170
+      IzerSpecial_105: 1502077469
+      IzerSpecial_106: -1202107711
+      IzerSpecial_107: -931550572
+      IzerSpecial_108: -1783734052
+      IzerSpecial_109: 1419898900
+      IzerSpecial_11: -1428187417
+      IzerSpecial_110: -1145212268
+      IzerSpecial_111: 1544082323
+      IzerSpecial_112: 1833124495
+      IzerSpecial_113: -1371489985
+      IzerSpecial_114: 1948831262
+      IzerSpecial_115: -913516606
+      IzerSpecial_116: -660484351
+      IzerSpecial_117: -538372517
+      IzerSpecial_118: 2105014952
+      IzerSpecial_119: 397193414
+      IzerSpecial_12: 773536578
+      IzerSpecial_120: 1634865245
+      IzerSpecial_121: -575347229
+      IzerSpecial_122: -89512673
+      IzerSpecial_123: 441399447
+      IzerSpecial_124: 447018892
+      IzerSpecial_125: 1303442654
+      IzerSpecial_126: -1719857695
+      IzerSpecial_127: -2015296109
+      IzerSpecial_128: 548997902
+      IzerSpecial_129: -631788950
+      IzerSpecial_13: -1949097156
+      IzerSpecial_130: -125154537
+      IzerSpecial_131: 1398538717
+      IzerSpecial_132: 708464505
+      IzerSpecial_133: 934033021
+      IzerSpecial_134: -1286701018
+      IzerSpecial_135: 1357107850
+      IzerSpecial_136: 263258271
+      IzerSpecial_137: -723186866
+      IzerSpecial_138: -546451348
+      IzerSpecial_139: -682517820
+      IzerSpecial_14: 1322513482
+      IzerSpecial_140: 1358884692
+      IzerSpecial_141: 1349573103
+      IzerSpecial_142: -1793190449
+      IzerSpecial_143: -693390765
+      IzerSpecial_144: 206534112
+      IzerSpecial_145: -619822392
+      IzerSpecial_146: -12829832
+      IzerSpecial_147: -2040000285
+      IzerSpecial_148: -789884693
+      IzerSpecial_149: 1275613076
+      IzerSpecial_15: -1818113059
+      IzerSpecial_150: 1204392326
+      IzerSpecial_151: -593201087
+      IzerSpecial_152: 2004185944
+      IzerSpecial_153: -232555121
+      IzerSpecial_154: -1655999269
+      IzerSpecial_155: -159995265
+      IzerSpecial_156: -984911618
+      IzerSpecial_157: -2095860588
+      IzerSpecial_158: 607892771
+      IzerSpecial_159: -498006318
+      IzerSpecial_16: 1004775292
+      IzerSpecial_160: 173597312
+      IzerSpecial_161: -1720903566
+      IzerSpecial_162: 932033852
+      IzerSpecial_163: 1309100800
+      IzerSpecial_164: -1011013000
+      IzerSpecial_165: 403621664
+      IzerSpecial_166: -979582766
+      IzerSpecial_167: 594922336
+      IzerSpecial_168: -1995553371
+      IzerSpecial_169: -967356923
+      IzerSpecial_17: -1173721326
+      IzerSpecial_170: 1753807691
+      IzerSpecial_171: 1850652253
+      IzerSpecial_172: 1706180043
+      IzerSpecial_173: -687784325
+      IzerSpecial_174: -512073364
+      IzerSpecial_175: 1302694241
+      IzerSpecial_176: 208563900
+      IzerSpecial_177: -665853594
+      IzerSpecial_178: -142041559
+      IzerSpecial_179: 153907198
+      IzerSpecial_18: 1515654174
+      IzerSpecial_180: -1884502601
+      IzerSpecial_181: -107093466
+      IzerSpecial_182: -1212698921
+      IzerSpecial_183: 199938459
+      IzerSpecial_184: 1212557985
+      IzerSpecial_185: -1722872107
+      IzerSpecial_187: 877007210
+      IzerSpecial_188: 1557237024
+      IzerSpecial_189: 1566885938
+      IzerSpecial_19: -437044704
+      IzerSpecial_190: -1792302343
+      IzerSpecial_191: -1203612477
+      IzerSpecial_193: -678785290
+      IzerSpecial_194: -1208948367
+      IzerSpecial_195: -680475507
+      IzerSpecial_196: 2050965752
+      IzerSpecial_197: -1335976369
+      IzerSpecial_198: 1402008829
+      IzerSpecial_199: 1445264983
+      IzerSpecial_2: 135781161
+      IzerSpecial_20: 1918919185
+      IzerSpecial_200: 1196443997
+      IzerSpecial_201: 284364532
+      IzerSpecial_202: 1541513369
+      IzerSpecial_203: 1948607355
+      IzerSpecial_204: 654220252
+      IzerSpecial_205: 1866808179
+      IzerSpecial_206: 170362894
+      IzerSpecial_207: 802186298
+      IzerSpecial_208: -280925508
+      IzerSpecial_209: 1566291915
+      IzerSpecial_21: 288984234
+      IzerSpecial_210: -1482254817
+      IzerSpecial_211: 525484245
+      IzerSpecial_212: -1709499642
+      IzerSpecial_213: -990833696
+      IzerSpecial_214: 413826343
+      IzerSpecial_215: -1984165504
+      IzerSpecial_216: -1397937628
+      IzerSpecial_217: 74012216
+      IzerSpecial_218: -923589546
+      IzerSpecial_219: -431825675
+      IzerSpecial_22: -1132883523
+      IzerSpecial_220: 1450135087
+      IzerSpecial_221: 1596413686
+      IzerSpecial_222: 263748499
+      IzerSpecial_223: 2041002955
+      IzerSpecial_224: -1036412832
+      IzerSpecial_225: -118167539
+      IzerSpecial_226: 1457970231
+      IzerSpecial_227: -1236697401
+      IzerSpecial_228: 1395442980
+      IzerSpecial_229: 1299796304
+      IzerSpecial_23: 2062651171
+      IzerSpecial_230: -2017662484
+      IzerSpecial_231: -1792652456
+      IzerSpecial_232: 2080913460
+      IzerSpecial_233: -2047018983
+      IzerSpecial_234: -1035994807
+      IzerSpecial_235: 375856278
+      IzerSpecial_236: -1007168384
+      IzerSpecial_237: 760306479
+      IzerSpecial_238: -838288087
+      IzerSpecial_239: 738662765
+      IzerSpecial_24: -337749175
+      IzerSpecial_240: -1997448513
+      IzerSpecial_241: -222789438
+      IzerSpecial_242: 575344398
+      IzerSpecial_243: 1648615492
+      IzerSpecial_244: -1834344458
+      IzerSpecial_245: -752083052
+      IzerSpecial_246: -1048215107
+      IzerSpecial_247: -381832313
+      IzerSpecial_248: -1247585867
+      IzerSpecial_249: 818078472
+      IzerSpecial_25: 1940639255
+      IzerSpecial_250: 1539697514
+      IzerSpecial_251: 1009266504
+      IzerSpecial_252: 633664878
+      IzerSpecial_253: 1909193145
+      IzerSpecial_254: 1010473566
+      IzerSpecial_255: -753633158
+      IzerSpecial_256: -1446260704
+      IzerSpecial_257: -1029791226
+      IzerSpecial_258: 457230292
+      IzerSpecial_259: -1141315739
+      IzerSpecial_26: 910771551
+      IzerSpecial_260: 911488034
+      IzerSpecial_261: -1097050226
+      IzerSpecial_262: 1715625820
+      IzerSpecial_263: 698613146
+      IzerSpecial_264: -178229067
+      IzerSpecial_265: -157877358
+      IzerSpecial_266: 235381801
+      IzerSpecial_267: -467580363
+      IzerSpecial_268: -2083566039
+      IzerSpecial_269: -12283737
+      IzerSpecial_27: -2043473049
+      IzerSpecial_270: -519106352
+      IzerSpecial_271: -226980301
+      IzerSpecial_272: 1567001296
+      IzerSpecial_273: -97980680
+      IzerSpecial_274: 251422107
+      IzerSpecial_275: 1265257348
+      IzerSpecial_276: 1894164086
+      IzerSpecial_277: 1713505164
+      IzerSpecial_278: -864141010
+      IzerSpecial_279: 1984584091
+      IzerSpecial_28: 782345982
+      IzerSpecial_280: 1495701779
+      IzerSpecial_281: 1211617260
+      IzerSpecial_282: 2091739321
+      IzerSpecial_283: -445776217
+      IzerSpecial_284: 1108031796
+      IzerSpecial_285: -1510679221
+      IzerSpecial_286: 1238399715
+      IzerSpecial_287: 1229500385
+      IzerSpecial_288: 521005514
+      IzerSpecial_289: -178565299
+      IzerSpecial_29: 700751848
+      IzerSpecial_290: 1466622641
+      IzerSpecial_291: -1408432055
+      IzerSpecial_292: 2102721157
+      IzerSpecial_293: 599585297
+      IzerSpecial_294: -2023350833
+      IzerSpecial_295: -249655630
+      IzerSpecial_296: 560768169
+      IzerSpecial_297: 856050533
+      IzerSpecial_298: -1236183005
+      IzerSpecial_299: -138925113
+      IzerSpecial_3: 155813552
+      IzerSpecial_30: 1207887031
+      IzerSpecial_300: -1657805077
+      IzerSpecial_301: 1062956579
+      IzerSpecial_302: -712823855
+      IzerSpecial_303: -1628311747
+      IzerSpecial_304: 1021700276
+      IzerSpecial_305: -2088915075
+      IzerSpecial_306: 1765753741
+      IzerSpecial_307: 2095100721
+      IzerSpecial_308: 1294198929
+      IzerSpecial_309: 1341116754
+      IzerSpecial_31: 758248050
+      IzerSpecial_310: 1039932518
+      IzerSpecial_311: -1713693874
+      IzerSpecial_312: -1265181845
+      IzerSpecial_313: -437302236
+      IzerSpecial_314: 674181797
+      IzerSpecial_315: 393997473
+      IzerSpecial_316: -87946400
+      IzerSpecial_317: 877419079
+      IzerSpecial_318: -425314089
+      IzerSpecial_319: -739567905
+      IzerSpecial_32: 879611830
+      IzerSpecial_320: -1070462656
+      IzerSpecial_321: -2016865147
+      IzerSpecial_322: 1340335054
+      IzerSpecial_323: 989190087
+      IzerSpecial_324: -1700582646
+      IzerSpecial_325: -601643504
+      IzerSpecial_326: 1030229400
+      IzerSpecial_327: -110947776
+      IzerSpecial_328: -722531249
+      IzerSpecial_329: -917089120
+      IzerSpecial_33: 461112437
+      IzerSpecial_330: -312303307
+      IzerSpecial_331: -795559777
+      IzerSpecial_332: 1050645575
+      IzerSpecial_333: -706528849
+      IzerSpecial_334: 820048298
+      IzerSpecial_335: 1888324711
+      IzerSpecial_336: 330214258
+      IzerSpecial_337: 104409188
+      IzerSpecial_338: 1413393734
+      IzerSpecial_339: 1064760754
+      IzerSpecial_34: 1390467400
+      IzerSpecial_340: 1241708963
+      IzerSpecial_341: -1848283605
+      IzerSpecial_342: -784092144
+      IzerSpecial_343: -191915756
+      IzerSpecial_344: -1623277360
+      IzerSpecial_345: -6870710
+      IzerSpecial_346: -666387380
+      IzerSpecial_347: -14901089
+      IzerSpecial_348: 482580935
+      IzerSpecial_349: -864172590
+      IzerSpecial_35: 1088908609
+      IzerSpecial_350: 1280323644
+      IzerSpecial_351: -450626151
+      IzerSpecial_352: 189823332
+      IzerSpecial_353: 611499191
+      IzerSpecial_354: -967341006
+      IzerSpecial_355: 1989117074
+      IzerSpecial_356: -1308871199
+      IzerSpecial_357: 1693374328
+      IzerSpecial_358: 1107591188
+      IzerSpecial_359: 39367510
+      IzerSpecial_36: -211745010
+      IzerSpecial_360: 1119822405
+      IzerSpecial_361: -810942905
+      IzerSpecial_362: 642076389
+      IzerSpecial_363: -367952770
+      IzerSpecial_364: -1901590594
+      IzerSpecial_37: 995163184
+      IzerSpecial_38: -583080910
+      IzerSpecial_39: -1868400862
+      IzerSpecial_4: -446527430
+      IzerSpecial_40: 1751334546
+      IzerSpecial_41: 1741037163
+      IzerSpecial_42: -2069858852
+      IzerSpecial_43: -127404113
+      IzerSpecial_44: -1946728664
+      IzerSpecial_45: -358764999
+      IzerSpecial_46: 1395613847
+      IzerSpecial_47: -789610956
+      IzerSpecial_48: 622634378
+      IzerSpecial_49: 1920461846
+      IzerSpecial_50: -1715294658
+      IzerSpecial_51: -755259461
+      IzerSpecial_52: -923144475
+      IzerSpecial_53: 135855115
+      IzerSpecial_54: 269400629
+      IzerSpecial_55: 1376102953
+      IzerSpecial_56: 305518052
+      IzerSpecial_57: 908473740
+      IzerSpecial_58: 1498574796
+      IzerSpecial_59: 1474764031
+      IzerSpecial_6: 1296407747
+      IzerSpecial_60: 2081517045
+      IzerSpecial_61: 1735514801
+      IzerSpecial_62: 1503488110
+      IzerSpecial_63: 607458187
+      IzerSpecial_64: 35429181
+      IzerSpecial_65: 1200883372
+      IzerSpecial_66: 1811678459
+      IzerSpecial_67: 812190630
+      IzerSpecial_68: 730687099
+      IzerSpecial_69: -358006743
+      IzerSpecial_7: 996011590
+      IzerSpecial_70: -821805980
+      IzerSpecial_71: 952162281
+      IzerSpecial_72: -736929403
+      IzerSpecial_73: 1881318858
+      IzerSpecial_74: 541340976
+      IzerSpecial_75: -357334853
+      IzerSpecial_76: 812720970
+      IzerSpecial_77: 875910879
+      IzerSpecial_78: 666308027
+      IzerSpecial_79: -1284679819
+      IzerSpecial_8: 591520953
+      IzerSpecial_80: -1260049351
+      IzerSpecial_81: 1981860813
+      IzerSpecial_82: -2045775757
+      IzerSpecial_83: -1408407516
+      IzerSpecial_84: -1977010413
+      IzerSpecial_85: 1256709508
+      IzerSpecial_86: 1541130087
+      IzerSpecial_87: 1525981367
+      IzerSpecial_88: 1123135647
+      IzerSpecial_89: 1843221325
+      IzerSpecial_9: 1339237172
+      IzerSpecial_90: -600521431
+      IzerSpecial_91: -1718194546
+      IzerSpecial_92: -593230408
+      IzerSpecial_93: 838469417
+      IzerSpecial_94: 1528658888
+      IzerSpecial_95: -1070404577
+      IzerSpecial_96: -1057758072
+      IzerSpecial_97: 630624316
+      IzerSpecial_98: 221186970
+      IzerSpecial_99: 1112824116
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

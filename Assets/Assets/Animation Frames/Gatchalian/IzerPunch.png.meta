@@ -1,0 +1,6572 @@
+fileFormatVersion: 2
+guid: 56990c02b7eea7b4f903cdcaf45ebe22
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2048
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1211
+        width: 334
+        height: 927
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00021621b6aefea4e90b12e9079b832e
+      internalID: -418143411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 1211
+        width: 563
+        height: 927
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef4837acf1b1404c8d50814d4561ddd
+      internalID: -2037953455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_2
+      rect:
+        serializedVersion: 2
+        x: 3786
+        y: 1753
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ab2d51eb04e8e4a8d4bc37575ba948
+      internalID: -1116265404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_3
+      rect:
+        serializedVersion: 2
+        x: 3799
+        y: 1700
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc550e4863b7fe45a343775caefa5ee
+      internalID: -1161333369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_4
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1635
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bfdd305e1bb104ba0f55e55164494e
+      internalID: 418928839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_5
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 1638
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21cd066c6c06a54fbff4820f2336808
+      internalID: -1837915572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_6
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 1646
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86614a3a6d5954f40ace1aa7541e103d
+      internalID: -501243605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_7
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 1627
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb755f4808cbbb64aa758a247cf9d8a3
+      internalID: 2022653305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_8
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1629
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd58377da27af1944a4b18aecf66349f
+      internalID: -1715072482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_9
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 1543
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53d2cae86897bf44b6bb2f1f860deea
+      internalID: -384706879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_10
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 1601
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21226b67c784b3f41ad4c53859606f58
+      internalID: 2118359846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_11
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1440
+        width: 94
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e686dbd47ec25554998496a37b20a661
+      internalID: -302377501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_12
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 1440
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4d52cf984a5284da2101e1fc8ced89
+      internalID: 1728093295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_13
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 1453
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1421a1bb48e96149bf90fe2e4bee1cb
+      internalID: -621831678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_14
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 1486
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be4277efb43e69418bcc9999957f737
+      internalID: 1139822313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_15
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 1501
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad17d9fc1af3354aabdbac916ed3bce
+      internalID: 274788216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_16
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 1441
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907f800666ae20c498b8faa6debe2210
+      internalID: 316856971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_17
+      rect:
+        serializedVersion: 2
+        x: 3487
+        y: 1443
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9ea8cd0ed2a4c4ab952f6acd1df382
+      internalID: -1287186214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_18
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 1306
+        width: 152
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf9579a6f24cfe44a49a12475f3f0b3
+      internalID: 1043703497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_19
+      rect:
+        serializedVersion: 2
+        x: 3551
+        y: 1443
+        width: 32
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ee8a94105d3d549b06485f0eb7c57f
+      internalID: 1871645099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_20
+      rect:
+        serializedVersion: 2
+        x: 3801
+        y: 1436
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc7d03782e965847b88fa73c43a25ed
+      internalID: 1757435982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_21
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 1426
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cedebdc14fb1cf4d88aeca851060e77
+      internalID: 1622758765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_22
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 1394
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3e41296d82bb545a5fc55dcd6b18ec
+      internalID: 1841165846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_23
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 1357
+        width: 4
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbc0d28851cb7542b36874d01c24e00
+      internalID: 1195186712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_24
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 1314
+        width: 8
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c510a3bc27fb904f8d1f3a5470d588e
+      internalID: -1948047858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_25
+      rect:
+        serializedVersion: 2
+        x: 3602
+        y: 1288
+        width: 11
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049fefd2110848440acb205c8ce1f686
+      internalID: 660831569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_26
+      rect:
+        serializedVersion: 2
+        x: 3343
+        y: 1342
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f5744082f96c943a374664d9ceb739
+      internalID: 27202348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_27
+      rect:
+        serializedVersion: 2
+        x: 3686
+        y: 1336
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed006986a20db4440aa632fee04ba8e2
+      internalID: -603799006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_28
+      rect:
+        serializedVersion: 2
+        x: 3701
+        y: 1329
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea863d07bfa1cf47aa56a6e71e8612e
+      internalID: 2055711563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_29
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 1291
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa959f12406b5bb4e959061b7cfd0fea
+      internalID: -1336751450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_30
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1310
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113ba7db99594d64194c4a2f3456ef2f
+      internalID: 256332514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_31
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 1314
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e34bce5672095349959f02a0382af0f
+      internalID: 1738777731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_32
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 1306
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6f9c1df1bcf3d428f1db38ea891552
+      internalID: 2115664110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_33
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 1304
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277907d948c0d7c49abece72ff375812
+      internalID: -106592084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_34
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 1272
+        width: 6
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f88ba9bdb18cd9469104f9c85a88cb1
+      internalID: 1320827846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_35
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 1220
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08195909b48fb47448a055ae15361ea8
+      internalID: 378423326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_36
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 1291
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3518d2bf1ab9f2648bded720d86b1da1
+      internalID: -965739293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_37
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1267
+        width: 6
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f04dad419e56e645bf0717ce3cc2f93
+      internalID: 1913987137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_38
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 1231
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5fb6189369b304aad518eeca1c6cd1
+      internalID: -1623195481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_39
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 1241
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e862268f9d52234f8966f51db01aac5
+      internalID: -1038938761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_40
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1269
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43662896e78730409d443198c7753ff
+      internalID: -928477508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_41
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 1231
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591559f22b2cb3f42ac570d0ebbb38e4
+      internalID: -194395873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_42
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1244
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6637202193d8c404db9710576b71f14f
+      internalID: 150629288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_43
+      rect:
+        serializedVersion: 2
+        x: 3602
+        y: 1263
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2577bf50ea3d349b14410c2c7cca56
+      internalID: 1161595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_44
+      rect:
+        serializedVersion: 2
+        x: 3769
+        y: 1231
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90362a8b5a05c0c48913bc806ba365a2
+      internalID: 1323017566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_45
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 1252
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93ed38541b435547afa16e86e60db8a
+      internalID: 2025245742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_46
+      rect:
+        serializedVersion: 2
+        x: 3615
+        y: 1235
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c81c25fcc3c4149927ee256f704e6e
+      internalID: 1749168363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_47
+      rect:
+        serializedVersion: 2
+        x: 3745
+        y: 1252
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c853a69c822319a4aac3adefd19e8396
+      internalID: 2078601387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_48
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 1083
+        width: 26
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90de0a311a78064e90f487e323acb00
+      internalID: -2137043194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_49
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 1224
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248716ba171f8084dbee2d3ca1301b71
+      internalID: -1118664208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_50
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 1231
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279d9918870e4844eb515defa0f0d120
+      internalID: 806602798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_51
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 1214
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a41ee9c3b658a14092938b3ff698963
+      internalID: -1852421093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_52
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 1145
+        width: 34
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa89d02d1c0c03d46bd1025b7606bde4
+      internalID: 2077018235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_53
+      rect:
+        serializedVersion: 2
+        x: 3467
+        y: 1201
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79628bc448cd274783619c33bc287ed
+      internalID: 1012873327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_54
+      rect:
+        serializedVersion: 2
+        x: 3656
+        y: 1201
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9fde675a6389a4c9072a08af049300
+      internalID: -283014061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_55
+      rect:
+        serializedVersion: 2
+        x: 3733
+        y: 1177
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc23f0d058cca21449985dddb3ed34ef
+      internalID: -488839322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_56
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 1222
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24e958f062772b4ab29ec04a6f6e526
+      internalID: -761830135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_57
+      rect:
+        serializedVersion: 2
+        x: 3775
+        y: 1218
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa41755bc68f094428c12f95b644e556
+      internalID: 870430735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_58
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1132
+        width: 60
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b7b15dcf2e828489454079f67455d4
+      internalID: 1725860217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_59
+      rect:
+        serializedVersion: 2
+        x: 3354
+        y: 1175
+        width: 8
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3857fff65930fe4e82690c5fbe099ee
+      internalID: 1497243232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_60
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 1211
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03eec8cc69326142aa348600e1df553
+      internalID: -538848127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_61
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 1212
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afc007e10c9a3c4fb754e5a35d1865f
+      internalID: 538491514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_62
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 1209
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc17792991ffb44aa9f5f941534bac7
+      internalID: 1121624106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_63
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 1145
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c331c761081ef48b9c554aab8a0553
+      internalID: -493184573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_64
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 1175
+        width: 11
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7591fbca6f2aaec4cb6ae254b7f9a19e
+      internalID: 1658681722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_65
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 1186
+        width: 4
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a30d6f4b30b7e542b4e92f218cbdaab
+      internalID: 1896107197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_66
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 1166
+        width: 12
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a7ca743b3d0b64d87ff12d41dc557d
+      internalID: -657853297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_67
+      rect:
+        serializedVersion: 2
+        x: 3701
+        y: 1197
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7cf32b3008ca746953f2d8ec508273
+      internalID: -1378051137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_68
+      rect:
+        serializedVersion: 2
+        x: 3775
+        y: 1182
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a20297f3a052549b031573404b103f
+      internalID: -518011233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_69
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 1162
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2905ad58d53588a4cb1ee13e86698ba6
+      internalID: 1745293411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_70
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 1171
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bda0457aa78f5e48ac27b71797ac4b3
+      internalID: -26122369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_71
+      rect:
+        serializedVersion: 2
+        x: 3745
+        y: 1169
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c0d8baedf31bc428211136caf114d8
+      internalID: -682596540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_72
+      rect:
+        serializedVersion: 2
+        x: 3791
+        y: 1175
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160bc0419d542574eb1262a1bbc62692
+      internalID: -1305858711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_73
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 1081
+        width: 28
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e7d0d3accad3e42aed33e7d2269f22
+      internalID: 1679247944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_74
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1081
+        width: 38
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e149a60f294c0a458544671fb650b65
+      internalID: 451648178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_75
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 1104
+        width: 5
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758d340e5e33d3d4cb300466ff50b843
+      internalID: -834343555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_76
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 1081
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d34def08a026c40beb43d032f23d21
+      internalID: 1172043243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_77
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 1081
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f335153a7eebe4f8d22e00ade900aa
+      internalID: -19024268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_78
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 1081
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a8e44d247c528489f125349f837d09
+      internalID: -876246174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_79
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 1102
+        width: 4
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f86b9fa54c2f043a7e278359425362
+      internalID: -237503946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_80
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 1081
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f38bb226a353d448abc3ceb70640bd3
+      internalID: -1362325555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_81
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 1081
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483a8f916b8a68344875a40eb96f993f
+      internalID: -526733155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_82
+      rect:
+        serializedVersion: 2
+        x: 3345
+        y: 1081
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36749b5ebae56a4a86d229f41cd993f
+      internalID: 1903407059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_83
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 1124
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbda700e68eb444b838f8a0945b7619
+      internalID: 260925737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_84
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 1115
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3f00fae46830e4b8ba67f3f5d0aeb7
+      internalID: 455441682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_85
+      rect:
+        serializedVersion: 2
+        x: 3352
+        y: 1137
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14e1c27c4129f34e8a45335da421b31
+      internalID: 838539284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_86
+      rect:
+        serializedVersion: 2
+        x: 3354
+        y: 1081
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2450987a27e62419fcb265ee6f1e24
+      internalID: -1367018596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_87
+      rect:
+        serializedVersion: 2
+        x: 3362
+        y: 1096
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd45ac41fad1e024f9a31e943e8df892
+      internalID: 162806766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_88
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 1128
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2c68aee38ea114abd37312e420194c
+      internalID: 731189317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_89
+      rect:
+        serializedVersion: 2
+        x: 3431
+        y: 1081
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3abd67e8dde69a4bb4bfc6412b908c4
+      internalID: 1062789912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_90
+      rect:
+        serializedVersion: 2
+        x: 3437
+        y: 1145
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b84f079fd1e4154885ff25c01b914f2
+      internalID: -813665386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_91
+      rect:
+        serializedVersion: 2
+        x: 3442
+        y: 1092
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3751b15e48885aa429b0c18dff0e8dc3
+      internalID: 1667373086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_92
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 1124
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff1a04a1dccd9441b0617270affea92
+      internalID: -590014712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_93
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 1113
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af51e110e12cc7b4785b3a61658e4484
+      internalID: -631014359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_94
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 1083
+        width: 61
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434dbc1e59795dc4593a40791aa392ed
+      internalID: 1679656169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_95
+      rect:
+        serializedVersion: 2
+        x: 3547
+        y: 1128
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5d32eef83e60a4999656ba35fb5497
+      internalID: -1068290942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_96
+      rect:
+        serializedVersion: 2
+        x: 3754
+        y: 1083
+        width: 28
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9373cb9b88eb74b8904355794a19cd
+      internalID: -591227601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 128
+        width: 312
+        height: 931
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1904fce72f1c8104e904fa49027ca546
+      internalID: -109840903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_98
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 670
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47037e960c6150a41b93bfdbc4ffbecc
+      internalID: -1208760595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 128
+        width: 537
+        height: 929
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0a2a4b971a2bd47ae7eb8f071a7706
+      internalID: -249233505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_100
+      rect:
+        serializedVersion: 2
+        x: 3786
+        y: 670
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e305ed58f2a3e08489987fbf9d1ca62c
+      internalID: 1354299088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_101
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 520
+        width: 135
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0864e735e76714ca5400c93f5a5379
+      internalID: 753870957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_102
+      rect:
+        serializedVersion: 2
+        x: 3799
+        y: 617
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1053f2c56d3fa4ba81606c4b71a231
+      internalID: 518168207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_103
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 552
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8d6a21b019fbe4a92542587c7fb1b8
+      internalID: -1797145432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_104
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 565
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384363214af22a6479368d17548e9508
+      internalID: 122335413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_105
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 563
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c72c61e11ac4a458d69dbdd7bb255c
+      internalID: 1262518144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_106
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 557
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36b95797ec03ed4f851310707dec387
+      internalID: 1129536447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_107
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 565
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e719ae46d60c14c81ed1150d1cdf6e
+      internalID: -1071549986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_108
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 557
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84352a6d700d16441ab2c2df0bf1bee2
+      internalID: 258311530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_109
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 546
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35720d9219178cb4b8fd980adeb75882
+      internalID: -1425876916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_110
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 552
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8ae1ba1eeef304b8d32ac12ee60896
+      internalID: 1689621985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_111
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 546
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af809657b700a94ca30b0b98ceae5cb
+      internalID: -766919449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_112
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 546
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbddd548ca418444983b9d708380084
+      internalID: 1632659386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_113
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 546
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a50603e358a2124ea7dbe402518fcff
+      internalID: 277901168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_114
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 531
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b635a014147a3e645a469a3044a61789
+      internalID: 1253101587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_115
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 533
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b41f29468d719b4d97a4e768dbd61fa
+      internalID: 466896152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_116
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 518
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55626561a82aaf146bb03ece1330c1e7
+      internalID: -1592325596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_117
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 503
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff4389905299d045a40c91fa614d1db
+      internalID: 417254887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_118
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 488
+        width: 79
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9919330cec5fe342af2c3ea25f0151b
+      internalID: -1761256349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_119
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 488
+        width: 58
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6ace66e3be17342b48d4102fef0d03
+      internalID: -1507702762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_120
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 475
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d126326b6f1b64a908bc319acca9e3
+      internalID: -546729690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_121
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 471
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e10c4691899ef4d97cca11b4d96f75
+      internalID: 977721293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_122
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 469
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b3f7c19f98c8c4e902e4d1e91056c9
+      internalID: 1821454123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_123
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 465
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000cbde2b10a1c74caf0a905798018ae
+      internalID: 1499138240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_124
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 462
+        width: 45
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec66b2e05b5e5d74cabb3b1b1354b630
+      internalID: -1226389762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_125
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 462
+        width: 44
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29329aeedb2a69e4193330d2a5c99987
+      internalID: 2135997160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_126
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 445
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e5e7c735b7abd4b9ad1d9bdb10c4d7
+      internalID: -1891530098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_127
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 420
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba2f15e579b7724686b06b9f13a582e
+      internalID: -1379141951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_128
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 445
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349030f7d666a2743a9ddc42d0144075
+      internalID: 1556027296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_129
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 441
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3399222001502dd44bc32c957a6e36aa
+      internalID: -265769596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_130
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 420
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b725c82d2f148884ea4d9f64141d3509
+      internalID: 1819180506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_131
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 415
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d992dcf2a79c15459fd367b058e34a7
+      internalID: -1330744823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_132
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 400
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517373d826866374894ab4faf8942073
+      internalID: 1523003404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_133
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 368
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e193ed29d1322542bb3c30debc94253
+      internalID: -409142168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_134
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 370
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee27deebadbed6248af9dfe5efa13b5b
+      internalID: -1499649126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_135
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 357
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbd261b0c7cb384db20db09c99653fb
+      internalID: -214588899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_136
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 360
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7616dd58d9e054ab9c86b7c38d8705
+      internalID: -519987110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_137
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 358
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e929eb7951b02684291e325b254d381a
+      internalID: -185452685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_138
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 360
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82644f1f30dac64bb12b9f57728cc9d
+      internalID: -2026778437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_139
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 360
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c877c686404b041b8417dec6cd8482
+      internalID: -400193554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_140
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 267
+        width: 141
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26de8ac112fc11409472fc597cb371b
+      internalID: 807373692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_141
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 353
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb771f1b0e2bf104e8eb4f9cec67d0f7
+      internalID: 434239019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_142
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 358
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993dbd008994acc4e8053a15b6ed2fef
+      internalID: -615168480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_143
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 360
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef8629bd4d179c49945e48e188b7554
+      internalID: -919954411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_144
+      rect:
+        serializedVersion: 2
+        x: 3487
+        y: 360
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d8c249f8195db45aab01cd729fb852
+      internalID: 837978015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_145
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 360
+        width: 81
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35aca027444a0f5409744bff68fbc9d7
+      internalID: 1500767389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_146
+      rect:
+        serializedVersion: 2
+        x: 3688
+        y: 360
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578e3ce723985ca459aeadbd142983e2
+      internalID: 1025068939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_147
+      rect:
+        serializedVersion: 2
+        x: 3799
+        y: 353
+        width: 45
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c830513d83be5c24aab3daac9b5a994d
+      internalID: -1195107873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_148
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 345
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889d2a92c81e5984cbe791d2d60c9e37
+      internalID: 385957861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_149
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 342
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a3ef8c6b8ede94a985cad356865745
+      internalID: -395954357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_150
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 345
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f615f9a9c052292418595c6325ba506a
+      internalID: 730374056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_151
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 342
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920d573c269248e45be0897a5643760b
+      internalID: 1370184131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_152
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 276
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4b7d7b34e58d342bf3985b78d0e013
+      internalID: -973599374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_153
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 233
+        width: 8
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1912acbf396b341b638ae4a2f77151
+      internalID: 744299616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_154
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 178
+        width: 15
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d4e95c8fac55c4982771e91756701a
+      internalID: -887511833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_155
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 276
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b12070f847c3448aa82aa387b4f905
+      internalID: 935002941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_156
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 248
+        width: 4
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dddf2d15dc6af4ebecdb03794425e2
+      internalID: -88014935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_157
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 206
+        width: 73
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a5ee6d1988c8849822fe871f4177d1
+      internalID: 1673508193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_158
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 274
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e59258bdfba60046b898162655a6295
+      internalID: 346627342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_159
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 261
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd74192ccba94494ab7e0d6eb554ccac
+      internalID: 1105398558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_160
+      rect:
+        serializedVersion: 2
+        x: 3345
+        y: 259
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5611f838bda429e46ad1c12c9d828dbe
+      internalID: -1435815331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_161
+      rect:
+        serializedVersion: 2
+        x: 3673
+        y: 255
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02512b9bfdd7bce409c669874756d837
+      internalID: 446340595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_162
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 255
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d382b335c2d0ed42b24f50b4db8e759
+      internalID: -943578090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_163
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 161
+        width: 10
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf051ee88b274d47af0b4e4f813d896
+      internalID: 1575528906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_164
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 246
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65b4ec1a915bbe45b1f2d40b40fcf0a
+      internalID: 1519075732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_165
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 229
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bccb48708161b4ca07a2d036b85d2e
+      internalID: -612761025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_166
+      rect:
+        serializedVersion: 2
+        x: 3701
+        y: 246
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4085d05dc068ab34fb46a24e3caa1232
+      internalID: -1214903432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_167
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 240
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef98c08827a7644c8555546f1e6a0fc
+      internalID: -750370630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_168
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 212
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4518df9f10b57a84c84e6082ad49a74d
+      internalID: -756925069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_169
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 240
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ffe3381eac1d24fb50314296381216
+      internalID: 462515828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_170
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 225
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5704015b4da774cbdee2ed21e20511
+      internalID: -106865163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_171
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 223
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4cb5ac389aae94dba8f8974dbb5066
+      internalID: 150171745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_172
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 227
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ad431d8bab00c45848d71b23933b7f
+      internalID: -1658268293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_173
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 193
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488c53d8c480bea48a361a782e9d77e1
+      internalID: -2055342958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_174
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 223
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5729310a237e5ba4ea418f9eaa5ffe62
+      internalID: -186378849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_175
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 210
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335082246fd0a154f90c553629ee628e
+      internalID: 2066624344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_176
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 223
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10a7c154a656b64fa7e785a4fb114e5
+      internalID: -124138784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_177
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 225
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf43596fd33e0f6418b55f0e82558e3c
+      internalID: 1306054436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_178
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 210
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37cffe3052991b4d9370696337808f2
+      internalID: -1922173490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_179
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 208
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e7ddfb52147ff44af9a10d2a737b17
+      internalID: 1429644231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_180
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 154
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1dd9a4c075fc34ea6356f79e36ed50
+      internalID: 720599054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_181
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 146
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2cdd381afc54f4f8ac22e65c372b56
+      internalID: 1300572943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_182
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 208
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8669aa29891a724696b178b5438156d
+      internalID: -266082559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_183
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 184
+        width: 6
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e124f0b93a78f42a501e0c2452b053
+      internalID: -1111475648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_184
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 156
+        width: 4
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c51872edcc78c4e9e03911e5100875
+      internalID: 1177042560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_185
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 139
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0d63dab2218fa46b21c1d63d37c33a
+      internalID: -1987647049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_186
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 139
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7a36ceea8c56b49bb317f4685110b4
+      internalID: -1685117082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_187
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 191
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b772082cd9fab2947823e2e32a8b4d31
+      internalID: 372704827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_188
+      rect:
+        serializedVersion: 2
+        x: 3598
+        y: 191
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d761570653f069340ad14a4ee7b7a262
+      internalID: -2041473582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_189
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 150
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7665bd6d165cdf74992853e6e223d781
+      internalID: -743412319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_190
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 161
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afd7d6cae5735c44a45f4dde8b8ebd4
+      internalID: -957839171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_191
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 137
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a99050a2da5649488ee6a3911508428
+      internalID: 400393940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_192
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 150
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512dc0d7a3532594eab48fb2b538dd95
+      internalID: -752316330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_193
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 163
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe175461eaa4274dabace063bb35711
+      internalID: 1324651312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_194
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 160
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b20bc163026ee4dbbad5c9c951d2d3
+      internalID: -1068157166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_195
+      rect:
+        serializedVersion: 2
+        x: 3602
+        y: 180
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9ad7681bb67f64b91da4a72ba1fe5a
+      internalID: -1731435030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_196
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 141
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fa2e34da7f79f4f9e895d8961aae5a
+      internalID: 1361634576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_197
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 167
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865654dab9b14b549b76f2405111be57
+      internalID: 238459427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_198
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 167
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d464c7007f74a44995168367c89bc8
+      internalID: -916838179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_199
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 169
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a19a29fb994d041afae637a1ce780f
+      internalID: -756625413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_200
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 169
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6838a7720c6a843ac34893c652dc7a
+      internalID: -1748161010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_201
+      rect:
+        serializedVersion: 2
+        x: 3615
+        y: 154
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa5b2a138a34ac49a0bb04ccd37f6c1
+      internalID: -552002489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_202
+      rect:
+        serializedVersion: 2
+        x: 3745
+        y: 169
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b637a225b5242489282717c8989443
+      internalID: 1526935780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_203
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 0
+        width: 41
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241c58583c63efc45a34e73e1e9dd7be
+      internalID: 28884353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_204
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 150
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be0b2b40043b6d48baedd9b110dec3c
+      internalID: 8486630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_205
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 154
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d456261192ab149bbba7781ae62d20
+      internalID: 743933470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_206
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 148
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348a7ee7fdb166e40a1fd38c59011798
+      internalID: 297671053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_207
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 0
+        width: 32
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996169ac8557f234da1ccd2d7335dfea
+      internalID: 582969971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_208
+      rect:
+        serializedVersion: 2
+        x: 3431
+        y: 150
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b07628213f7524dac3d46543d42875
+      internalID: 1912070162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_209
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 150
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ad7dc42490f2a499c464f69c91aca9
+      internalID: 476802909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_210
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 137
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531221924195ea6489d4efa73ff16467
+      internalID: -1599603754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_211
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 56
+        width: 34
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee522734e2f38149ae408b925da9fa6
+      internalID: -350436732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_212
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 141
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fb8452150c0f647b83689cfc990bbb
+      internalID: 1886895281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_213
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 109
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c1f1d441ad5434299f07fc2b1ec6cb
+      internalID: -1878450752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_214
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 120
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3844b43823aa5a49939e9d729117a37
+      internalID: -1678159866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_215
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 81
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bb0c48da6f28444be0d032ef5fd17b
+      internalID: 363835032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_216
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 139
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1aaf659a6a09648b79fd86fea4135a
+      internalID: 377934544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_217
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 131
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0c50f6571e8654d9bad2a5ed759316
+      internalID: 1597137153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_218
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 109
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc82e7ffa36cf29428eb55fcb3772688
+      internalID: -1790904212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_219
+      rect:
+        serializedVersion: 2
+        x: 3442
+        y: 141
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d66ad8d4be30f549ba7d156aaf996ad
+      internalID: -63249134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_220
+      rect:
+        serializedVersion: 2
+        x: 3455
+        y: 131
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12abe582379e134f9c397932c69b6a7
+      internalID: 1829458908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_221
+      rect:
+        serializedVersion: 2
+        x: 3656
+        y: 120
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e2798af042c9d418e9831124b8db45
+      internalID: -51934677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_222
+      rect:
+        serializedVersion: 2
+        x: 3775
+        y: 135
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc22454def5945f40876c3fa7ec7ea74
+      internalID: 1498409022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_223
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 49
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15857ee14822718438be626147acba11
+      internalID: 799233274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_224
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 131
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750d7ee8e33530a41a525cf783a09cf1
+      internalID: -286982136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_225
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 92
+        width: 8
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d5088cc45aee1498881416a143b839
+      internalID: 1983308180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_226
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 83
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15bf742ce7138e438ded677f8da6446
+      internalID: 2113893221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_227
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 131
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dee953650bb814188e1406dcb44143
+      internalID: 2029973131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_228
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 94
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571fb2548bda8ea4d8685d402158b98f
+      internalID: 1462630346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_229
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 39
+        width: 70
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d67807b6f587b845aeaaea23d721bec
+      internalID: -1139884752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_230
+      rect:
+        serializedVersion: 2
+        x: 3354
+        y: 92
+        width: 8
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bb560e32ef738429958d5c7165b20a
+      internalID: 1142438973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_231
+      rect:
+        serializedVersion: 2
+        x: 3382
+        y: 128
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b40a93d21302d49b4eadfa15f924ef
+      internalID: -1572836707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_232
+      rect:
+        serializedVersion: 2
+        x: 3733
+        y: 96
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324f0026ff2be8d4a93a4652e8684c8d
+      internalID: 1991212116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_233
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 94
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d620b5555e9e25f42b9d931fd5709c9a
+      internalID: -744631893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_234
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 21
+        width: 13
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b285369ef17363048ab17abfc78b7cae
+      internalID: 1760655876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_235
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 116
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e2f8ec4a4ea31488e45fad39d14898
+      internalID: 268268904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_236
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 0
+        width: 58
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01614f6cc7427e34f9826ac048f95d5c
+      internalID: -621937213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_237
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 94
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452828ac8b3ba3a4b95640aee1783d4c
+      internalID: 1280321013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_238
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 103
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f89bc8539ddd1448ad6725708881ed
+      internalID: -361570326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_239
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 83
+        width: 12
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9f6bce537e9db44b56a1f0221a1b79
+      internalID: 1200761554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_240
+      rect:
+        serializedVersion: 2
+        x: 3701
+        y: 116
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04cdd35bd244b146a95788d3d165f15
+      internalID: 1483818442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_241
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 64
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcc1ff060e2b34458fc307db5fe9ee2
+      internalID: -735660993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_242
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 94
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f63a012bd5793847a8f5a69014ebcb0
+      internalID: -1104016273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_243
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 62
+        width: 6
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c786ed963b53eb34298d361d6fa5ef36
+      internalID: -104893925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_244
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 96
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cb5f71c842b8443a7642bbf64185d0
+      internalID: -1631947367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_245
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 56
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c206e928e5500a648a24e631a3ec2593
+      internalID: -978418928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_246
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 47
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c03a1a35c653842941ca47a4e78136
+      internalID: -1409931234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_247
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 79
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf2a4b5932c9db45bac31dfcb3306c1
+      internalID: -115438220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_248
+      rect:
+        serializedVersion: 2
+        x: 3352
+        y: 56
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c286d3c173f06b4abc44a13d76fb27a
+      internalID: 1705767747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_249
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 47
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4aa770b428da3e43a39b62a7e02fce5
+      internalID: -471200872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_250
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 64
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58abb5cd739f88548b13a78d8bd3f19f
+      internalID: -792841418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_251
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 0
+        width: 26
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cbb2f72dceca446ba9d5786716ed8e
+      internalID: -1819954554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_252
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 73
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b450f1331eef1f40b36d63aead42d9f
+      internalID: 2116316049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_253
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 68
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602a5b3a475e9e748aa0bbdf6761c6e5
+      internalID: -1404083484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_254
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 15
+        width: 5
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3ebbc1331603f42a9b9e7736b2f673
+      internalID: 1626740469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_255
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 64
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0994b7848cd94af4299c6ef505a691b7
+      internalID: -1977664398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_256
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 0
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996bda1780d67da42bb0d6293f19411d
+      internalID: -2013751188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_257
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 21
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2922fdd68f24a8f4bad37a61c8b6d186
+      internalID: 980998081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_258
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 43
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c177339da5794948a2db15ca3672ff5
+      internalID: 1219805821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_259
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 30
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7207a1be8cda5449a4d9c57e31b81f
+      internalID: 573273321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_260
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 0
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cb184e0eb41004296427e92fedcd52
+      internalID: -454012578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_261
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 43
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a291e2ea3eb42b4f9298ea8557337f7
+      internalID: 1859348640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_262
+      rect:
+        serializedVersion: 2
+        x: 3362
+        y: 15
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa2111578e71e6489cb879e9dca96e5
+      internalID: -232918499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_263
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 43
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de518385db08dc42a7cf38f86dcf94e
+      internalID: -1905414879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_264
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 38
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175dd811a3595ef4f80aaf74eebaaec3
+      internalID: 673327786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_265
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 17
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a589ddea2731f4cb8e7306e9ba121c
+      internalID: 554806787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_266
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 11
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3661128dac6210459bd4c02d4910d57
+      internalID: -1537548139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_267
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 19
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fdb652950c86544b8e6c84336ace6a
+      internalID: 1166213969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_268
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 34
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd92c1fa3d5bcd449ee686baf186ae0
+      internalID: 674819857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_269
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 34
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9322c4670a691849a60e7ced6af1121
+      internalID: 1617918307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_270
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 19
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dfb14aa6481ee4e8efa4c7e421e5a6
+      internalID: -982357063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_271
+      rect:
+        serializedVersion: 2
+        x: 3442
+        y: 11
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9b71480fdf4df4ba71d8be54f2d6e2
+      internalID: 1868496342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_272
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 113
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e95bde6c740f745bf8fc0be344c422
+      internalID: 1620551035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_273
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdd2b0450d2be74b9dc39ec4ea9a33f
+      internalID: 1180741428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_274
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba31e901b1c13b142825e9d3a73b33da
+      internalID: -1461558380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_275
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391b88d3b168b224296e46fb0f0c3d62
+      internalID: -148847770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_276
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 0
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b5bff76203a1342a7993fb98dc59fe
+      internalID: 1477105866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_277
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 0
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d930eb50a03f01479b5068017641d55
+      internalID: -1943930294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_278
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 0
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52165d31c6d6e504ea8f08513d55f6f1
+      internalID: -774707832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_279
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 0
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6059ecd6ee41844eaad8ff869e35338
+      internalID: -1333907009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_280
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 0
+        width: 21
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4634e7098e4ae6144853868dc9e4d9b2
+      internalID: 680817204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_281
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 0
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f5a7d4af202434398efec17abd113f
+      internalID: -2073180958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_282
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 0
+        width: 64
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f176f8a0a74ced2408e8834f69460bca
+      internalID: -1473579449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_283
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 0
+        width: 34
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b62bbf10c157b41bc0f5982be3bb9a
+      internalID: 1048683717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_284
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 0
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d07f0c32261916458e2a1f323d442e9
+      internalID: -49886307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_285
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 0
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0db2c3140108c41b4c3d3cefcbfe97
+      internalID: -764464747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_286
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 0
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9610029f14ccd549bf2c48cf28935d1
+      internalID: -938410397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_287
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 0
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756d4feedd98e2b44ab4951a85822ac7
+      internalID: 646216458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_288
+      rect:
+        serializedVersion: 2
+        x: 3347
+        y: 0
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc576e5b1778b4439a0183523149f83
+      internalID: 1097541849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_289
+      rect:
+        serializedVersion: 2
+        x: 3354
+        y: 0
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd79384c0816f040be3688cd04955b2
+      internalID: -1717436914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_290
+      rect:
+        serializedVersion: 2
+        x: 3431
+        y: 0
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23aa9ac42cb4944ba5447017c665481
+      internalID: 283961015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IzerPunch_291
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 0
+        width: 54
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4682fe6f6d1ffa54eab2143921bc60f6
+      internalID: 1410025462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1: -109840903
+      2: -418143411
+      3: -2037953455
+      4: -249233505
+      IzerPunch_0: 992367222
+      IzerPunch_10: 2118359846
+      IzerPunch_100: 1354299088
+      IzerPunch_101: 753870957
+      IzerPunch_102: 518168207
+      IzerPunch_103: -1797145432
+      IzerPunch_104: 122335413
+      IzerPunch_105: 1262518144
+      IzerPunch_106: 1129536447
+      IzerPunch_107: -1071549986
+      IzerPunch_108: 258311530
+      IzerPunch_109: -1425876916
+      IzerPunch_11: -302377501
+      IzerPunch_110: 1689621985
+      IzerPunch_111: -766919449
+      IzerPunch_112: 1632659386
+      IzerPunch_113: 277901168
+      IzerPunch_114: 1253101587
+      IzerPunch_115: 466896152
+      IzerPunch_116: -1592325596
+      IzerPunch_117: 417254887
+      IzerPunch_118: -1761256349
+      IzerPunch_119: -1507702762
+      IzerPunch_12: 1728093295
+      IzerPunch_120: -546729690
+      IzerPunch_121: 977721293
+      IzerPunch_122: 1821454123
+      IzerPunch_123: 1499138240
+      IzerPunch_124: -1226389762
+      IzerPunch_125: 2135997160
+      IzerPunch_126: -1891530098
+      IzerPunch_127: -1379141951
+      IzerPunch_128: 1556027296
+      IzerPunch_129: -265769596
+      IzerPunch_13: -621831678
+      IzerPunch_130: 1819180506
+      IzerPunch_131: -1330744823
+      IzerPunch_132: 1523003404
+      IzerPunch_133: -409142168
+      IzerPunch_134: -1499649126
+      IzerPunch_135: -214588899
+      IzerPunch_136: -519987110
+      IzerPunch_137: -185452685
+      IzerPunch_138: -2026778437
+      IzerPunch_139: -400193554
+      IzerPunch_14: 1139822313
+      IzerPunch_140: 807373692
+      IzerPunch_141: 434239019
+      IzerPunch_142: -615168480
+      IzerPunch_143: -919954411
+      IzerPunch_144: 837978015
+      IzerPunch_145: 1500767389
+      IzerPunch_146: 1025068939
+      IzerPunch_147: -1195107873
+      IzerPunch_148: 385957861
+      IzerPunch_149: -395954357
+      IzerPunch_15: 274788216
+      IzerPunch_150: 730374056
+      IzerPunch_151: 1370184131
+      IzerPunch_152: -973599374
+      IzerPunch_153: 744299616
+      IzerPunch_154: -887511833
+      IzerPunch_155: 935002941
+      IzerPunch_156: -88014935
+      IzerPunch_157: 1673508193
+      IzerPunch_158: 346627342
+      IzerPunch_159: 1105398558
+      IzerPunch_16: 316856971
+      IzerPunch_160: -1435815331
+      IzerPunch_161: 446340595
+      IzerPunch_162: -943578090
+      IzerPunch_163: 1575528906
+      IzerPunch_164: 1519075732
+      IzerPunch_165: -612761025
+      IzerPunch_166: -1214903432
+      IzerPunch_167: -750370630
+      IzerPunch_168: -756925069
+      IzerPunch_169: 462515828
+      IzerPunch_17: -1287186214
+      IzerPunch_170: -106865163
+      IzerPunch_171: 150171745
+      IzerPunch_172: -1658268293
+      IzerPunch_173: -2055342958
+      IzerPunch_174: -186378849
+      IzerPunch_175: 2066624344
+      IzerPunch_176: -124138784
+      IzerPunch_177: 1306054436
+      IzerPunch_178: -1922173490
+      IzerPunch_179: 1429644231
+      IzerPunch_18: 1043703497
+      IzerPunch_180: 720599054
+      IzerPunch_181: 1300572943
+      IzerPunch_182: -266082559
+      IzerPunch_183: -1111475648
+      IzerPunch_184: 1177042560
+      IzerPunch_185: -1987647049
+      IzerPunch_186: -1685117082
+      IzerPunch_187: 372704827
+      IzerPunch_188: -2041473582
+      IzerPunch_189: -743412319
+      IzerPunch_19: 1871645099
+      IzerPunch_190: -957839171
+      IzerPunch_191: 400393940
+      IzerPunch_192: -752316330
+      IzerPunch_193: 1324651312
+      IzerPunch_194: -1068157166
+      IzerPunch_195: -1731435030
+      IzerPunch_196: 1361634576
+      IzerPunch_197: 238459427
+      IzerPunch_198: -916838179
+      IzerPunch_199: -756625413
+      IzerPunch_2: -1116265404
+      IzerPunch_20: 1757435982
+      IzerPunch_200: -1748161010
+      IzerPunch_201: -552002489
+      IzerPunch_202: 1526935780
+      IzerPunch_203: 28884353
+      IzerPunch_204: 8486630
+      IzerPunch_205: 743933470
+      IzerPunch_206: 297671053
+      IzerPunch_207: 582969971
+      IzerPunch_208: 1912070162
+      IzerPunch_209: 476802909
+      IzerPunch_21: 1622758765
+      IzerPunch_210: -1599603754
+      IzerPunch_211: -350436732
+      IzerPunch_212: 1886895281
+      IzerPunch_213: -1878450752
+      IzerPunch_214: -1678159866
+      IzerPunch_215: 363835032
+      IzerPunch_216: 377934544
+      IzerPunch_217: 1597137153
+      IzerPunch_218: -1790904212
+      IzerPunch_219: -63249134
+      IzerPunch_22: 1841165846
+      IzerPunch_220: 1829458908
+      IzerPunch_221: -51934677
+      IzerPunch_222: 1498409022
+      IzerPunch_223: 799233274
+      IzerPunch_224: -286982136
+      IzerPunch_225: 1983308180
+      IzerPunch_226: 2113893221
+      IzerPunch_227: 2029973131
+      IzerPunch_228: 1462630346
+      IzerPunch_229: -1139884752
+      IzerPunch_23: 1195186712
+      IzerPunch_230: 1142438973
+      IzerPunch_231: -1572836707
+      IzerPunch_232: 1991212116
+      IzerPunch_233: -744631893
+      IzerPunch_234: 1760655876
+      IzerPunch_235: 268268904
+      IzerPunch_236: -621937213
+      IzerPunch_237: 1280321013
+      IzerPunch_238: -361570326
+      IzerPunch_239: 1200761554
+      IzerPunch_24: -1948047858
+      IzerPunch_240: 1483818442
+      IzerPunch_241: -735660993
+      IzerPunch_242: -1104016273
+      IzerPunch_243: -104893925
+      IzerPunch_244: -1631947367
+      IzerPunch_245: -978418928
+      IzerPunch_246: -1409931234
+      IzerPunch_247: -115438220
+      IzerPunch_248: 1705767747
+      IzerPunch_249: -471200872
+      IzerPunch_25: 660831569
+      IzerPunch_250: -792841418
+      IzerPunch_251: -1819954554
+      IzerPunch_252: 2116316049
+      IzerPunch_253: -1404083484
+      IzerPunch_254: 1626740469
+      IzerPunch_255: -1977664398
+      IzerPunch_256: -2013751188
+      IzerPunch_257: 980998081
+      IzerPunch_258: 1219805821
+      IzerPunch_259: 573273321
+      IzerPunch_26: 27202348
+      IzerPunch_260: -454012578
+      IzerPunch_261: 1859348640
+      IzerPunch_262: -232918499
+      IzerPunch_263: -1905414879
+      IzerPunch_264: 673327786
+      IzerPunch_265: 554806787
+      IzerPunch_266: -1537548139
+      IzerPunch_267: 1166213969
+      IzerPunch_268: 674819857
+      IzerPunch_269: 1617918307
+      IzerPunch_27: -603799006
+      IzerPunch_270: -982357063
+      IzerPunch_271: 1868496342
+      IzerPunch_272: 1620551035
+      IzerPunch_273: 1180741428
+      IzerPunch_274: -1461558380
+      IzerPunch_275: -148847770
+      IzerPunch_276: 1477105866
+      IzerPunch_277: -1943930294
+      IzerPunch_278: -774707832
+      IzerPunch_279: -1333907009
+      IzerPunch_28: 2055711563
+      IzerPunch_280: 680817204
+      IzerPunch_281: -2073180958
+      IzerPunch_282: -1473579449
+      IzerPunch_283: 1048683717
+      IzerPunch_284: -49886307
+      IzerPunch_285: -764464747
+      IzerPunch_286: -938410397
+      IzerPunch_287: 646216458
+      IzerPunch_288: 1097541849
+      IzerPunch_289: -1717436914
+      IzerPunch_29: -1336751450
+      IzerPunch_290: 283961015
+      IzerPunch_291: 1410025462
+      IzerPunch_3: -1161333369
+      IzerPunch_30: 256332514
+      IzerPunch_31: 1738777731
+      IzerPunch_32: 2115664110
+      IzerPunch_33: -106592084
+      IzerPunch_34: 1320827846
+      IzerPunch_35: 378423326
+      IzerPunch_36: -965739293
+      IzerPunch_37: 1913987137
+      IzerPunch_38: -1623195481
+      IzerPunch_39: -1038938761
+      IzerPunch_4: 418928839
+      IzerPunch_40: -928477508
+      IzerPunch_41: -194395873
+      IzerPunch_42: 150629288
+      IzerPunch_43: 1161595
+      IzerPunch_44: 1323017566
+      IzerPunch_45: 2025245742
+      IzerPunch_46: 1749168363
+      IzerPunch_47: 2078601387
+      IzerPunch_48: -2137043194
+      IzerPunch_49: -1118664208
+      IzerPunch_5: -1837915572
+      IzerPunch_50: 806602798
+      IzerPunch_51: -1852421093
+      IzerPunch_52: 2077018235
+      IzerPunch_53: 1012873327
+      IzerPunch_54: -283014061
+      IzerPunch_55: -488839322
+      IzerPunch_56: -761830135
+      IzerPunch_57: 870430735
+      IzerPunch_58: 1725860217
+      IzerPunch_59: 1497243232
+      IzerPunch_6: -501243605
+      IzerPunch_60: -538848127
+      IzerPunch_61: 538491514
+      IzerPunch_62: 1121624106
+      IzerPunch_63: -493184573
+      IzerPunch_64: 1658681722
+      IzerPunch_65: 1896107197
+      IzerPunch_66: -657853297
+      IzerPunch_67: -1378051137
+      IzerPunch_68: -518011233
+      IzerPunch_69: 1745293411
+      IzerPunch_7: 2022653305
+      IzerPunch_70: -26122369
+      IzerPunch_71: -682596540
+      IzerPunch_72: -1305858711
+      IzerPunch_73: 1679247944
+      IzerPunch_74: 451648178
+      IzerPunch_75: -834343555
+      IzerPunch_76: 1172043243
+      IzerPunch_77: -19024268
+      IzerPunch_78: -876246174
+      IzerPunch_79: -237503946
+      IzerPunch_8: -1715072482
+      IzerPunch_80: -1362325555
+      IzerPunch_81: -526733155
+      IzerPunch_82: 1903407059
+      IzerPunch_83: 260925737
+      IzerPunch_84: 455441682
+      IzerPunch_85: 838539284
+      IzerPunch_86: -1367018596
+      IzerPunch_87: 162806766
+      IzerPunch_88: 731189317
+      IzerPunch_89: 1062789912
+      IzerPunch_9: -384706879
+      IzerPunch_90: -813665386
+      IzerPunch_91: 1667373086
+      IzerPunch_92: -590014712
+      IzerPunch_93: -631014359
+      IzerPunch_94: 1679656169
+      IzerPunch_95: -1068290942
+      IzerPunch_96: -591227601
+      IzerPunch_98: -1208760595
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
